@@ -1,0 +1,305 @@
+:root{
+    --colorWhite: #ffffff;
+    --colorBlack: #000000;
+    --colorBluePurple: #8c52ff;
+    --colorBlueGreenW: #00c826;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 120%;
+    transition: 500ms;
+}
+header {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+#background-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+img{
+    transition: 300ms;
+}
+img:hover{
+    transform: scale(1.12);
+}
+.domLineas{
+    padding-top: 2rem;
+    position: absolute;
+    background: linear-gradient(to bottom, rgb(203, 203, 203), white);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    font-size: 3rem;
+    display: none;
+}
+.sectionHeader1{
+    padding-top: 2rem;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Sombra negra */
+}
+.acctura{
+    font-size: 20rem;
+}
+a{
+    padding: 2rem;
+    text-decoration: none;
+    color: var(--colorWhite);
+    transition: 300ms;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+.lineas3{
+    height: 2.5rem;
+    position: absolute;
+    right: 2rem;
+    display: none;
+}
+.sectionHeader2{
+    margin-top: 30vh;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Sombra negra */
+}
+.sectionHeader2 h1{
+    font-size: 4rem;
+}
+.buttonContacto {
+    padding: 1.3em 3em;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: rgb(219, 219, 219);
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 2rem;
+    font-weight: bold;
+  }
+  
+  .buttonContacto:hover {
+    background-color: #1a1818;
+    box-shadow: 0px 15px 20px rgba(255, 255, 255, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  
+  .buttonContacto:active {
+    transform: translateY(-1px);
+  }
+
+.imgSections{
+    width: 18rem;
+    height: 28rem;
+    border-radius: 2rem;
+    object-fit: cover;
+}
+.saberM{
+    border-radius: 2rem;
+    padding: 1rem 2rem 1rem 2rem;
+    background: var(--colorBluePurple);
+    border: none;
+    margin: 2rem;
+    cursor: pointer;
+    transition: 300ms;
+    font-weight: 600;
+}
+.saberM:hover{
+    color: white;
+}
+
+.sectionMain1{
+    text-align: center;
+    padding: 3rem 0 3rem;
+}
+.parent1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    .parent1 img{
+        width: 15rem;
+        height: 20rem;
+        border-radius: 1rem;
+        object-fit: cover;
+    }    
+    .parent1 .div1 { grid-area: 1 / 1 / 2 / 2;}
+    .parent1 .div2 { grid-area: 1 / 2 / 2 / 3;}
+    .parent1 .div3 { grid-area: 1 / 3 / 2 / 4;}
+    .parent1 .div1,
+    .parent1 .div2,
+    .parent1 .div3{
+        display: flex; flex-direction: column; align-items: center;
+    }
+
+.sectionMain2,
+.sectionMain4{
+    background: var(--colorBlack);
+    color: white;
+}
+.sectionMain2,
+.sectionMain4,
+.sectionMain3,
+.sectionMain5{
+    padding: 3rem 0 3rem 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.gifs{
+    width: 25rem; 
+    height: 15rem;
+}
+
+footer{
+    padding: 2rem 0 2rem;
+    color: var(--colorWhite);
+    background-color: var(--colorBlack);
+    text-align: center;
+}
+
+/*Botón de WhatsApp*/
+.whatsappButton{
+    background-color: var(--colorBlueGreenW);
+    padding: 1rem 3rem 1rem 3rem;
+    border-radius: 2rem;
+    font-weight: bold;
+    color: var(--colorBlack
+    );
+    display:inline-flex;
+    cursor: pointer;
+    transition: 300ms;
+}
+.whatsappButton:hover{
+    transform: scale(1.13);
+}
+.iconWhatsapp{
+    height: 2rem;
+}
+.iconWhatsapp:hover{
+    transform: scale(1);
+}
+.textoWhatsapp{
+    padding: 0 1rem 0 1rem;
+}
+
+.sectionFooter2{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+.correoElectronico{
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.redesSociales{
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+.redesSociales a{
+    color: var(--colorWhite);
+}
+.redesSociales a:hover{
+    color: gray;
+}
+
+
+  /*MediaQueries*/
+@media (max-width: 1100px){
+    header a{
+        color:var(--colorBlack);
+    }
+    .sectionHeader2{
+        margin-top: 25vh;
+    }
+    .sectionHeader2 h1{
+        font-size: 2.5rem;
+    }
+    .sectionHeader2 h2{
+        font-size: 1.5rem;
+    }
+    .parent1 {
+        display: flex;
+        flex-direction: column;
+    }
+    .sectionHeader1 a{
+        display: none;
+    }
+    .lineas3{
+        display: block;
+    }
+    .sectionMain2,
+    .sectionMain4,
+    .sectionMain3,
+    .sectionMain5{
+    flex-direction: column;
+    }
+    
+    .domLineas{
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+    }
+    .inactive{
+        display: none;
+    }
+    .gifs{
+        width: 20rem; height: 12rem
+    }
+    h3, h4{
+        margin-left: 1.5rem;
+    }
+}
+@media (max-width: 700px){
+    .sectionFooter2{
+        display: flex;
+        flex-direction: column;
+        margin: 2rem 0 2rem;
+    }
+}
+@media (max-width: 400px){
+    header {
+        height:80vh;
+    }
+    .sectionHeader2{
+        margin-top: 20vh;
+    }
+    .sectionHeader2 h1{
+        font-size: 2rem;
+    }
+    .sectionHeader2 h2{
+        font-size: 1rem;
+    }
+    .domLineas{
+        font-size: 2rem;
+    }
+    .gifs{
+        width: 15rem; height: 8rem
+    }
+    
+}
+

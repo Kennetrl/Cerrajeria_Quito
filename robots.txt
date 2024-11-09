@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.cerrajeriaquito.site/sitemap.xml
+Sitemap: https://www.cerrajeriaquito.site/sitemapescaleras.xml
+Sitemap: https://www.cerrajeriaquito.site/sitemapotrosservicios.xml
+Sitemap: https://www.cerrajeriaquito.site/sitemappuertas.xml
+Sitemap: https://www.cerrajeriaquito.site/sitemapventanas.xml
