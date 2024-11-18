@@ -32,7 +32,13 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://www.cerrajeriaquito.site/otros</loc>
+      <loc>https://cerrajeriaquito.site/alucobond</loc>
+      <lastmod>2023-06-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+      <url>
+      <loc>https://cerrajeriaquito.site/remodelaciones</loc>
       <lastmod>2023-06-01</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
