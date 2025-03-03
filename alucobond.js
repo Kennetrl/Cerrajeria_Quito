@@ -12,10 +12,18 @@ productList.push({
     image: './alucobondImagenes/2alucobond.webp',
 });
 productList.push({
-    name: 'N2 - Fachada de Alucobond',
+    name: 'N3 - Fachada de Alucobond',
     image: './alucobondImagenes/3alucobond.webp',
 });
+productList.push({
+    name: 'N4 - Fachada de Alucobond',
+    image: './alucobondImagenes/4alucobond.webp',
+});
 
+productList.push({
+    name: 'N5 - Fachada de Alucobond',
+    image: './alucobondImagenes/5alucobond.webp',
+});
 
 
 
