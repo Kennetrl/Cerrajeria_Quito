@@ -5,72 +5,72 @@ const productList = [];
 //Lisa de los elementos
 productList.push({
     name: 'N1 - Ventana corrediza de aluminio',
-    price: 45,
+    price: 50,
     image: './ventanasImagenes/1ventana.webp',
 });
 productList.push({
     name: 'N2 - Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/2ventana.webp',
 });
 productList.push({
     name: 'N3 - Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/3ventana.webp',
 });
 productList.push({
     name: 'N4 - Ventana corrediza',
-    price: 45,
+    price: 50,
     image: './ventanasImagenes/4ventana.webp',
 });
 productList.push({
     name: 'N5 - Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/5ventana.webp',
 });
 productList.push({
     name: 'N6 - Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/6ventana.webp',
 });
 productList.push({
     name: 'N7-Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/7ventana.webp',
 });
 productList.push({
     name: 'N8 - Ventana corrediza con sistema ingles',
-    price: 55,
+    price: 60,
     image: './ventanasImagenes/8ventana.webp',
 });
 productList.push({
     name: 'N9 - Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/9ventana.webp',
 });
 productList.push({
     name: 'N10 - Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/10ventana.webp',
 });
 productList.push({
     name: 'N11 - Cubre-ventana',
-    price: 40,
+    price: 55,
     image: './ventanasImagenes/11ventana.webp',
 });
 productList.push({
     name: 'N12 - Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/12ventana.webp',
 });
 productList.push({
     name: 'N13 - Cubre-ventana',
-    price: 35,
+    price: 55,
     image: './ventanasImagenes/13ventana.webp',
 });
 productList.push({
     name: 'N14 - Ventana de aluminio color madera',
-    price: 65,
+    price: 70,
     image: './ventanasImagenes/16ventana.webp',
 });
 
