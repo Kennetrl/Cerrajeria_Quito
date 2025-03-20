@@ -185,11 +185,9 @@ footer{
 /*Botón de WhatsApp*/
 .whatsappButton{
     background-color: var(--colorBlueGreenW);
-    padding: 1rem 3rem 1rem 3rem;
     border-radius: 2rem;
     font-weight: bold;
-    color: var(--colorBlack
-    );
+    color: var(--colorBlack);
     display:inline-flex;
     cursor: pointer;
     transition: 300ms;
@@ -198,7 +196,8 @@ footer{
     transform: scale(1.13);
 }
 .iconWhatsapp{
-    height: 2rem;
+    margin-top: 8px;
+    height: 1.5rem;
 }
 .iconWhatsapp:hover{
     transform: scale(1);
