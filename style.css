@@ -195,13 +195,7 @@ footer{
 .whatsappButton:hover{
     transform: scale(1.13);
 }
-.iconWhatsapp{
-    margin-top: 8px;
-    height: 1.5rem;
-}
-.iconWhatsapp:hover{
-    transform: scale(1);
-}
+
 .textoWhatsapp{
     padding: 0 1rem 0 1rem;
 }

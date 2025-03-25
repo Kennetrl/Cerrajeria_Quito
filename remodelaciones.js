@@ -99,6 +99,7 @@ function renderProducts(arr){
         const productLink = document.createElement('a');
 
         productImgCart.setAttribute('src', './icons/whatsapp.webp');
+        productImgCart.setAttribute('alt', 'Contactar por WhatsApp');
         productLink.setAttribute('href', 'https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...');
         productLink.setAttribute('target', '_blank');
 

@@ -127,17 +127,13 @@ footer{
     background-color: var(--colorBlueGreenW);
     border-radius: 2rem;
     font-weight: bold;
-    color: var(--colorWhite);
+    color: var(--colorBlack);
     display:inline-flex;
     cursor: pointer;
     transition: 300ms;
 }
 .whatsappButton:hover{
     transform: scale(1.13);
-}
-.iconWhatsapp{
-    margin-top: 7px;
-    height: 1.5rem;
 }
 .textoWhatsapp{
     padding: 0 1rem 0 1rem;
