@@ -61,12 +61,12 @@ productList.push({
 });
 productList.push({
     name: 'N15 - Puerta mixta',
-    price: 240,
+    price: 290,
     image: './puertasImagenes/15puerta.webp',
 });
 productList.push({
     name: 'N16 - Puerta batiente de aluminio',
-    price: 250,
+    price: 280,
     image: './puertasImagenes/16puerta.webp',
 });
 productList.push({
@@ -131,7 +131,7 @@ productList.push({
 });
 productList.push({
     name: 'N37 - Puerta mixta',
-    price: 240,
+    price: 290,
     image: './puertasImagenes/37puerta.webp',
 });
 productList.push({
@@ -175,26 +175,26 @@ productList.push({
 
 
 //Función para mostrar las lista
-function renderProducts(arr){
-    for (product of arr){
+function renderProducts(arr) {
+    for (product of arr) {
         const productCard = document.createElement('div');
         productCard.classList.add('product-card');
-                
+
         const productImg = document.createElement('img');
         productImg.setAttribute('src', product.image);
         productImg.setAttribute('alt', product.name);
-                
+
         const productInfo = document.createElement('div');
         productInfo.classList.add('product-info');
-                
+
         const productInfoDiv = document.createElement('div');
-                
+
         const productPrice = document.createElement('p');
         productPrice.innerText = '$' + product.price;
-                
+
         const productName = document.createElement('p');
         productName.innerText = product.name;
-                
+
         productInfoDiv.appendChild(productPrice);
         productInfoDiv.appendChild(productName);
 
@@ -207,10 +207,10 @@ function renderProducts(arr){
         productLink.setAttribute('href', 'https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...');
         productLink.setAttribute('target', '_blank');
 
-    
+
         productInfoFigure.appendChild(productImgCart);
-        
-                
+
+
         productInfo.appendChild(productInfoDiv);
         productInfo.appendChild(productLink);
         productLink.appendChild(productInfoFigure);
@@ -218,9 +218,9 @@ function renderProducts(arr){
 
         productCard.appendChild(productImg);
         productCard.appendChild(productInfo);
-        
-         cardsContainers.appendChild(productCard);
-    
+
+        cardsContainers.appendChild(productCard);
+
     }
 }
 renderProducts(productList);

@@ -5,7 +5,7 @@ const productList = [];
 //Lisa de los elementos
 productList.push({
     name: 'N1 - Ventana corrediza de aluminio',
-    price: 50,
+    price: 60,
     image: './ventanasImagenes/1ventana.webp',
 });
 productList.push({
@@ -20,7 +20,7 @@ productList.push({
 });
 productList.push({
     name: 'N4 - Ventana corrediza',
-    price: 50,
+    price: 60,
     image: './ventanasImagenes/4ventana.webp',
 });
 productList.push({
@@ -40,7 +40,7 @@ productList.push({
 });
 productList.push({
     name: 'N8 - Ventana corrediza con sistema ingles',
-    price: 60,
+    price: 65,
     image: './ventanasImagenes/8ventana.webp',
 });
 productList.push({
@@ -70,7 +70,7 @@ productList.push({
 });
 productList.push({
     name: 'N14 - Ventana de aluminio color madera',
-    price: 70,
+    price: 75,
     image: './ventanasImagenes/16ventana.webp',
 });
 
@@ -78,26 +78,26 @@ productList.push({
 
 
 //Función para mostrar las lista
-function renderProducts(arr){
-    for (product of arr){
+function renderProducts(arr) {
+    for (product of arr) {
         const productCard = document.createElement('div');
         productCard.classList.add('product-card');
-                
+
         const productImg = document.createElement('img');
         productImg.setAttribute('src', product.image);
         productImg.setAttribute('alt', product.name);
-                
+
         const productInfo = document.createElement('div');
         productInfo.classList.add('product-info');
-                
+
         const productInfoDiv = document.createElement('div');
-                
+
         const productPrice = document.createElement('p');
         productPrice.innerText = '$' + product.price;
-                
+
         const productName = document.createElement('p');
         productName.innerText = product.name;
-                
+
         productInfoDiv.appendChild(productPrice);
         productInfoDiv.appendChild(productName);
 
@@ -109,10 +109,10 @@ function renderProducts(arr){
         productImgCart.setAttribute('alt', 'Contactar por WhatsApp');
         productLink.setAttribute('href', 'https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...');
         productLink.setAttribute('target', '_blank');
-    
+
         productInfoFigure.appendChild(productImgCart);
-        
-                
+
+
         productInfo.appendChild(productInfoDiv);
         productInfo.appendChild(productLink);
         productLink.appendChild(productInfoFigure);
@@ -120,9 +120,9 @@ function renderProducts(arr){
 
         productCard.appendChild(productImg);
         productCard.appendChild(productInfo);
-        
+
         cardsContainers.appendChild(productCard);
-    
+
     }
 }
 renderProducts(productList);
