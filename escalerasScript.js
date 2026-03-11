@@ -10,7 +10,7 @@ productList.push({
 });
 productList.push({
     name: 'N2 - Gradas metálicas con pasamanos',
-    price: 600,
+    price: 850,
     image: './escalerasImagenes/2Escalera.webp',
 });
 productList.push({
