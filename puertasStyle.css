@@ -337,6 +337,11 @@ footer {
         color: var(--colorWhite);
         transition: 300ms;
     }
+
+    .logo-navbar {
+        margin-top: 3rem;
+        padding-top: 2rem;
+    }
 }
 
 @media (max-width: 700px) {
