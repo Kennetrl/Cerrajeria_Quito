@@ -5,7 +5,7 @@ const productList = [];
 //Lisa de los elementos
 productList.push({
     name: 'N1 - Escalera caracol',
-    price: 800,
+    price: 950,
     image: './escalerasImagenes/1Escalera.webp',
 });
 productList.push({
@@ -25,7 +25,7 @@ productList.push({
 });
 productList.push({
     name: 'N7 - Pasamanos de hierro',
-    price: 55,
+    price: 60,
     image: './escalerasImagenes/3Pasamanos.webp',
 });
 productList.push({
@@ -35,12 +35,12 @@ productList.push({
 });
 productList.push({
     name: 'N9 - Pasamanos de hierro',
-    price: 55,
+    price: 60,
     image: './escalerasImagenes/5Pasamanos.webp',
 });
 productList.push({
     name: 'N10 - Pasamanos de hierro',
-    price: 55,
+    price: 60,
     image: './escalerasImagenes/6Pasamanos.webp',
 });
 productList.push({
@@ -50,7 +50,7 @@ productList.push({
 });
 productList.push({
     name: 'N13 - Pasamanos de hierro',
-    price: 55,
+    price: 60,
     image: './escalerasImagenes/9Pasamanos.webp',
 });
 
@@ -61,12 +61,12 @@ productList.push({
 });
 productList.push({
     name: 'N15 - Pasamanos de hierro',
-    price: 55,
+    price: 60,
     image: './escalerasImagenes/13Pasamanos.webp',
 });
 productList.push({
     name: 'N16 - Pasamanos de hierro',
-    price: 55,
+    price: 60,
     image: './escalerasImagenes/15Pasamanos.webp',
 });
 productList.push({
@@ -80,9 +80,9 @@ productList.push({
     image: './escalerasImagenes/19Pasamanos.webp',
 });
 productList.push({
-    name: 'N20 - Pasamanos hierro',
-    price: 55,
-    image: './escalerasImagenes/20Pasamanos.webp',
+    name: 'N21 - Pasamanos de hierro con gradas metálicas',
+    price: 950,
+    image: './escalerasImagenes/21Pasamanos.webp',
 });
 
 

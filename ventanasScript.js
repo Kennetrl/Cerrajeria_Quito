@@ -3,11 +3,7 @@ const cardsContainers = document.querySelector('.cards-container');
 const productList = [];
 
 //Lisa de los elementos
-productList.push({
-    name: 'N1 - Ventana corrediza de aluminio',
-    price: 60,
-    image: './ventanasImagenes/1ventana.webp',
-});
+
 productList.push({
     name: 'N2 - Cubre-ventana',
     price: 55,
@@ -18,11 +14,7 @@ productList.push({
     price: 55,
     image: './ventanasImagenes/3ventana.webp',
 });
-productList.push({
-    name: 'N4 - Ventana corrediza',
-    price: 60,
-    image: './ventanasImagenes/4ventana.webp',
-});
+
 productList.push({
     name: 'N5 - Cubre-ventana',
     price: 55,
@@ -37,11 +29,6 @@ productList.push({
     name: 'N7-Cubre-ventana',
     price: 55,
     image: './ventanasImagenes/7ventana.webp',
-});
-productList.push({
-    name: 'N8 - Ventana corrediza con sistema ingles',
-    price: 65,
-    image: './ventanasImagenes/8ventana.webp',
 });
 productList.push({
     name: 'N9 - Cubre-ventana',
@@ -67,11 +54,6 @@ productList.push({
     name: 'N13 - Cubre-ventana',
     price: 55,
     image: './ventanasImagenes/13ventana.webp',
-});
-productList.push({
-    name: 'N14 - Ventana de aluminio color madera',
-    price: 75,
-    image: './ventanasImagenes/16ventana.webp',
 });
 
 

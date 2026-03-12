@@ -4,38 +4,28 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'N1 - Puerta con tol perforado',
-    price: 250,
+    name: 'N1 - Puerta con tool perforado',
+    price: 300,
     image: './puertasImagenes/1puerta.webp',
 });
 productList.push({
-    name: 'N2 - Puerta con tol galvanizado',
-    price: 250,
+    name: 'N2 - Puerta forjada',
+    price: 450,
     image: './puertasImagenes/2puerta.webp',
 });
 productList.push({
     name: 'N3 - Puerta de Garage',
-    price: 550,
+    price: 1200,
     image: './puertasImagenes/3puerta.webp',
 });
 productList.push({
-    name: 'N4 - Puerta de tol',
-    price: 250,
-    image: './puertasImagenes/4puerta.webp',
-});
-productList.push({
-    name: 'N5 - Puerta de tol',
+    name: 'N5 - Puerta de tool',
     price: 250,
     image: './puertasImagenes/5puerta.webp',
 });
 productList.push({
-    name: 'N6 - Puerta corrediza de aluminio sencilla',
-    price: 250,
-    image: './puertasImagenes/6puerta.webp',
-});
-productList.push({
-    name: 'N7 - Puerta de garage con alucobond',
-    price: 550,
+    name: 'N7 - Puerta de tool tamborada',
+    price: 380,
     image: './puertasImagenes/7puerta.webp',
 });
 productList.push({
@@ -45,18 +35,18 @@ productList.push({
 });
 
 productList.push({
-    name: 'N11 - Puerta de tol',
+    name: 'N11 - Puerta de tool',
     price: 250,
     image: './puertasImagenes/11puerta.webp',
 });
 productList.push({
-    name: 'N12 - Puerta batiente',
-    price: 220,
+    name: 'N12 - Puerta forjada',
+    price: 1200,
     image: './puertasImagenes/12puerta.webp',
 });
 productList.push({
     name: 'N14 - Puerta de Garage',
-    price: 500,
+    price: 750,
     image: './puertasImagenes/14puerta.webp',
 });
 productList.push({
@@ -65,22 +55,17 @@ productList.push({
     image: './puertasImagenes/15puerta.webp',
 });
 productList.push({
-    name: 'N16 - Puerta batiente de aluminio',
-    price: 280,
-    image: './puertasImagenes/16puerta.webp',
-});
-productList.push({
-    name: 'N17 - Puerta de garage',
-    price: 550,
+    name: 'N17 - Puerta de hierro peatonal',
+    price: 250,
     image: './puertasImagenes/17puerta.webp',
 });
 productList.push({
     name: 'N22 - Puerta de garage',
-    price: 650,
+    price: 800,
     image: './puertasImagenes/22puerta.webp',
 });
 productList.push({
-    name: 'N25 - Puerta de tol',
+    name: 'N25 - Puerta de tool',
     price: 250,
     image: './puertasImagenes/25puerta.webp',
 });
@@ -90,22 +75,22 @@ productList.push({
     image: './puertasImagenes/28puerta.webp',
 });
 productList.push({
-    name: 'N29 - Puerta de tol',
+    name: 'N29 - Puerta de tool',
     price: 250,
     image: './puertasImagenes/29puerta.webp',
 });
 productList.push({
-    name: 'N30 - Puerta de tol',
+    name: 'N30 - Puerta de tool',
     price: 250,
     image: './puertasImagenes/30puerta.webp',
 });
 productList.push({
-    name: 'N31 - Puerta de tol',
+    name: 'N31 - Puerta de tool',
     price: 250,
     image: './puertasImagenes/31puerta.webp',
 });
 productList.push({
-    name: 'N32 - Puerta de tol',
+    name: 'N32 - Puerta de tool',
     price: 250,
     image: './puertasImagenes/32puerta.webp',
 });
@@ -116,12 +101,12 @@ productList.push({
 });
 productList.push({
     name: 'N34 - Puerta de garage',
-    price: 600,
+    price: 800,
     image: './puertasImagenes/34puerta.webp',
 });
 productList.push({
     name: 'N35 - Puerta de garage',
-    price: 600,
+    price: 800,
     image: './puertasImagenes/35puerta.webp',
 });
 productList.push({
@@ -135,7 +120,7 @@ productList.push({
     image: './puertasImagenes/37puerta.webp',
 });
 productList.push({
-    name: 'N38 - Puerta tamborada de tol',
+    name: 'N38 - Puerta tamborada de tool',
     price: 350,
     image: './puertasImagenes/38puerta.webp',
 });
@@ -151,7 +136,7 @@ productList.push({
 });
 productList.push({
     name: 'N43 - Puerta de Vidrio Templado',
-    price: 480,
+    price: 550,
     image: './puertasImagenes/43puerta.webp',
 });
 productList.push({
@@ -160,19 +145,41 @@ productList.push({
     image: './puertasImagenes/44puerta.webp',
 });
 productList.push({
-    name: 'N47 - Puerta metálica tamborada o blindada',
+    name: 'N47 - Puerta metálica tamborada',
     price: 350,
     image: './puertasImagenes/47puerta.webp',
 });
 productList.push({
     name: 'N48 - Puerta metálica de garaje tipo madera',
-    price: 600,
+    price: 800,
     image: './puertasImagenes/48puerta.webp',
 });
 
-
-
-
+productList.push({
+    name: 'N49 - Puerta metálicade garage',
+    price: 800,
+    image: './puertasImagenes/49puerta.webp',
+});
+productList.push({
+    name: 'N50 - Puerta mixta',
+    price: 290,
+    image: './puertasImagenes/50puerta.webp',
+});
+productList.push({
+    name: 'N51 - Puerta tamborada',
+    price: 350,
+    image: './puertasImagenes/51puerta.webp',
+});
+productList.push({
+    name: 'N52 - Puerta tamborada',
+    price: 350,
+    image: './puertasImagenes/52puerta.webp',
+});
+productList.push({
+    name: 'N53 - Puerta de Garage con hierro forjado',
+    price: 3000,
+    image: './puertasImagenes/53puerta.webp',
+});
 
 //Función para mostrar las lista
 function renderProducts(arr) {
