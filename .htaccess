@@ -3,6 +3,11 @@
 
 RewriteEngine On
 
+# Forzar HTTPS y versión sin www (canónica) con redirección 301
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ https://cerrajeriaquito.site%{REQUEST_URI} [L,R=301]
+
 # Redirige "/" a tu página principal
 RewriteRule ^$ /index.html [L]
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.cerrajeriaquito.site/sitemap.xml
+Sitemap: https://cerrajeriaquito.site/sitemap.xml
