@@ -18,7 +18,7 @@
         "url": "https://cerrajeriaquito.site/alucobond"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "en",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 1,
@@ -339,10 +339,10 @@
         "./logopag.webp"
       ],
       "wordCount": 662,
-      "bytes": 21387,
+      "bytes": 21390,
       "url": "https://cerrajeriaquito.site/alucobond",
       "file": "alucobond.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "contacto.html",
@@ -358,7 +358,7 @@
         "url": "https://cerrajeriaquito.site/contacto"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "es",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 1,
@@ -691,38 +691,38 @@
         "./logopag.webp"
       ],
       "wordCount": 182,
-      "bytes": 12489,
+      "bytes": 12492,
       "url": "https://cerrajeriaquito.site/contacto",
       "file": "contacto.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "escaleras.html",
-      "title": "Fabricación y Mantenimiento de Escaleras Metálicas y Pasamanos de Acero Inoxidable elegante en Ecuador",
-      "description": "Escaleras metálicas y pasamanos de acero inoxidable en Quito | Durabilidad, calidad y elegancia | Fabricamos y mantenemos escaleras y pasamanos seguros y elegantes para tu hogar o negocio. ¡Confía en nuestra experiencia!",
-      "keywords": "escaleras, hierro, acero, pasamanos de acero inoxidable, Quito, Ecuador",
+      "title": "Gradas y Escaleras Metálicas en Quito | Pasamanos a Medida",
+      "description": "Fabricamos gradas y escaleras metálicas en Quito, con pasamanos de acero inoxidable o hierro. Rectas, en espiral y flotantes, medidas en obra sin costo.",
+      "keywords": "gradas metálicas, escaleras metálicas, hierro, acero, pasamanos de acero inoxidable, Quito, Ecuador",
       "robots": "index, follow",
       "canonical": "https://cerrajeriaquito.site/escaleras",
       "og": {
-        "title": "Escaleras Metálicas | Pasamanos de Acero Inoxidable | QUITO - ECUADOR",
-        "description": "Escaleras metálicas y pasamanos de acero inoxidable en Quito | Durabilidad, calidad y elegancia | Fabricamos y mantenemos escaleras y pasamanos seguros y elegantes para tu hogar o negocio. ¡Confía en nuestra experiencia!",
+        "title": "Gradas y Escaleras Metálicas en Quito | Pasamanos a Medida",
+        "description": "Fabricamos gradas y escaleras metálicas en Quito, con pasamanos de acero inoxidable o hierro. Rectas, en espiral y flotantes, medidas en obra sin costo.",
         "image": null,
         "url": "https://cerrajeriaquito.site/escaleras"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "en",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 2,
-          "text": "Escaleras y Pasamanos"
+          "text": "Gradas, escaleras y pasamanos"
         },
         {
           "level": 1,
-          "text": "Pasamanos de acero inoxidable Quito - precios"
+          "text": "Gradas y Escaleras Metálicas en Quito"
         },
         {
           "level": 2,
-          "text": "Escaleras Metálicas y Pasamanos de Acero Inoxidable en Quito"
+          "text": "Gradas y escaleras metálicas en Quito"
         },
         {
           "level": 2,
@@ -734,7 +734,7 @@
         }
       ],
       "h1": [
-        "Pasamanos de acero inoxidable Quito - precios"
+        "Gradas y Escaleras Metálicas en Quito"
       ],
       "jsonld": [
         {
@@ -950,11 +950,11 @@
       "icons": [
         "./logopag.webp"
       ],
-      "wordCount": 229,
-      "bytes": 10731,
+      "wordCount": 266,
+      "bytes": 10846,
       "url": "https://cerrajeriaquito.site/escaleras",
       "file": "escaleras.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "estructurasMetalicas.html",
@@ -970,7 +970,7 @@
         "url": "https://cerrajeriaquito.site/estructurasMetalicas"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "es",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 1,
@@ -1197,10 +1197,10 @@
         "./logopag.webp"
       ],
       "wordCount": 228,
-      "bytes": 10174,
+      "bytes": 10177,
       "url": "https://cerrajeriaquito.site/estructurasMetalicas",
       "file": "estructurasMetalicas.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "index.html",
@@ -1216,7 +1216,7 @@
         "url": "https://cerrajeriaquito.site/"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "es",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 1,
@@ -1584,10 +1584,10 @@
         "./logopag.webp"
       ],
       "wordCount": 259,
-      "bytes": 15394,
+      "bytes": 15397,
       "url": "https://cerrajeriaquito.site/",
       "file": "index.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "nosotros.html",
@@ -1603,7 +1603,7 @@
         "url": "https://cerrajeriaquito.site/nosotros"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "es",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 2,
@@ -1842,26 +1842,26 @@
         "./logopag.webp"
       ],
       "wordCount": 289,
-      "bytes": 11074,
+      "bytes": 11077,
       "url": "https://cerrajeriaquito.site/nosotros",
       "file": "nosotros.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "puertas.html",
-      "title": "Puertas de hierro, acero, tool a medida y elegante en Quito-Ecuador",
-      "description": "Fabricamos e instalamos puertas metálicas a medida en Quito: puertas de acero, hierro, tool, enrollables, batientes, corredizas y de garaje. Cotiza tu puerta por WhatsApp con medición en obra.",
+      "title": "Puertas Metálicas en Quito | Hierro, Acero y Tool a Medida",
+      "description": "Fabricamos puertas metálicas a medida en Quito: hierro, acero, tool, batientes, corredizas y enrollables. 22 años de taller propio y medición en obra.",
       "keywords": "puertas metálicas Quito, puertas de acero, puertas de hierro, puertas enrollables, puertas de garaje, cubre puertas, Ecuador",
       "robots": "index, follow",
       "canonical": "https://cerrajeriaquito.site/puertas",
       "og": {
-        "title": "Puertas Metálicas | Puertas de Acero | Puertas para Garage | CUBRE PUERTAS | QUITO - ECUADOR",
-        "description": "Fabricamos e instalamos puertas metálicas a medida en Quito: acero, hierro, tool, enrollables, batientes, corredizas y de garaje. Cotiza por WhatsApp con medición en obra.",
+        "title": "Puertas Metálicas en Quito | Hierro, Acero y Tool a Medida",
+        "description": "Fabricamos puertas metálicas a medida en Quito: hierro, acero, tool, batientes, corredizas y enrollables. 22 años de taller propio y medición en obra.",
         "image": null,
         "url": "https://cerrajeriaquito.site/puertas"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "es",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 2,
@@ -1869,11 +1869,27 @@
         },
         {
           "level": 1,
-          "text": "Puertas Metálicas Quito"
+          "text": "Puertas Metálicas en Quito"
         },
         {
           "level": 2,
           "text": "Puertas Metálicas a Medida en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Modelos de puertas metálicas"
+        },
+        {
+          "level": 2,
+          "text": "Puertas metálicas para casas: qué material conviene"
+        },
+        {
+          "level": 2,
+          "text": "De qué depende el precio de una puerta metálica"
+        },
+        {
+          "level": 2,
+          "text": "Trabajos relacionados"
         },
         {
           "level": 2,
@@ -1885,7 +1901,7 @@
         }
       ],
       "h1": [
-        "Puertas Metálicas Quito"
+        "Puertas Metálicas en Quito"
       ],
       "jsonld": [
         {
@@ -2086,6 +2102,18 @@
           "anchor": "puertas de garaje y portones"
         },
         {
+          "href": "./puertasGaraje",
+          "anchor": "puertas de garaje metálicas y portones"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "gradas y escaleras metálicas con pasamanos"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "ventanas y protectores de ventana"
+        },
+        {
           "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
           "anchor": "WHATSAPP"
         },
@@ -2099,19 +2127,17 @@
         }
       ],
       "stylesheets": [
-        "./puertasStyle.css",
         "./animaciones.css",
         "./puertasStyle.css"
       ],
       "icons": [
-        "./logopag.webp",
         "./logopag.webp"
       ],
-      "wordCount": 198,
-      "bytes": 10581,
+      "wordCount": 619,
+      "bytes": 14187,
       "url": "https://cerrajeriaquito.site/puertas",
       "file": "puertas.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "puertasGaraje.html",
@@ -2127,7 +2153,7 @@
         "url": "https://cerrajeriaquito.site/puertasGaraje"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "es",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 2,
@@ -2493,10 +2519,10 @@
         "./logopag.webp"
       ],
       "wordCount": 424,
-      "bytes": 16157,
+      "bytes": 16160,
       "url": "https://cerrajeriaquito.site/puertasGaraje",
       "file": "puertasGaraje.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "remodelaciones.html",
@@ -2512,7 +2538,7 @@
         "url": "https://cerrajeriaquito.site/remodelaciones"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "en",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 1,
@@ -2756,10 +2782,10 @@
         "./logopag.webp"
       ],
       "wordCount": 230,
-      "bytes": 10776,
+      "bytes": 10779,
       "url": "https://cerrajeriaquito.site/remodelaciones",
       "file": "remodelaciones.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     },
     {
       "source": "ventanas.html",
@@ -2775,7 +2801,7 @@
         "url": "https://cerrajeriaquito.site/ventanas"
       },
       "viewport": "width=device-width, initial-scale=1.0",
-      "lang": "en",
+      "lang": "es-EC",
       "headings": [
         {
           "level": 1,
@@ -3018,10 +3044,10 @@
         "./logopag.webp"
       ],
       "wordCount": 237,
-      "bytes": 10764,
+      "bytes": 10767,
       "url": "https://cerrajeriaquito.site/ventanas",
       "file": "ventanas.html",
-      "mtime": "2026-07-25"
+      "mtime": "2026-08-17"
     }
   ],
   "siteIssues": [

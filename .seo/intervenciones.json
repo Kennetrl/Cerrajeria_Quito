@@ -1,4 +1,55 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "msxdmrbe",
+      "date": "2026-08-17",
+      "url": "https://cerrajeriaquito.site/puertas",
+      "type": "title",
+      "track": "optimizacion",
+      "description": "PENDIENTE DE DEPLOY. Title reescrito con 'Puertas Metálicas' al inicio (1.889 imp era su query principal y no estaba)",
+      "before": "Puertas de hierro, acero, tool a medida y elegante en Quito-Ecuador",
+      "after": "Puertas Metálicas en Quito | Hierro, Acero y Tool a Medida"
+    },
+    {
+      "id": "msxdmre7",
+      "date": "2026-08-17",
+      "url": "https://cerrajeriaquito.site/puertas",
+      "type": "contenido",
+      "track": "optimizacion",
+      "description": "PENDIENTE DE DEPLOY. Contenido de 776 a ~3.400 caracteres: modelos, materiales, de qué depende el precio, enlaces internos a garaje/gradas/ventanas",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "msxdmrha",
+      "date": "2026-08-17",
+      "url": "https://cerrajeriaquito.site/escaleras",
+      "type": "title",
+      "track": "optimizacion",
+      "description": "PENDIENTE DE DEPLOY. Añadido el regionalismo 'gradas' al title (166 imp con 0 clics en pos 5,5)",
+      "before": "Fabricación y Mantenimiento de Escaleras Metálicas y Pasamanos de Acero Inoxidable elegante en Ecuador",
+      "after": "Gradas y Escaleras Metálicas en Quito | Pasamanos a Medida"
+    },
+    {
+      "id": "msxdmrk0",
+      "date": "2026-08-17",
+      "url": "https://cerrajeriaquito.site/escaleras",
+      "type": "encabezados",
+      "track": "optimizacion",
+      "description": "PENDIENTE DE DEPLOY. H1 pasa de 'Pasamanos de acero inoxidable Quito - precios' a 'Gradas y Escaleras Metálicas en Quito' + párrafo con el regionalismo",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "msxdmrmm",
+      "date": "2026-08-17",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "PENDIENTE DE DEPLOY. lang unificado a es-EC en las 10 páginas. Cuatro declaraban lang=en estando en español. Cambio uniforme en todo el sitio, tambien en el grupo de control",
+      "before": null,
+      "after": null
+    }
+  ]
 }

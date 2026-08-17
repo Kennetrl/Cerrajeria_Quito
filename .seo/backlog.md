@@ -25,11 +25,11 @@ ningún resultado. Empieza inspeccionando la URL en Search Console.
 
 | # | Qué | Dónde | Vía | Evidencia | Esfuerzo | Estado |
 |---|---|---|---|---|---|---|
-| 1 | Title y description sin «puertas metálicas», su query principal | `/puertas` | optimizacion | 12.556 imp · CTR 1,63% · pos 5,6 · ~442 clics de potencial | S | pendiente |
-| 2 | Añadir «gradas» al title, H1 y cuerpo. Regionalismo ecuatoriano: ya rankea 5,5 por «gradas metalicas» y 9,2 por «escaleras metalicas» | `/escaleras` | optimizacion | 166 imp «gradas metalicas» con 0 clics | S | pendiente |
+| 1 | Title y description sin «puertas metálicas», su query principal | `/puertas` | optimizacion | 12.556 imp · CTR 1,63% · pos 5,6 · ~442 clics de potencial | S | **hecho 17 ago** (sin desplegar) |
+| 2 | Añadir «gradas» al title, H1 y cuerpo. Regionalismo ecuatoriano: ya rankea 5,5 por «gradas metalicas» y 9,2 por «escaleras metalicas» | `/escaleras` | optimizacion | 166 imp «gradas metalicas» con 0 clics | S | **hecho 17 ago** (sin desplegar) |
 | 3 | **Página nueva de pasamanos de acero inoxidable** | `/pasamanos-acero-inoxidable` | contenido-nuevo | clúster ~1.267 imp/28d con 8 clics; posiciones dispersas 1,4–25,2 | M | pendiente |
 | 4 | **Página nueva para constructoras y obra**: estructuras, techos livianos, galpones. Margen alto declarado, y el mejor CTR del sitio (4,53%) con poco volumen — hay techo por explotar. Habla al avatar 2 | `/estructuras-obra` o reescribir `/estructurasMetalicas` | contenido-nuevo | 85 imp en queries de obra · `estructuras metalicas quito` 46 imp pos 8,6 | M | pendiente |
-| 5 | `lang="en"` en cuatro páginas escritas en español | `/escaleras` `/ventanas` `/alucobond` `/remodelaciones` | tecnico | Bug objetivo. Correlación con CTR bajo **no demostrada** (remodelaciones es `en` y tiene buen CTR) | XS | pendiente |
+| 5 | `lang="en"` en cuatro páginas escritas en español | todas | tecnico | Bug objetivo. Correlación con CTR bajo **no demostrada** (remodelaciones es `en` y tiene buen CTR) | XS | **hecho 17 ago** — unificado a `es-EC` en las 10 páginas (sin desplegar) |
 
 **Cambio de prioridad respecto a la primera versión de este backlog:** Kennet
 declaró el 17 ago que el margen está en **estructuras/obra, portones y pérgolas**,
@@ -63,7 +63,7 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 | 10 | `og:image` ausente en páginas internas | varias | tecnico | 2 de 3 revisadas | XS | pendiente |
 | 11 | `aggregateRating` autodeclarado con `reviewCount: 1`. Coincide con la única reseña real del GBP. Google no lo muestra para LocalBusiness y es zona de riesgo | `index.html` | tecnico | — | XS | pendiente |
 | 12 | Titles demasiado largos (el de `/escaleras` pasa de 100 caracteres y se corta en la SERP) | varias | optimizacion | — | S | pendiente |
-| 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` | tecnico | crawl | XS | pendiente |
+| 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` | tecnico | crawl | XS | **hecho en /puertas 17 ago**; /ventanas sigue (es control) |
 | 14 | Crear `/blog/` con su índice, para el carril de contenido informativo | nuevo | contenido-nuevo | — | M | pendiente |
 | 14b | **Página de pasamanos de hierro** (bajó de P1 al conocer los márgenes) | `/pasamanos-hierro` | contenido-nuevo | 203 imp · 5 clics · pos 7,0 | M | pendiente |
 | 14c | Contenido que sirva a la intención de precio **sin publicar cifras**: explicar de qué depende el coste (metro lineal, material, acabado, altura) | varias | contenido-nuevo | 771 imp de intención de precio, 179 queries | M | pendiente |
@@ -90,3 +90,25 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 | 19 | **Conseguir reseñas en el GBP.** Hay 1. Con 675 vistas/mes | Alto en el pack local, y no depende del código |
 | 20 | Fotos del GBP sin actualizar desde hace ~116 días | Medio |
 | 21 | Automatizar el deploy (hoy FTP manual) | El ciclo semanal no se cierra solo sin esto |
+
+---
+
+## Registro de la semana 1 — 17 ago 2026
+
+Aplicado en la rama `seo/fix-2026-08-17`. **Sin desplegar todavía.**
+
+Hallazgo que cierra el P0: `/puertasGaraje` **no es contenido duplicado**. Tiene
+2.340 caracteres de texto propio y cero frases compartidas con `/puertas` (que
+tiene 776). Está viva (HTTP 200), en el sitemap con `lastmod` 2026-07-25, enlazada
+desde el nav y desde el cuerpo de `/puertas` con buen anchor. Nació el 25 de julio
+y tres semanas después no tiene ni una impresión. **No es un problema de
+optimización: no está indexada.** La acción es solicitar indexación en Search
+Console — sólo Kennet puede hacerlo.
+
+Nota sobre pérgolas: `/remodelaciones` ya las menciona en su title, así que hay
+sitio para ellas sin crear página nueva. Confirma la decisión de la entrada 14d.
+
+Pendiente al cerrar: la fecha de las 5 intervenciones registradas dice 2026-08-17,
+pero **debe ser la fecha del deploy por FTP**. Corregirla en `intervenciones.json`
+en cuanto Kennet confirme, o la atribución de la próxima semanal medirá días en los
+que el cambio aún no estaba online.
