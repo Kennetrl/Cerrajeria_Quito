@@ -124,3 +124,43 @@ Mientras no lo decida, el contenido los trata como **precios de referencia por
 modelo**, que es lo único coherente con lo que el visitante ve. Si decide
 mantenerlos, la acción es la 14c (sacarlos al HTML + schema `Product`). Si decide
 retirarlos, hay que editar cuatro archivos `.js`, no sólo dejar de escribir cifras.
+
+## Dato clave para las páginas 3 y 4 (medido el 17 ago)
+
+**`/escaleras` es en realidad una página de pasamanos disfrazada.** De sus 16
+productos con precio, **13 son pasamanos** y sólo 3 son escaleras o gradas:
+
+| Tipo | Productos | Rango |
+|---|---|---|
+| Escaleras / gradas | 3 (N1 caracol, N2 gradas con pasamanos, N21 pasamanos con gradas) | $850 – $950 |
+| Pasamanos de acero inoxidable | 7 (N4, N6, N8 con vidrio templado, N12, N14, N18, N19) | $55 – $220 |
+| Pasamanos de hierro | 6 (N7, N9, N10, N13, N15, N16) | $60 |
+
+Esto confirma la canibalización desde el catálogo, no sólo desde el H1: la página
+que dice «escaleras» vende sobre todo pasamanos. Y da la división natural de las
+páginas nuevas **por material**, que es como busca el avatar 1:
+
+- `/pasamanos-acero-inoxidable` → los 7 productos inox ($55–$220, con la variante
+  de vidrio templado como gama alta). Clúster de ~1.267 imp.
+- `/pasamanos-hierro` → los 6 de hierro (todos a $60, precio de entrada claro).
+  203 imp, pos 7,0.
+- `/escaleras` se queda con los 3 de escaleras/gradas y **conserva una sección
+  corta de pasamanos que enlaza a las dos nuevas** (hub-and-spoke). No vaciarla
+  del todo: hoy rankea 10,2 por «pasamanos de acero inoxidable» y 7,0 por
+  «pasamanos de hierro», y las páginas nuevas nacen sin autoridad.
+
+Las fotos ya existen: 21 `*Pasamanos.webp` en `escalerasImagenes/`. No hay que
+mover archivos, sólo repartir los productos entre los scripts nuevos.
+
+**Decisión tomada sobre la página 4:** se hace `/pasamanos-hierro` y **no** una
+página nueva de obra. Motivo: las queries de obra suman 85 imp en 28 días y
+`/estructurasMetalicas` ya se las lleva con el mejor CTR del sitio (4,53%). Una
+página nueva compitiendo con ella sería autolesión. La obra se aborda **reescribiendo**
+`/estructurasMetalicas` para el avatar 2, como optimización, en la semana 2 — y
+entonces sale del grupo de control.
+
+Consecuencia estratégica que hay que decirle a Kennet: **sus servicios de margen
+alto no tienen demanda de búsqueda sin dueño.** Lo que está libre es pasamanos,
+que es de margen medio. Para crecer en estructuras y portones vía SEO habría que
+crear demanda (contenido de por qué), que es lento; el margen alto lo van a
+seguir trayendo la ficha de Google y los anuncios, no el orgánico.
