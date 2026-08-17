@@ -78,6 +78,14 @@ o dejar rutas absolutas desde la raíz.
 
 ## Enlazado interno
 
+**Toda sección de texto necesita `class="prosa"`.** La regla global `a` de
+`puertasStyle.css` está pensada para el nav y el footer oscuros: pinta los enlaces
+en blanco y les mete `padding: 2rem`, así que en un párrafo sobre fondo blanco
+quedan **invisibles** y descuadran la línea (además `a:hover` les cambia el
+tamaño de letra). La clase `.prosa`, añadida al final de `puertasStyle.css` el
+17 ago 2026, lo corrige sin tocar el nav. Las plantillas ya la llevan.
+
+
 - **Nav** (`<header>`): dos copias del menú, una para móvil (`.domLineas`) y otra
   para escritorio (`.sectionHeader1`). **Un servicio nuevo hay que añadirlo a las
   dos**, o aparece sólo en un tamaño de pantalla.

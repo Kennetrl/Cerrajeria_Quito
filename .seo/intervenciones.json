@@ -50,6 +50,16 @@
       "description": "PENDIENTE DE DEPLOY. lang unificado a es-EC en las 10 páginas. Cuatro declaraban lang=en estando en español. Cambio uniforme en todo el sitio, tambien en el grupo de control",
       "before": null,
       "after": null
+    },
+    {
+      "id": "msxdxa7b",
+      "date": "2026-08-17",
+      "url": "https://cerrajeriaquito.site/puertas",
+      "type": "enlace-interno",
+      "track": "tecnico",
+      "description": "PENDIENTE DE DEPLOY. Los enlaces de texto eran invisibles (regla global 'a' en blanco con padding 2rem, pensada para el nav oscuro). Clase .prosa en puertasStyle.css. Afectaba al enlace a /puertasGaraje que ya existía",
+      "before": null,
+      "after": null
     }
   ]
 }

@@ -373,3 +373,26 @@ footer {
         margin-left: 12%;
     }
 }
+/* --- Enlaces dentro del texto de contenido ---------------------------------
+   La regla global `a` de arriba está pensada para el nav y el footer oscuros:
+   pinta los enlaces en blanco y les mete 2rem de padding. En un párrafo sobre
+   fondo blanco eso los vuelve invisibles y descuadra la línea. Esta regla los
+   devuelve a la vida sólo dentro de .prosa, sin tocar el nav ni las tarjetas.
+   El color es el morado de la marca (--colorBluePurple) oscurecido para que
+   pase el contraste mínimo sobre blanco; el verde de la marca no llega. */
+.prosa a {
+    color: #6d3fd6;
+    padding: 0;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.prosa a:hover {
+    color: var(--colorBluePurple);
+    font-size: inherit;
+    text-decoration: underline;
+}
+
+.prosa a:visited {
+    color: #5b3aa8;
+}
