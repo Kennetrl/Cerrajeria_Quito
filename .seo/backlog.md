@@ -66,7 +66,7 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 | 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` | tecnico | crawl | XS | **hecho en /puertas 17 ago**; /ventanas sigue (es control) |
 | 14 | Crear `/blog/` con su índice, para el carril de contenido informativo | nuevo | contenido-nuevo | — | M | pendiente |
 | 14b | **Página de pasamanos de hierro** (bajó de P1 al conocer los márgenes) | `/pasamanos-hierro` | contenido-nuevo | 203 imp · 5 clics · pos 7,0 | M | pendiente |
-| 14c | Contenido que sirva a la intención de precio **sin publicar cifras**: explicar de qué depende el coste (metro lineal, material, acabado, altura) | varias | contenido-nuevo | 771 imp de intención de precio, 179 queries | M | pendiente |
+| 14c | **El catálogo de precios está en JS, invisible en el HTML.** 72 productos con precio en 4 páginas. Sacarlo al HTML y añadir schema `Product`/`Offer` abre resultados enriquecidos con precio | `/puertas` `/escaleras` `/ventanas` `/remodelaciones` | tecnico | 771 imp de intención de precio · $250–$3.000 en /puertas | M | pendiente — **depende de la decisión de Kennet** |
 | 14d | Sección de pérgolas **dentro** de la página de estructuras, no página propia | `/estructuras-obra` | contenido-nuevo | 5 imp en 28 días: margen alto sin demanda medible | S | pendiente |
 
 ## P3 — Investigar antes de actuar
@@ -112,3 +112,15 @@ Pendiente al cerrar: la fecha de las 5 intervenciones registradas dice 2026-08-1
 pero **debe ser la fecha del deploy por FTP**. Corregirla en `intervenciones.json`
 en cuanto Kennet confirme, o la atribución de la próxima semanal medirá días en los
 que el cambio aún no estaba online.
+
+## Decisión pendiente descubierta el 17 ago — precios
+
+Kennet dijo que no se publican precios. **La web publica 72**, inyectados por JS
+en `/puertas` (35, $250–$3.000), `/escaleras` (16, $55–$950), `/remodelaciones`
+(11) y `/ventanas` (10). Se descubrió al renderizar la página en el navegador; en
+el HTML no se ven.
+
+Mientras no lo decida, el contenido los trata como **precios de referencia por
+modelo**, que es lo único coherente con lo que el visitante ve. Si decide
+mantenerlos, la acción es la 14c (sacarlos al HTML + schema `Product`). Si decide
+retirarlos, hay que editar cuatro archivos `.js`, no sólo dejar de escribir cifras.

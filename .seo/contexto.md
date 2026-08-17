@@ -70,21 +70,36 @@ mucho margen y poca búsqueda no se ignora, pero tampoco lidera el plan.
 Las páginas de servicio hablan al particular; la sección técnica (por crear) habla
 a la obra. **No mezclar los dos tonos en la misma página.**
 
-## Precios
+## Precios — OJO, hay una contradicción sin resolver
 
-**No se publican precios ni rangos.** Todo va a «cotización gratis» y medición en
-obra.
+Kennet respondió el 17 ago que **no se publican precios**, sólo «cotización
+gratis». **Pero la web sí los publica**, y en cantidad. Verificado en el código
+ese mismo día:
 
-Coste asumido, dicho claro: hay **771 impresiones de intención de precio**
-(179 queries con «precio», «cuánto cuesta», «económico»). Esa gente va a comparar
-en páginas que sí muestran cifras. La contrapartida es libertad total al negociar,
-y con obra a medida es defendible.
+| Página | Productos con precio | Rango |
+|---|---|---|
+| `/puertas` | 35 | $250 – $3.000 |
+| `/escaleras` | 16 | $55 – $950 |
+| `/remodelaciones` | 11 | $18 – $75 |
+| `/ventanas` | 10 | $55 |
 
-Cómo se compensa en el contenido, sin dar cifras:
-- Explicar **de qué depende** el precio (metro lineal, material, acabado, altura)
-- Decir que la medición y la cotización son gratis, y en cuánto tiempo responde
-- Dar rangos **relativos** («el hierro con pintura electrostática sale bastante
-  por debajo del acero inoxidable»)
+Están en los `*Script.js` de cada página, que inyectan el catálogo en
+`.cards-container` con modelo (`N1`, `N2`…), foto, precio y botón de WhatsApp.
+No se ven leyendo el HTML, sólo con el navegador — por eso no salió antes.
+
+**Hasta que Kennet decida, manda lo que hace la web, no lo que dijo**: el
+contenido trata esos precios como **referencia por modelo en medidas corrientes**,
+y explica que el precio final sale de la medición en obra. Es lo único coherente
+con lo que el visitante está viendo en la misma pantalla.
+
+Lo que hay que preguntarle: si el catálogo con precios se queda (y entonces
+conviene sacarlo del JS al HTML y añadirle schema `Product`/`Offer`, que además
+abre la puerta a resultados enriquecidos con precio), o si se retira (y entonces
+hay que quitarlo de cuatro páginas, no sólo dejar de escribir cifras).
+
+Contexto de la decisión: hay **771 impresiones de intención de precio**
+(179 queries con «precio», «cuánto cuesta», «económico»). Esa demanda existe y
+hoy el catálogo ya la sirve.
 
 ## Cómo capta clientes hoy
 
