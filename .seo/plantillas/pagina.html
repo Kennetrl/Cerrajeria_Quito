@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es-EC">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{TITLE}}</title>
+    <meta name="description" content="{{DESCRIPTION}}">
+    <meta name="author" content="Cerrajería Acctura Quito">
+    <meta name="robots" content="index, follow">
+    <meta name="geo.region" content="EC-P">
+    <meta name="geo.placename" content="Quito">
+    <meta name="geo.position" content="-0.211332;-78.5220702">
+
+    <link rel="canonical" href="{{CANONICAL}}" />
+    <meta property="og:locale" content="es_EC" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{OG_TITLE}}" />
+    <meta property="og:description" content="{{DESCRIPTION}}" />
+    <meta property="og:url" content="{{CANONICAL}}" />
+    <meta property="og:site_name" content="Cerrajería Acctura Quito" />
+    <meta property="og:image" content="{{OG_IMAGE}}" />
+    <meta property="article:publisher" content="https://www.facebook.com/profile.php?id=100067007705024&locale=es_LA" />
+
+    <link rel="stylesheet" href="./animaciones.css">
+    <link rel="stylesheet" href="./puertasStyle.css">
+    <link rel="icon" href="./logopag.webp">
+
+    {{JSONLD}}
+</head>
+
+<!-- _analytics.html -->
+
+<body>
+
+<!-- _header.html -->
+
+    <main>
+        <section class="sectionMain1">
+            <h1>{{H1}}</h1>
+            <p class="bajada">{{BAJADA}}</p>
+        </section>
+
+        <section class="sectionMain2">
+            <div class="cards-container">
+                {{GALERIA}}
+            </div>
+        </section>
+
+        <section style="max-width: 900px; margin: 2rem auto; padding: 1rem 2rem; line-height: 1.6;">
+            {{CONTENIDO}}
+        </section>
+
+        <section style="max-width: 900px; margin: 2rem auto; padding: 1rem 2rem; line-height: 1.6;">
+            <h2>Preguntas frecuentes</h2>
+            {{FAQ}}
+        </section>
+
+        <section style="max-width: 900px; margin: 2rem auto; padding: 1rem 2rem; line-height: 1.6;">
+            <h2>Otros servicios</h2>
+            <p>{{ENLACES_INTERNOS}}</p>
+        </section>
+    </main>
+
+<!-- _footer.html -->
+
+    <script src="./script.js"></script>
+    {{SCRIPTS}}
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const whatsappLinks = document.querySelectorAll('a[href*="whatsapp"], a[href*="wa.me"], a[href*="api.whatsapp"]');
+
+      whatsappLinks.forEach(function(link) {
+        link.addEventListener("click", function() {
+          gtag('event', 'conversion', {
+            'send_to': 'AW-18009582131/-F5cCP-lt4ccELPU0YtD',
+            'value': 1.0,
+            'currency': 'USD'
+          });
+        });
+      });
+    });
+    </script>
+</body>
+
+</html>

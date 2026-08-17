@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es-EC">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{TITLE}}</title>
+    <meta name="description" content="{{DESCRIPTION}}">
+    <meta name="author" content="Cerrajería Acctura Quito">
+    <meta name="robots" content="index, follow">
+
+    <link rel="canonical" href="{{CANONICAL}}" />
+    <meta property="og:locale" content="es_EC" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{OG_TITLE}}" />
+    <meta property="og:description" content="{{DESCRIPTION}}" />
+    <meta property="og:url" content="{{CANONICAL}}" />
+    <meta property="og:site_name" content="Cerrajería Acctura Quito" />
+    <meta property="og:image" content="{{OG_IMAGE}}" />
+    <meta property="article:published_time" content="{{FECHA}}" />
+
+    <link rel="stylesheet" href="../animaciones.css">
+    <link rel="stylesheet" href="../puertasStyle.css">
+    <link rel="icon" href="../logopag.webp">
+
+    {{JSONLD}}
+</head>
+
+<!-- _analytics.html -->
+
+<body>
+
+<!-- _header.html · OJO: los href relativos ./ pasan a ../ dentro de /blog/ -->
+
+    <main>
+        <article style="max-width: 760px; margin: 2rem auto; padding: 1rem 2rem; line-height: 1.7;">
+            <nav aria-label="Migas de pan" style="font-size:.9rem;margin-bottom:1.5rem">
+                <a href="/">Inicio</a> › <a href="/blog/">Blog</a> › <span>{{H1_CORTO}}</span>
+            </nav>
+
+            <h1>{{H1}}</h1>
+            <p style="font-size:1.1rem;color:#555">{{BAJADA}}</p>
+            <p style="font-size:.85rem;color:#777">Publicado el {{FECHA_LEGIBLE}}</p>
+
+            {{CONTENIDO}}
+
+            <h2>Preguntas frecuentes</h2>
+            {{FAQ}}
+
+            <h2>¿Necesitas una cotización?</h2>
+            <p>{{CTA}}</p>
+        </article>
+    </main>
+
+<!-- _footer.html -->
+
+    <script src="../script.js"></script>
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const whatsappLinks = document.querySelectorAll('a[href*="whatsapp"], a[href*="wa.me"], a[href*="api.whatsapp"]');
+
+      whatsappLinks.forEach(function(link) {
+        link.addEventListener("click", function() {
+          gtag('event', 'conversion', {
+            'send_to': 'AW-18009582131/-F5cCP-lt4ccELPU0YtD',
+            'value': 1.0,
+            'currency': 'USD'
+          });
+        });
+      });
+    });
+    </script>
+</body>
+
+</html>

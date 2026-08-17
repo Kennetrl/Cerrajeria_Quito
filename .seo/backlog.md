@@ -1,0 +1,92 @@
+# Backlog — cerrajeriaquito.site
+
+Estado a 2026-08-17. Ventana de referencia: 28 días hasta el 14 ago 2026
+(405 clics, 25.443 impresiones, CTR 1,59%, posición media 6,2).
+
+Prioridad = impresiones × margen de mejora × **valor del lead** ÷ esfuerzo.
+Las estructuras metálicas dejan más margen que la cerrajería, así que el volumen
+no manda solo. Ver `contexto.md`.
+
+Estados: `pendiente` · `en curso` · `hecho` · `descartado` · `en espera`
+
+---
+
+## P0 — El hallazgo más raro, y encima es de margen alto
+
+| # | Qué | Dónde | Vía | Evidencia | Esfuerzo | Estado |
+|---|---|---|---|---|---|---|
+| 0 | **`/puertasGaraje` existe, está en el sitemap y recibe CERO impresiones**, mientras la familia de queries «garaje» suma **766 impresiones y 5 clics**, que se está comiendo `/puertas`. Portones y garaje son **margen alto** (ver `contexto.md`). Hay que averiguar si es problema de indexación o de canibalización antes de escribir nada | `/puertasGaraje` | tecnico | 766 imp · `puertas de garaje metalicas` 105 imp pos 3,7 con 0 clics · la página: 0 imp | S | pendiente |
+
+Esto es lo primero de la semana 1. Es la única entrada del backlog donde coinciden
+las tres cosas: volumen medido, margen alto y una página que ya existe sin dar
+ningún resultado. Empieza inspeccionando la URL en Search Console.
+
+## P1 — Semana 1
+
+| # | Qué | Dónde | Vía | Evidencia | Esfuerzo | Estado |
+|---|---|---|---|---|---|---|
+| 1 | Title y description sin «puertas metálicas», su query principal | `/puertas` | optimizacion | 12.556 imp · CTR 1,63% · pos 5,6 · ~442 clics de potencial | S | pendiente |
+| 2 | Añadir «gradas» al title, H1 y cuerpo. Regionalismo ecuatoriano: ya rankea 5,5 por «gradas metalicas» y 9,2 por «escaleras metalicas» | `/escaleras` | optimizacion | 166 imp «gradas metalicas» con 0 clics | S | pendiente |
+| 3 | **Página nueva de pasamanos de acero inoxidable** | `/pasamanos-acero-inoxidable` | contenido-nuevo | clúster ~1.267 imp/28d con 8 clics; posiciones dispersas 1,4–25,2 | M | pendiente |
+| 4 | **Página nueva para constructoras y obra**: estructuras, techos livianos, galpones. Margen alto declarado, y el mejor CTR del sitio (4,53%) con poco volumen — hay techo por explotar. Habla al avatar 2 | `/estructuras-obra` o reescribir `/estructurasMetalicas` | contenido-nuevo | 85 imp en queries de obra · `estructuras metalicas quito` 46 imp pos 8,6 | M | pendiente |
+| 5 | `lang="en"` en cuatro páginas escritas en español | `/escaleras` `/ventanas` `/alucobond` `/remodelaciones` | tecnico | Bug objetivo. Correlación con CTR bajo **no demostrada** (remodelaciones es `en` y tiene buen CTR) | XS | pendiente |
+
+**Cambio de prioridad respecto a la primera versión de este backlog:** Kennet
+declaró el 17 ago que el margen está en **estructuras/obra, portones y pérgolas**,
+no en pasamanos ni Alucobond. Por eso entra la página de obra y sale la segunda
+página de pasamanos (`/pasamanos-hierro`), que pasa a P2. Pasamanos de acero
+inoxidable se queda porque 1.267 impresiones con 8 clics es demasiado grande para
+ignorarlo aunque el margen sea medio: es el contrapeso de volumen del experimento.
+
+**Al separar pasamanos de `/escaleras` hay que deshacer la canibalización:** hoy el
+H1 de `/escaleras` es «Pasamanos de acero inoxidable Quito - precios» y su title
+mezcla escaleras + pasamanos. Al crear las páginas 3 y 4, `/escaleras` se queda
+con gradas y escaleras, y enlaza a las nuevas. Si no se hace, las tres páginas
+compiten entre sí.
+
+## P1 — Grupo de control (NO TOCAR en semana 1)
+
+`/ventanas` (3.588 imp, CTR 0,95%), `/estructurasMetalicas`, `/puertasGaraje`,
+`/remodelaciones`, home y `/nosotros`.
+
+Coste asumido: `/ventanas` tiene ~118 clics de potencial esperando un ciclo. Se
+paga a cambio de poder atribuir. Entra en semana 2 o 3.
+
+## P2 — Semanas 2–5
+
+| # | Qué | Dónde | Vía | Evidencia | Esfuerzo | Estado |
+|---|---|---|---|---|---|---|
+| 6 | `alucobond`: 429 imp en posición 11,3 con **0 clics**. Página 2, producto premium | `/alucobond` | optimizacion | 1.202 imp pág · CTR 0,67% · pos 10,0 | S | pendiente |
+| 7 | Title y description de `/ventanas` sin «protectores de ventanas» ni «ventanas de aluminio» | `/ventanas` | optimizacion | ~118 clics de potencial | S | pendiente |
+| 8 | `@id` de `LocalBusiness` duplicado idéntico en las 9 páginas. Debe ser `Service` + `BreadcrumbList` por página, con el `LocalBusiness` sólo en home | todas | tecnico | crawl: 9 páginas | M | pendiente |
+| 9 | Sin `FAQPage` en ninguna página. Es la vía directa a ser citado por ChatGPT y Gemini | todas | optimizacion | 0 páginas | M | pendiente |
+| 10 | `og:image` ausente en páginas internas | varias | tecnico | 2 de 3 revisadas | XS | pendiente |
+| 11 | `aggregateRating` autodeclarado con `reviewCount: 1`. Coincide con la única reseña real del GBP. Google no lo muestra para LocalBusiness y es zona de riesgo | `index.html` | tecnico | — | XS | pendiente |
+| 12 | Titles demasiado largos (el de `/escaleras` pasa de 100 caracteres y se corta en la SERP) | varias | optimizacion | — | S | pendiente |
+| 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` | tecnico | crawl | XS | pendiente |
+| 14 | Crear `/blog/` con su índice, para el carril de contenido informativo | nuevo | contenido-nuevo | — | M | pendiente |
+| 14b | **Página de pasamanos de hierro** (bajó de P1 al conocer los márgenes) | `/pasamanos-hierro` | contenido-nuevo | 203 imp · 5 clics · pos 7,0 | M | pendiente |
+| 14c | Contenido que sirva a la intención de precio **sin publicar cifras**: explicar de qué depende el coste (metro lineal, material, acabado, altura) | varias | contenido-nuevo | 771 imp de intención de precio, 179 queries | M | pendiente |
+| 14d | Sección de pérgolas **dentro** de la página de estructuras, no página propia | `/estructuras-obra` | contenido-nuevo | 5 imp en 28 días: margen alto sin demanda medible | S | pendiente |
+
+## P3 — Investigar antes de actuar
+
+| # | Qué | Por qué no es una acción todavía |
+|---|---|---|
+| 15 | `puerta` (430 imp, pos 3,2) y `ventana` (334 imp, pos 3,4) suman **0 clics** | Una posición 3 real nunca da 0%. Verificar la SERP con `/seo-brief` antes de tocar nada: si son packs de imágenes o SERPs fuera de Ecuador, subir posiciones no sirve |
+| 16 | Google reporta el host `www` con clics propios | El 301 está bien y verificado con curl. Averiguar por qué antes de asumir que está roto |
+| 17 | **El CTR cae 10 semanas seguidas** (1,90% → 1,59%) con posición clavada en 6,2 | Sospecha: más elementos en la SERP (AI Overviews, packs) comiéndose el clic. Se confirma mirando SERPs reales, no en los datos |
+
+## En espera — decisión de negocio
+
+| # | Qué | Por qué |
+|---|---|---|
+| 18 | Página `/cerrajeria` para `cerrajero quito` (305 imp) + `cerrajero` + `cerrajeria` | Despriorizado a propósito: la cerrajería deja menos margen que las estructuras metálicas. El volumen está, el valor del lead no. Revisar si cambia el modelo de negocio |
+
+## Fuera del código — de Kennet
+
+| # | Qué | Impacto |
+|---|---|---|
+| 19 | **Conseguir reseñas en el GBP.** Hay 1. Con 675 vistas/mes | Alto en el pack local, y no depende del código |
+| 20 | Fotos del GBP sin actualizar desde hace ~116 días | Medio |
+| 21 | Automatizar el deploy (hoy FTP manual) | El ciclo semanal no se cierra solo sin esto |
