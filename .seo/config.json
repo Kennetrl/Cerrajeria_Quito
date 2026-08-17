@@ -1,0 +1,32 @@
+{
+  "site": "cerrajeriaquito.site",
+  "baseUrl": "https://cerrajeriaquito.site",
+  "sitemap": "https://cerrajeriaquito.site/sitemap.xml",
+
+  "gscProperty": "sc-domain:cerrajeriaquito.site",
+  "credsPath": "~/.claude/seo-toolkit/credentials/gsc.json",
+
+  "lang": "es",
+  "country": "EC",
+  "locale": "es-EC",
+
+  "stack": "html-plano",
+  "stripHtmlExtension": true,
+
+  "brandTerms": ["acctura", "acctura", "cerrajeria acctura", "cerrajeriaquito"],
+
+  "negocio": {
+    "nombre": "Cerrajería Acctura Quito",
+    "telefono": "+593995680603",
+    "email": "info@cerrajeriaquito.site",
+    "ciudad": "Quito",
+    "region": "Pichincha",
+    "pais": "EC"
+  },
+
+  "_notas": {
+    "gscProperty": "Se confirma mañana con `node bin/snapshot.mjs --sites --creds <clave>`. Si la propiedad está dada de alta por URL y no por dominio, el valor correcto sería 'https://cerrajeriaquito.site/'.",
+    "credsPath": "Pendiente: crear la cuenta de servicio en Google Cloud y añadir su email como usuario en Search Console.",
+    "stack": "HTML plano servido por Apache. El .htaccess quita la extensión .html, por eso stripHtmlExtension = true."
+  }
+}
