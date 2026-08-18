@@ -25,11 +25,11 @@ ningún resultado. Empieza inspeccionando la URL en Search Console.
 
 | # | Qué | Dónde | Vía | Evidencia | Esfuerzo | Estado |
 |---|---|---|---|---|---|---|
-| 1 | Title y description sin «puertas metálicas», su query principal | `/puertas` | optimizacion | 12.556 imp · CTR 1,63% · pos 5,6 · ~442 clics de potencial | S | **hecho 17 ago** (sin desplegar) |
-| 2 | Añadir «gradas» al title, H1 y cuerpo. Regionalismo ecuatoriano: ya rankea 5,5 por «gradas metalicas» y 9,2 por «escaleras metalicas» | `/escaleras` | optimizacion | 166 imp «gradas metalicas» con 0 clics | S | **hecho 17 ago** (sin desplegar) |
+| 1 | Title y description sin «puertas metálicas», su query principal | `/puertas` | optimizacion | 12.556 imp · CTR 1,63% · pos 5,6 · ~442 clics de potencial | S | **hecho y desplegado 17 ago** |
+| 2 | Añadir «gradas» al title, H1 y cuerpo. Regionalismo ecuatoriano: ya rankea 5,5 por «gradas metalicas» y 9,2 por «escaleras metalicas» | `/escaleras` | optimizacion | 166 imp «gradas metalicas» con 0 clics | S | **hecho y desplegado 17 ago** |
 | 3 | **Página nueva de pasamanos de acero inoxidable** | `/pasamanos-acero-inoxidable` | contenido-nuevo | clúster ~1.267 imp/28d con 8 clics; posiciones dispersas 1,4–25,2 | M | pendiente |
 | 4 | **Página nueva para constructoras y obra**: estructuras, techos livianos, galpones. Margen alto declarado, y el mejor CTR del sitio (4,53%) con poco volumen — hay techo por explotar. Habla al avatar 2 | `/estructuras-obra` o reescribir `/estructurasMetalicas` | contenido-nuevo | 85 imp en queries de obra · `estructuras metalicas quito` 46 imp pos 8,6 | M | pendiente |
-| 5 | `lang="en"` en cuatro páginas escritas en español | todas | tecnico | Bug objetivo. Correlación con CTR bajo **no demostrada** (remodelaciones es `en` y tiene buen CTR) | XS | **hecho 17 ago** — unificado a `es-EC` en las 10 páginas (sin desplegar) |
+| 5 | `lang="en"` en cuatro páginas escritas en español | todas | tecnico | Bug objetivo. Correlación con CTR bajo **no demostrada** (remodelaciones es `en` y tiene buen CTR) | XS | **hecho y desplegado 17 ago** — unificado a `es-EC` en las 10 páginas |
 
 **Cambio de prioridad respecto a la primera versión de este backlog:** Kennet
 declaró el 17 ago que el margen está en **estructuras/obra, portones y pérgolas**,
@@ -95,7 +95,7 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 
 ## Registro de la semana 1 — 17 ago 2026
 
-Aplicado en la rama `seo/fix-2026-08-17`. **Sin desplegar todavía.**
+Aplicado en la rama `seo/fix-2026-08-17`, fusionado a `main` (`1f806fe`) y **desplegado por FTP el 17 ago 2026**. Verificado en vivo: titles, `lang="es-EC"` y el fix del CSS responden correctos en producción.
 
 Hallazgo que cierra el P0: `/puertasGaraje` **no es contenido duplicado**. Tiene
 2.340 caracteres de texto propio y cero frases compartidas con `/puertas` (que
@@ -108,10 +108,32 @@ Console — sólo Kennet puede hacerlo.
 Nota sobre pérgolas: `/remodelaciones` ya las menciona en su title, así que hay
 sitio para ellas sin crear página nueva. Confirma la decisión de la entrada 14d.
 
-Pendiente al cerrar: la fecha de las 5 intervenciones registradas dice 2026-08-17,
-pero **debe ser la fecha del deploy por FTP**. Corregirla en `intervenciones.json`
-en cuanto Kennet confirme, o la atribución de la próxima semanal medirá días en los
-que el cambio aún no estaba online.
+Cerrado: el deploy se hizo el mismo 17 de agosto, así que la fecha de las 6
+intervenciones de `intervenciones.json` ya era la correcta. Sólo se retiró el
+marcador «PENDIENTE DE DEPLOY». **La ventana de medición arranca el 17 ago 2026**
+y la próxima semanal es la primera que puede atribuir estos cambios.
+
+## Andamios — proyecto aparte, no mezclar
+
+El 17 ago Kennet inspeccionó en Search Console páginas que **no son de este sitio**:
+son de `andamiosquito.site`, el proyecto hermano que `contexto.md` ya registraba
+como «todavía no está en el sistema». Diagnóstico que devolvió GSC:
+
+- «Rastreada: actualmente sin indexar» — Google entró y decidió no indexar
+- «Declarada por el usuario como canónica: **Nada**» — ese sitio no tiene canonicals
+- Sin sitemap de referencia y sin página de referencia detectada
+
+Contraste con la cerrajería, donde las 10 páginas tienen canonical correcto,
+sitemap y enlaces internos. Son sitios en estados muy distintos.
+
+**Solicitar indexación no lo va a arreglar**: eso sólo mueve el caso «Descubierta:
+actualmente sin indexar». Lo que hace falta ahí es canonicals, sitemap enviado y
+enlaces desde la home (que sí está indexada) hacia las internas. Que Google no
+detecte ninguna página de referencia teniendo la home indexada apunta a un nav que
+no puede seguir.
+
+Si entra al sistema, va con su propio `/seo-setup` y su propia carpeta. Mezclar los
+dos dominios haría ilegibles los informes de ambos.
 
 ## Decisión pendiente descubierta el 17 ago — precios
 

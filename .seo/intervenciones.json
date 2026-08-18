@@ -7,7 +7,7 @@
       "url": "https://cerrajeriaquito.site/puertas",
       "type": "title",
       "track": "optimizacion",
-      "description": "PENDIENTE DE DEPLOY. Title reescrito con 'Puertas Metálicas' al inicio (1.889 imp era su query principal y no estaba)",
+      "description": "Desplegado 17 ago 2026. Title reescrito con 'Puertas Metálicas' al inicio (1.889 imp era su query principal y no estaba)",
       "before": "Puertas de hierro, acero, tool a medida y elegante en Quito-Ecuador",
       "after": "Puertas Metálicas en Quito | Hierro, Acero y Tool a Medida"
     },
@@ -17,7 +17,7 @@
       "url": "https://cerrajeriaquito.site/puertas",
       "type": "contenido",
       "track": "optimizacion",
-      "description": "PENDIENTE DE DEPLOY. Contenido de 776 a ~3.400 caracteres: modelos, materiales, de qué depende el precio, enlaces internos a garaje/gradas/ventanas",
+      "description": "Desplegado 17 ago 2026. Contenido de 776 a ~3.400 caracteres: modelos, materiales, de qué depende el precio, enlaces internos a garaje/gradas/ventanas",
       "before": null,
       "after": null
     },
@@ -27,7 +27,7 @@
       "url": "https://cerrajeriaquito.site/escaleras",
       "type": "title",
       "track": "optimizacion",
-      "description": "PENDIENTE DE DEPLOY. Añadido el regionalismo 'gradas' al title (166 imp con 0 clics en pos 5,5)",
+      "description": "Desplegado 17 ago 2026. Añadido el regionalismo 'gradas' al title (166 imp con 0 clics en pos 5,5)",
       "before": "Fabricación y Mantenimiento de Escaleras Metálicas y Pasamanos de Acero Inoxidable elegante en Ecuador",
       "after": "Gradas y Escaleras Metálicas en Quito | Pasamanos a Medida"
     },
@@ -37,7 +37,7 @@
       "url": "https://cerrajeriaquito.site/escaleras",
       "type": "encabezados",
       "track": "optimizacion",
-      "description": "PENDIENTE DE DEPLOY. H1 pasa de 'Pasamanos de acero inoxidable Quito - precios' a 'Gradas y Escaleras Metálicas en Quito' + párrafo con el regionalismo",
+      "description": "Desplegado 17 ago 2026. H1 pasa de 'Pasamanos de acero inoxidable Quito - precios' a 'Gradas y Escaleras Metálicas en Quito' + párrafo con el regionalismo",
       "before": null,
       "after": null
     },
@@ -47,7 +47,7 @@
       "url": "https://cerrajeriaquito.site/",
       "type": "tecnico",
       "track": "tecnico",
-      "description": "PENDIENTE DE DEPLOY. lang unificado a es-EC en las 10 páginas. Cuatro declaraban lang=en estando en español. Cambio uniforme en todo el sitio, tambien en el grupo de control",
+      "description": "Desplegado 17 ago 2026. lang unificado a es-EC en las 10 páginas. Cuatro declaraban lang=en estando en español. Cambio uniforme en todo el sitio, tambien en el grupo de control",
       "before": null,
       "after": null
     },
@@ -57,7 +57,7 @@
       "url": "https://cerrajeriaquito.site/puertas",
       "type": "enlace-interno",
       "track": "tecnico",
-      "description": "PENDIENTE DE DEPLOY. Los enlaces de texto eran invisibles (regla global 'a' en blanco con padding 2rem, pensada para el nav oscuro). Clase .prosa en puertasStyle.css. Afectaba al enlace a /puertasGaraje que ya existía",
+      "description": "Desplegado 17 ago 2026. Los enlaces de texto eran invisibles (regla global 'a' en blanco con padding 2rem, pensada para el nav oscuro). Clase .prosa en puertasStyle.css. Afectaba al enlace a /puertasGaraje que ya existía",
       "before": null,
       "after": null
     }
