@@ -205,9 +205,11 @@ entrante añadido en `/puertas`. `sitemap.xml` actualizado. Service + Breadcrumb
 vez de duplicarlo (no se tocaron las 9 páginas viejas que sí lo duplican — sigue
 siendo la entrada 8 de este backlog).
 
-**No se añadió al nav.** Es una página *spoke* de `/escaleras` en el modelo
-hub-and-spoke que ya estaba decidido arriba; se enlaza desde el cuerpo de
-`/escaleras` y `/puertas`, no desde el menú. Revisar con Kennet si la quiere ahí.
+**Actualización 19 ago:** se decidió inicialmente dejarla fuera del nav (modelo
+hub-and-spoke), pero Kennet pidió añadirla. Está en las dos copias del menú
+(`.domLineas` y `.sectionHeader1`) de las 11 páginas del sitio, justo después de
+«ESCALERAS», y también en `.seo/plantillas/_header.html` para que las páginas
+futuras la hereden.
 
 Quedan 3 preguntas sin responder en el brief (no se inventó nada): el grado de
 acero inoxidable (304 u otro), el plazo típico de fabricación e instalación, y si
