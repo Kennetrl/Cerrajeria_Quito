@@ -60,6 +60,36 @@
       "description": "Desplegado 17 ago 2026. Los enlaces de texto eran invisibles (regla global 'a' en blanco con padding 2rem, pensada para el nav oscuro). Clase .prosa en puertasStyle.css. Afectaba al enlace a /puertasGaraje que ya existía",
       "before": null,
       "after": null
+    },
+    {
+      "id": "mt04oc6u",
+      "date": "2026-08-19",
+      "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
+      "type": "pagina-nueva",
+      "track": "contenido-nuevo",
+      "description": "Página nueva de pasamanos de acero inoxidable, separada de /escaleras (backlog #3). SERP verificada 19 ago: /escaleras ya rankeaba #2 sin página propia; 3 de 8 competidores del top con la página caída (dos 404, uno con errores PHP).",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "mt04ojpl",
+      "date": "2026-08-19",
+      "url": "https://cerrajeriaquito.site/escaleras",
+      "type": "contenido",
+      "track": "contenido-nuevo",
+      "description": "Split de la canibalización con pasamanos-acero-inoxidable: se retiran los 7 productos inox del catálogo (quedan 3 gradas/escaleras + 6 hierro) y se recorta el texto de acero inoxidable, con enlace a la página nueva. Título y H1 no se tocan (siguen en medición desde el 17 ago).",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "mt04ojt5",
+      "date": "2026-08-19",
+      "url": "https://cerrajeriaquito.site/puertas",
+      "type": "enlace-interno",
+      "track": "contenido-nuevo",
+      "description": "Añadido enlace a pasamanos-acero-inoxidable en la sección de trabajos relacionados, como segundo enlace entrante hacia la página nueva.",
+      "before": null,
+      "after": null
     }
   ]
 }
