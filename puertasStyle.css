@@ -396,3 +396,52 @@ footer {
 .prosa a:visited {
     color: #5b3aa8;
 }
+
+/* --- Acordeón de preguntas frecuentes ---------------------------------
+   <details>/<summary> nativo: sin JS, funciona en cualquier navegador y no
+   rompe el "HTML plano sin build" del sitio. Se apoya en .prosa para que
+   quede dentro del mismo ancho y tipografía del contenido. */
+.prosa details {
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+}
+
+.prosa details:first-of-type {
+    border-top: 1px solid #ddd;
+}
+
+.prosa summary {
+    cursor: pointer;
+    list-style: none;
+    font-weight: 600;
+    font-size: 1.05rem;
+    padding-right: 2rem;
+    position: relative;
+}
+
+.prosa summary::-webkit-details-marker {
+    display: none;
+}
+
+.prosa summary::after {
+    content: '+';
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 1.4rem;
+    line-height: 1;
+    color: var(--colorBluePurple);
+}
+
+.prosa details[open] summary::after {
+    content: '\2212';
+}
+
+.prosa details[open] summary {
+    color: var(--colorBluePurple);
+}
+
+.prosa details p {
+    margin-top: 0.75rem;
+    margin-bottom: 0;
+}

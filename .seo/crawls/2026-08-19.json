@@ -1,0 +1,3421 @@
+{
+  "generatedAt": "2026-08-19",
+  "site": "cerrajeriaquito.site",
+  "mode": "local",
+  "pageCount": 11,
+  "pages": [
+    {
+      "source": "alucobond.html",
+      "title": "Instalación de Alucobond en Quito, Ecuador | Fachadas y Revestimientos",
+      "description": "Expertos en instalación de Alucobond en Quito. Mejora la estética y durabilidad de fachadas con paneles de aluminio compuestos. Cotiza ahora.",
+      "keywords": "Alucobond, fachadas de aluminio, revestimiento de edificios, paneles compuestos, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/alucobond",
+      "og": {
+        "title": "Alucobond en Quito | Fachadas Modernas y Revestimientos",
+        "description": "Instalamos paneles de Alucobond en Quito para fachadas modernas y resistentes. Obtén asesoría y cotización sin compromiso.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/alucobond"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Alucobond: La Solución Perfecta para Fachadas Modernas en Ecuador"
+        },
+        {
+          "level": 3,
+          "text": "Paneles de Aluminio Compuesto para Revestimientos Contemporáneos"
+        },
+        {
+          "level": 2,
+          "text": "Propiedades y Composición del Aluminio Compuesto Alucobond"
+        },
+        {
+          "level": 3,
+          "text": "Estructura y Materiales Utilizados"
+        },
+        {
+          "level": 4,
+          "text": "Ligereza Excepcional"
+        },
+        {
+          "level": 4,
+          "text": "Alta Resistencia"
+        },
+        {
+          "level": 4,
+          "text": "Estabilidad Climática"
+        },
+        {
+          "level": 2,
+          "text": "Aplicaciones Arquitectónicas del Alucobond"
+        },
+        {
+          "level": 4,
+          "text": "Fachadas Ventiladas"
+        },
+        {
+          "level": 4,
+          "text": "Fachadas Metálicas"
+        },
+        {
+          "level": 4,
+          "text": "Paredes Interiores"
+        },
+        {
+          "level": 4,
+          "text": "Fachadas de Balcones"
+        },
+        {
+          "level": 4,
+          "text": "Techos Termoacústicos"
+        },
+        {
+          "level": 4,
+          "text": "Paneles Sandwich"
+        },
+        {
+          "level": 3,
+          "text": "Comparativa con Otros Materiales"
+        },
+        {
+          "level": 2,
+          "text": "Selección de Alucobond Según Condiciones y Proyectos"
+        },
+        {
+          "level": 3,
+          "text": "Consideraciones Climáticas y Normativas"
+        },
+        {
+          "level": 3,
+          "text": "Impermeabilización y Aislamiento Térmico"
+        },
+        {
+          "level": 2,
+          "text": "Precios y Costos Asociados al Alucobond"
+        },
+        {
+          "level": 3,
+          "text": "Factores que Influyen en el Precio"
+        },
+        {
+          "level": 3,
+          "text": "Consejos para Optimizar la Inversión"
+        },
+        {
+          "level": 3,
+          "text": "¿Listo para Transformar tu Proyecto con Alucobond?"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Alucobond: La Solución Perfecta para Fachadas Modernas en Ecuador"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/bt_add_to_cart.svg",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre%20Alucobond...",
+          "anchor": "SOLICITAR COTIZACIÓN"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 662,
+      "bytes": 21390,
+      "url": "https://cerrajeriaquito.site/alucobond",
+      "file": "alucobond.html",
+      "mtime": "2026-08-17"
+    },
+    {
+      "source": "contacto.html",
+      "title": "Contacto | Cerrajería Acctura Quito - Cotizaciones y Proformas",
+      "description": "Contacta con Cerrajería Acctura en Quito. Cotizaciones de puertas metálicas, escaleras, pasamanos de acero inoxidable, ventanas de aluminio y más. Llámanos o escríbenos al WhatsApp.",
+      "keywords": "contacto cerrajería Quito, cotización puertas metálicas, proformas escaleras, cerrajería Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/contacto",
+      "og": {
+        "title": "Contacto | Cerrajería Acctura Quito",
+        "description": "Contacta con Cerrajería Acctura en Quito. Cotizaciones de puertas metálicas, escaleras, pasamanos, ventanas de aluminio y más.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/contacto"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Contacto"
+        },
+        {
+          "level": 2,
+          "text": "Cerrajería Acctura Quito"
+        },
+        {
+          "level": 2,
+          "text": "Algunos de Nuestros Trabajos"
+        },
+        {
+          "level": 3,
+          "text": "Teléfonos"
+        },
+        {
+          "level": 3,
+          "text": "Correo Electrónico"
+        },
+        {
+          "level": 3,
+          "text": "Redes Sociales"
+        },
+        {
+          "level": 2,
+          "text": "Dónde Encontrarnos en Quito"
+        },
+        {
+          "level": 3,
+          "text": "Horario de Atención"
+        },
+        {
+          "level": 3,
+          "text": "Zonas de Cobertura"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Contacto"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./puertasImagenes/11puerta.webp",
+          "alt": "Puerta de tool color negro en Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./puertasImagenes/33puerta.webp",
+          "alt": "Cubre puerta metálica elegante",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./escalerasImagenes/1Escalera.webp",
+          "alt": "Escalera en espiral metálica",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./escalerasImagenes/3Pasamanos.webp",
+          "alt": "Pasamanos de acero inoxidable",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./ventanasImagenes/16ventana.webp",
+          "alt": "Ventana de aluminio en Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./ventanasImagenes/1ventana.webp",
+          "alt": "Cubreventana de hierro",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": ""
+        },
+        {
+          "href": "./puertas",
+          "anchor": ""
+        },
+        {
+          "href": "./escaleras",
+          "anchor": ""
+        },
+        {
+          "href": "./escaleras",
+          "anchor": ""
+        },
+        {
+          "href": "./ventanas",
+          "anchor": ""
+        },
+        {
+          "href": "./ventanas",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        },
+        {
+          "href": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+          "anchor": "Cómo llegar (Google Maps)"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 182,
+      "bytes": 12492,
+      "url": "https://cerrajeriaquito.site/contacto",
+      "file": "contacto.html",
+      "mtime": "2026-08-17"
+    },
+    {
+      "source": "escaleras.html",
+      "title": "Gradas y Escaleras Metálicas en Quito | Pasamanos a Medida",
+      "description": "Fabricamos gradas y escaleras metálicas en Quito, con pasamanos de acero inoxidable o hierro. Rectas, en espiral y flotantes, medidas en obra sin costo.",
+      "keywords": "gradas metálicas, escaleras metálicas, hierro, acero, pasamanos de acero inoxidable, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/escaleras",
+      "og": {
+        "title": "Gradas y Escaleras Metálicas en Quito | Pasamanos a Medida",
+        "description": "Fabricamos gradas y escaleras metálicas en Quito, con pasamanos de acero inoxidable o hierro. Rectas, en espiral y flotantes, medidas en obra sin costo.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/escaleras"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Gradas, escaleras y pasamanos"
+        },
+        {
+          "level": 1,
+          "text": "Gradas y Escaleras Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Gradas y escaleras metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Gradas y Escaleras Metálicas en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/bt_add_to_cart.svg",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "pasamanos de acero inoxidable"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 269,
+      "bytes": 10862,
+      "url": "https://cerrajeriaquito.site/escaleras",
+      "file": "escaleras.html",
+      "mtime": "2026-08-19"
+    },
+    {
+      "source": "estructurasMetalicas.html",
+      "title": "Estructuras Metálicas en Quito - Fabricación e Instalación | Ecuador",
+      "description": "Fabricación e instalación de estructuras metálicas en Quito. Techos, cubiertas, galpones y más. Calidad y resistencia para tu proyecto. ¡Cotiza ahora!",
+      "keywords": "estructuras metálicas, techos metálicos, galpones, cubiertas, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/estructurasMetalicas",
+      "og": {
+        "title": "Estructuras Metálicas | Techos y Cubiertas | QUITO - ECUADOR",
+        "description": "Fabricación e instalación de estructuras metálicas en Quito. Techos, cubiertas, galpones y más. Calidad y resistencia para tu proyecto.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/estructurasMetalicas"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Estructuras Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Fabricación e Instalación de Techos, Galpones y Cubiertas"
+        },
+        {
+          "level": 2,
+          "text": "Fabricación de Estructuras Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Estructuras Metálicas en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 228,
+      "bytes": 10177,
+      "url": "https://cerrajeriaquito.site/estructurasMetalicas",
+      "file": "estructurasMetalicas.html",
+      "mtime": "2026-08-17"
+    },
+    {
+      "source": "index.html",
+      "title": "Cerrajería en Quito | Hierro, Acero y Aluminio | Servicios Metálicos en Ecuador",
+      "description": "Fabricación y mantenimiento de puertas metálicas y con tool, así como ventanas de aluminio y cubreventanas de hierro en Quito, Ecuador. También ofrecemos servicios de instalación y mantenimiento de escaleras metálicas y pasamanos de acero inoxidable.",
+      "keywords": "acctura, puertas, escaleras, ventanas, hierro, acero, aluminio, pasamanos, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/",
+      "og": {
+        "title": "Cerrajería en Quito | Hierro, Acero y Aluminio | Cerrajería Acctura",
+        "description": "Fabricación e instalación de puertas metálicas, portones, escaleras, pasamanos de acero inoxidable, ventanas de aluminio y estructuras metálicas en Quito, Ecuador.",
+        "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+        "url": "https://cerrajeriaquito.site/"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "CERRAJERÍA EN QUITO · ACCTURA"
+        },
+        {
+          "level": 2,
+          "text": "PUERTAS, ESCALERAS Y ESTRUCTURAS METÁLICAS EN HIERRO, ACERO Y ALUMINIO"
+        },
+        {
+          "level": 2,
+          "text": "HABILIDADES"
+        },
+        {
+          "level": 3,
+          "text": "PUERTAS METÁLICAS Y ACERO"
+        },
+        {
+          "level": 3,
+          "text": "PASAMANOS Y ESCALERAS METÁLICAS"
+        },
+        {
+          "level": 3,
+          "text": "VENTANAS DE ALUMINIO"
+        },
+        {
+          "level": 4,
+          "text": "CUBREVENTANAS DE HIERRO"
+        },
+        {
+          "level": 3,
+          "text": "OTRAS"
+        },
+        {
+          "level": 2,
+          "text": "Lo Que Dicen Nuestros Clientes"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "CERRAJERÍA EN QUITO · ACCTURA"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Tannya Terán"
+                },
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5"
+                },
+                "reviewBody": "Excelente trabajo, recomendado."
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./puertasImagenes/11puerta.webp",
+          "alt": "Puerta de tool metálica color negro en Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./escalerasImagenes/3Pasamanos.webp",
+          "alt": "Pasamanos de acero inoxidable en Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./otrosImagenes/1PisoFlotante.webp",
+          "alt": "Piso flotante",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./puertasImagenes/33puerta.webp",
+          "alt": "Cubre puerta metálica elegante en Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./escalerasImagenes/1Escalera.webp",
+          "alt": "Escalera en espiral quito ecuador",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./ventanasImagenes/16ventana.webp",
+          "alt": "Ventana de aluminio quito ecuador",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./otrosImagenes/13otros.gif",
+          "alt": "Piso flotante",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "#Contacto",
+          "anchor": "Contacto"
+        },
+        {
+          "href": "./puertas",
+          "anchor": ""
+        },
+        {
+          "href": "./escaleras",
+          "anchor": ""
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": ""
+        },
+        {
+          "href": "./puertas",
+          "anchor": ""
+        },
+        {
+          "href": "./puertas",
+          "anchor": "SABER MÁS"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "SABER MÁS"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": ""
+        },
+        {
+          "href": "./ventanas",
+          "anchor": ""
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "SABER MÁS"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "SABER MÁS"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./style.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 259,
+      "bytes": 15397,
+      "url": "https://cerrajeriaquito.site/",
+      "file": "index.html",
+      "mtime": "2026-08-17"
+    },
+    {
+      "source": "nosotros.html",
+      "title": "Sobre Nosotros | Cerrajería Acctura Quito - 22 Años de Experiencia",
+      "description": "Conoce a Cerrajería Acctura: más de 22 años fabricando puertas metálicas, portones, escaleras y estructuras en Quito. Trabajo a medida, medición en obra y atención en todo Quito y sus valles.",
+      "keywords": "cerrajería Quito, Acctura, trabajos en metal Quito, experiencia cerrajería Ecuador, taller metálico Quito",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/nosotros",
+      "og": {
+        "title": "Sobre Nosotros | Cerrajería Acctura Quito",
+        "description": "Más de 22 años fabricando puertas metálicas, portones, escaleras y estructuras en Quito. Trabajo a medida y atención en todo Quito y sus valles.",
+        "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+        "url": "https://cerrajeriaquito.site/nosotros"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Cerrajería con tradición y trabajo a medida en Quito"
+        },
+        {
+          "level": 1,
+          "text": "Sobre Cerrajería Acctura"
+        },
+        {
+          "level": 2,
+          "text": "¿Qué hacemos?"
+        },
+        {
+          "level": 2,
+          "text": "Nuestra zona de cobertura"
+        },
+        {
+          "level": 2,
+          "text": "¿Por qué confiar en nosotros?"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Sobre Cerrajería Acctura"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "ESCRÍBENOS POR WHATSAPP"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 289,
+      "bytes": 11309,
+      "url": "https://cerrajeriaquito.site/nosotros",
+      "file": "nosotros.html",
+      "mtime": "2026-08-17"
+    },
+    {
+      "source": "pasamanos-acero-inoxidable.html",
+      "title": "Pasamanos de Acero Inoxidable en Quito | Modelos y Precios",
+      "description": "Fabricamos pasamanos de acero inoxidable en Quito y los valles: modelos con precio de referencia, para interior o exterior. Medimos en obra sin costo.",
+      "keywords": "pasamanos de acero inoxidable, pasamanos acero inoxidable quito, barandas de acero inoxidable, pasamanos con vidrio templado, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
+      "og": {
+        "title": "Pasamanos de Acero Inoxidable en Quito | Modelos y Precios",
+        "description": "Fabricamos pasamanos de acero inoxidable en Quito y los valles: modelos con precio de referencia, para interior o exterior. Medimos en obra sin costo.",
+        "image": "https://cerrajeriaquito.site/escalerasImagenes/4Pasamanos.webp",
+        "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Pasamanos de Acero Inoxidable en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Modelos y precios de referencia"
+        },
+        {
+          "level": 2,
+          "text": "Acero inoxidable o hierro: ¿cuál te conviene?"
+        },
+        {
+          "level": 2,
+          "text": "Pasamanos de acero inoxidable con vidrio templado"
+        },
+        {
+          "level": 2,
+          "text": "Para exteriores, terrazas y balcones"
+        },
+        {
+          "level": 2,
+          "text": "Cómo trabajamos: medición, fabricación e instalación"
+        },
+        {
+          "level": 2,
+          "text": "Mantenimiento de pasamanos de acero inoxidable"
+        },
+        {
+          "level": 2,
+          "text": "Zona de servicio"
+        },
+        {
+          "level": 2,
+          "text": "Preguntas frecuentes"
+        },
+        {
+          "level": 2,
+          "text": "Otros servicios"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Pasamanos de Acero Inoxidable en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": null,
+          "id": null,
+          "raw": {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Service",
+                "name": "Pasamanos de acero inoxidable en Quito",
+                "serviceType": "Fabricación e instalación de pasamanos de acero inoxidable",
+                "description": "Fabricación e instalación a medida de pasamanos de acero inoxidable en Quito y los valles, con opción de combinar con vidrio templado. Medición en obra sin costo.",
+                "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
+                "provider": {
+                  "@id": "https://cerrajeriaquito.site/#business"
+                },
+                "areaServed": [
+                  {
+                    "@type": "City",
+                    "name": "Quito"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Cumbayá"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Tumbaco"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Calderón"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Sangolquí"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Nayón"
+                  }
+                ]
+              },
+              {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Inicio",
+                    "item": "https://cerrajeriaquito.site/"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Escaleras",
+                    "item": "https://cerrajeriaquito.site/escaleras"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Pasamanos de acero inoxidable",
+                    "item": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable"
+                  }
+                ]
+              },
+              {
+                "@type": "FAQPage",
+                "mainEntity": [
+                  {
+                    "@type": "Question",
+                    "name": "¿Cuánto cuesta un pasamanos de acero inoxidable en Quito?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Depende del modelo, el largo y los accesorios: en el catálogo de esta página hay precios de referencia por modelo. El precio final se confirma midiendo en obra, porque cada escalera, terraza o balcón tiene medidas distintas."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Qué diferencia hay entre un pasamanos de acero inoxidable y uno de hierro?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "El acero inoxidable no se oxida y casi no pide mantenimiento, por eso rinde mejor en exterior o donde hay humedad. El hierro con pintura electrostática cuesta menos y funciona bien en interiores, pero necesita repintarse con el tiempo si está a la intemperie."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿El acero inoxidable se oxida con la lluvia de Quito?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "No en condiciones normales de uso residencial. Es la razón por la que se recomienda para exteriores, terrazas y balcones frente al hierro."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Puedo combinar el pasamanos con vidrio templado?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Sí, es uno de los modelos del catálogo: estructura en acero inoxidable con paños de vidrio templado, un acabado más moderno y de gama alta que el pasamanos de tubo tradicional."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿La instalación daña la pared o el piso?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "El anclaje se hace según el tipo de superficie donde va el pasamanos (pared, piso o borde de losa), evaluado en la misma visita de medición, para no dañar el acabado existente."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Trabajan en Cumbayá, Tumbaco o los valles, o solo en Quito?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "El taller está en Quito y el servicio cubre Quito y los valles: Cumbayá, Tumbaco, Calderón, Sangolquí y Nayón."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Cómo se cotiza: hay que ir al taller o pueden medir en mi casa?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "La medición se hace en el sitio, sin costo. El primer contacto es por WhatsApp para agendar la visita."
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "nuestras gradas y escaleras metálicas"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "gradas y escaleras metálicas completas"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "remodelaciones"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "contacto"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 809,
+      "bytes": 18255,
+      "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
+      "file": "pasamanos-acero-inoxidable.html",
+      "mtime": "2026-08-19"
+    },
+    {
+      "source": "puertas.html",
+      "title": "Puertas Metálicas en Quito | Hierro, Acero y Tool a Medida",
+      "description": "Fabricamos puertas metálicas a medida en Quito: hierro, acero, tool, batientes, corredizas y enrollables. 22 años de taller propio y medición en obra.",
+      "keywords": "puertas metálicas Quito, puertas de acero, puertas de hierro, puertas enrollables, puertas de garaje, cubre puertas, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/puertas",
+      "og": {
+        "title": "Puertas Metálicas en Quito | Hierro, Acero y Tool a Medida",
+        "description": "Fabricamos puertas metálicas a medida en Quito: hierro, acero, tool, batientes, corredizas y enrollables. 22 años de taller propio y medición en obra.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/puertas"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Puertas de acero, hierro, tool, mixtas, etc"
+        },
+        {
+          "level": 1,
+          "text": "Puertas Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Puertas Metálicas a Medida en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Modelos de puertas metálicas"
+        },
+        {
+          "level": 2,
+          "text": "Puertas metálicas para casas: qué material conviene"
+        },
+        {
+          "level": 2,
+          "text": "Precios de puertas metálicas: cómo leer el catálogo"
+        },
+        {
+          "level": 2,
+          "text": "Trabajos relacionados"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Puertas Metálicas en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/bt_add_to_cart.svg",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "puertas de garaje y portones"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "puertas de garaje metálicas y portones"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "gradas y escaleras metálicas"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "pasamanos de acero inoxidable"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "ventanas y protectores de ventana"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 651,
+      "bytes": 14539,
+      "url": "https://cerrajeriaquito.site/puertas",
+      "file": "puertas.html",
+      "mtime": "2026-08-19"
+    },
+    {
+      "source": "puertasGaraje.html",
+      "title": "Puertas de Garaje y Portones Metálicos en Quito | Acctura",
+      "description": "Fabricamos e instalamos puertas de garaje y portones metálicos a medida en Quito: batientes, corredizos, enrollables y seccionales en hierro, acero y tool. Desde $850. Cotiza por WhatsApp.",
+      "keywords": "puertas de garaje Quito, portones metálicos Quito, portón corredizo, puerta enrollable, portón batiente, garaje Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/puertasGaraje",
+      "og": {
+        "title": "Puertas de Garaje y Portones Metálicos en Quito | Acctura",
+        "description": "Fabricamos e instalamos puertas de garaje y portones metálicos a medida en Quito. Batientes, corredizos, enrollables y seccionales. Desde $850. Cotiza por WhatsApp.",
+        "image": "https://cerrajeriaquito.site/portonesImagenes/porton-moderno-negro-quito.webp",
+        "url": "https://cerrajeriaquito.site/puertasGaraje"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Portones y puertas de garaje a medida en hierro, acero y tool"
+        },
+        {
+          "level": 1,
+          "text": "Puertas de Garaje y Portones Metálicos en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Tipos de portones que fabricamos"
+        },
+        {
+          "level": 2,
+          "text": "¿Por qué elegir Acctura?"
+        },
+        {
+          "level": 2,
+          "text": "Portones y Puertas de Garaje que Hemos Fabricado"
+        },
+        {
+          "level": 2,
+          "text": "Preguntas Frecuentes sobre Puertas de Garaje"
+        },
+        {
+          "level": 3,
+          "text": "¿Cuánto cuesta una puerta de garaje en Quito?"
+        },
+        {
+          "level": 3,
+          "text": "¿Qué tipos de puertas de garaje y portones fabrican?"
+        },
+        {
+          "level": 3,
+          "text": "¿Miden en obra antes de cotizar?"
+        },
+        {
+          "level": 3,
+          "text": "¿Cuánto tarda la fabricación e instalación?"
+        },
+        {
+          "level": 3,
+          "text": "¿En qué zonas de Quito instalan?"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Puertas de Garaje y Portones Metálicos en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "Service",
+          "id": null,
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "serviceType": "Fabricación e instalación de puertas de garaje y portones metálicos",
+            "image": [
+              "https://cerrajeriaquito.site/portonesImagenes/porton-moderno-negro-quito.webp",
+              "https://cerrajeriaquito.site/portonesImagenes/porton-metalico-batiente-dorado-quito.webp",
+              "https://cerrajeriaquito.site/portonesImagenes/porton-mixto-madera-hierro-quito.webp"
+            ],
+            "provider": {
+              "@type": "LocalBusiness",
+              "name": "Cerrajería Acctura Quito",
+              "alternateName": "ACCTURA",
+              "url": "https://cerrajeriaquito.site/",
+              "telephone": "+593995680603",
+              "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+                "addressLocality": "Quito",
+                "addressRegion": "Pichincha",
+                "postalCode": "170407",
+                "addressCountry": "EC"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -0.211332,
+                "longitude": -78.5220702
+              }
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "USD",
+              "price": "850",
+              "description": "Puertas de garaje y portones metálicos a medida desde $850, según medidas y diseño."
+            }
+          }
+        },
+        {
+          "type": "FAQPage",
+          "id": null,
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "¿Cuánto cuesta una puerta de garaje en Quito?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Nuestras puertas de garaje y portones metálicos empiezan desde $850. El precio final varía según las medidas, el tipo de puerta (batiente, corrediza, enrollable o seccional) y el material. Medimos en obra para darte un presupuesto exacto y sin sorpresas."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Qué tipos de puertas de garaje y portones fabrican?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Fabricamos portones batientes, corredizos, enrollables y seccionales, en hierro, acero y tool. Cada puerta se hace a medida según el espacio y el diseño que necesites, con acabados resistentes para viviendas, conjuntos y locales comerciales."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Miden en obra antes de cotizar?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Sí. Realizamos la medición directamente en obra para calcular las dimensiones exactas y entregarte un presupuesto preciso del portón o puerta de garaje que necesitas."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Cuánto tarda la fabricación e instalación?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "El tiempo depende del tamaño y del diseño de la puerta. Te confirmamos el plazo exacto al momento de la cotización, después de la medición en obra."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿En qué zonas de Quito instalan?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Trabajamos en todo Quito y sus valles: Cumbayá, Tumbaco, Calderón, Los Chillos, Sangolquí, Nayón y alrededores."
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-metalico-batiente-dorado-quito.webp",
+          "alt": "Portón metálico batiente color dorado con puerta peatonal en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-acabado-madera-quito.webp",
+          "alt": "Portón metálico con acabado imitación madera en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-mixto-madera-hierro-quito.webp",
+          "alt": "Portón mixto de madera y hierro forjado en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-tablero-dorado-quito.webp",
+          "alt": "Portón metálico de tableros color dorado en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-moderno-negro-quito.webp",
+          "alt": "Portón metálico moderno color negro en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-conjunto-residencial-negro-quito.webp",
+          "alt": "Portón negro moderno para conjunto residencial en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-cafe-listones-quito.webp",
+          "alt": "Portón metálico café con listones en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-microperforado-negro-quito.webp",
+          "alt": "Portón metálico microperforado color negro en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./portonesImagenes/porton-tablero-decorativo-gris-quito.webp",
+          "alt": "Portón metálico gris con tableros decorativos en Quito",
+          "loading": "lazy",
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20y%20quiero%20cotizar%20una%20PUERTA%20DE%20GARAJE%20/%20PORT%C3%93N%20met%C3%A1lico...",
+          "anchor": "COTIZAR POR WHATSAPP"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 424,
+      "bytes": 16471,
+      "url": "https://cerrajeriaquito.site/puertasGaraje",
+      "file": "puertasGaraje.html",
+      "mtime": "2026-08-17"
+    },
+    {
+      "source": "remodelaciones.html",
+      "title": "¡Servicios para el hogar en Quito! Piso flotante, pérgolas, losas y techos metálicos",
+      "description": "¡Mejora tu hogar con nuestros servicios! Piso flotante, pérgolas de aluminio, losas Nova y techos metálicos. Solicita tu presupuesto gratuito en Quito, Ecuador.",
+      "keywords": "piso flotante, pérgolas con policarbonato, techo de policarbonato, teja, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/remodelaciones",
+      "og": {
+        "title": "Cubierta de Policarbonato | Instalacion Piso Flotante | Pérgolas | QUITO - ECUADOR",
+        "description": "¡Mejora tu hogar con nuestros servicios! Piso flotante, pérgolas de aluminio, losas Nova y techos metálicos. Solicita tu presupuesto gratuito en Quito, Ecuador.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/remodelaciones"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Remodelaciones de Espacios"
+        },
+        {
+          "level": 2,
+          "text": "Cubiertas de Policarbonato Quito"
+        },
+        {
+          "level": 2,
+          "text": "Remodelaciones y Servicios para el Hogar en Quito"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Remodelaciones de Espacios"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/bt_add_to_cart.svg",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp",
+        "./logopag.webp",
+        "./logopag.webp"
+      ],
+      "wordCount": 230,
+      "bytes": 10779,
+      "url": "https://cerrajeriaquito.site/remodelaciones",
+      "file": "remodelaciones.html",
+      "mtime": "2026-08-17"
+    },
+    {
+      "source": "ventanas.html",
+      "title": "Ventanas y Cubreventanas Metálicas en Quito - Fabricación a Medida",
+      "description": "Fabricación e instalación de ventanas y cubreventanas metálicas en Quito. Cubreventanas de hierro, protectores de ventana y ventanas corredizas a medida para tu hogar o negocio.",
+      "keywords": "ventanas, cubreventanas, cubreventanas metálicas, protectores de ventana, hierro, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/ventanas",
+      "og": {
+        "title": "Ventanas y Cubreventanas Metálicas | QUITO - ECUADOR",
+        "description": "Fabricación e instalación de ventanas y cubreventanas metálicas en Quito. Cubreventanas de hierro, protectores de ventana y ventanas corredizas a medida.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/ventanas"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Ventanas y Cubreventanas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Fabricación e Instalación de Cubreventanas Metálicas y Protectores"
+        },
+        {
+          "level": 2,
+          "text": "Ventanas y Cubreventanas Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Ventanas y Cubreventanas en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "./icons/bt_add_to_cart.svg",
+          "alt": "",
+          "loading": null,
+          "width": null,
+          "height": null
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp",
+        "./logopag.webp"
+      ],
+      "wordCount": 237,
+      "bytes": 10767,
+      "url": "https://cerrajeriaquito.site/ventanas",
+      "file": "ventanas.html",
+      "mtime": "2026-08-17"
+    }
+  ],
+  "siteIssues": [
+    {
+      "kind": "jsonld-id-duplicado",
+      "value": "https://cerrajeriaquito.site/#business",
+      "urls": [
+        "https://cerrajeriaquito.site/alucobond",
+        "https://cerrajeriaquito.site/contacto",
+        "https://cerrajeriaquito.site/escaleras",
+        "https://cerrajeriaquito.site/estructurasMetalicas",
+        "https://cerrajeriaquito.site/",
+        "https://cerrajeriaquito.site/nosotros",
+        "https://cerrajeriaquito.site/puertas",
+        "https://cerrajeriaquito.site/remodelaciones",
+        "https://cerrajeriaquito.site/ventanas"
+      ],
+      "count": 9
+    }
+  ]
+}

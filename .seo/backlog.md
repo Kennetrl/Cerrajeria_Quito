@@ -27,7 +27,7 @@ ningún resultado. Empieza inspeccionando la URL en Search Console.
 |---|---|---|---|---|---|---|
 | 1 | Title y description sin «puertas metálicas», su query principal | `/puertas` | optimizacion | 12.556 imp · CTR 1,63% · pos 5,6 · ~442 clics de potencial | S | **hecho y desplegado 17 ago** |
 | 2 | Añadir «gradas» al title, H1 y cuerpo. Regionalismo ecuatoriano: ya rankea 5,5 por «gradas metalicas» y 9,2 por «escaleras metalicas» | `/escaleras` | optimizacion | 166 imp «gradas metalicas» con 0 clics | S | **hecho y desplegado 17 ago** |
-| 3 | **Página nueva de pasamanos de acero inoxidable** | `/pasamanos-acero-inoxidable` | contenido-nuevo | clúster ~1.267 imp/28d con 8 clics; posiciones dispersas 1,4–25,2 | M | pendiente |
+| 3 | **Página nueva de pasamanos de acero inoxidable** | `/pasamanos-acero-inoxidable` | contenido-nuevo | clúster ~1.267 imp/28d con 8 clics; posiciones dispersas 1,4–25,2 | M | **hecho 19 ago, pendiente de deploy** |
 | 4 | **Página nueva para constructoras y obra**: estructuras, techos livianos, galpones. Margen alto declarado, y el mejor CTR del sitio (4,53%) con poco volumen — hay techo por explotar. Habla al avatar 2 | `/estructuras-obra` o reescribir `/estructurasMetalicas` | contenido-nuevo | 85 imp en queries de obra · `estructuras metalicas quito` 46 imp pos 8,6 | M | pendiente |
 | 5 | `lang="en"` en cuatro páginas escritas en español | todas | tecnico | Bug objetivo. Correlación con CTR bajo **no demostrada** (remodelaciones es `en` y tiene buen CTR) | XS | **hecho y desplegado 17 ago** — unificado a `es-EC` en las 10 páginas |
 
@@ -186,3 +186,30 @@ alto no tienen demanda de búsqueda sin dueño.** Lo que está libre es pasamano
 que es de margen medio. Para crecer en estructuras y portones vía SEO habría que
 crear demanda (contenido de por qué), que es lento; el margen alto lo van a
 seguir trayendo la ficha de Google y los anuncios, no el orgánico.
+
+## Registro — 19 ago 2026: página 3 (pasamanos de acero inoxidable)
+
+Brief en `.seo/paginas/pasamanos-acero-inoxidable.brief.md`, con SERP verificada
+en vivo el mismo día: `/escaleras` ya rankeaba **#2** para «pasamanos de acero
+inoxidable quito» sin tener página propia, y 3 de los 8 competidores del top
+tenían la página caída (dos 404, uno con errores PHP visibles). Oportunidad real
+y de listón bajo.
+
+Página creada en la rama `seo/pasamanos-acero-inoxidable` (commits `cb974e0` y
+`87acfdf`), **sin desplegar todavía**. Se movieron los 7 productos inox del
+catálogo de `escalerasScript.js` a `pasamanosAceroInoxidableScript.js` (reusando
+las fotos existentes, sin mover archivos); `/escaleras` conserva gradas/escaleras
+y los 6 pasamanos de hierro, con enlace a la página nueva. Segundo enlace
+entrante añadido en `/puertas`. `sitemap.xml` actualizado. Service + BreadcrumbList
++ FAQPage en JSON-LD, referenciando el `LocalBusiness` de la home por `@id` en
+vez de duplicarlo (no se tocaron las 9 páginas viejas que sí lo duplican — sigue
+siendo la entrada 8 de este backlog).
+
+**No se añadió al nav.** Es una página *spoke* de `/escaleras` en el modelo
+hub-and-spoke que ya estaba decidido arriba; se enlaza desde el cuerpo de
+`/escaleras` y `/puertas`, no desde el menú. Revisar con Kennet si la quiere ahí.
+
+Quedan 3 preguntas sin responder en el brief (no se inventó nada): el grado de
+acero inoxidable (304 u otro), el plazo típico de fabricación e instalación, y si
+el mantenimiento cubre pasamanos instalados por terceros. La página se publicó
+sin esas 3 FAQ; se pueden añadir cuando Kennet las confirme.
