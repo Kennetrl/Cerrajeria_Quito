@@ -1904,34 +1904,6 @@
           "text": "Preguntas frecuentes"
         },
         {
-          "level": 3,
-          "text": "¿Cuánto cuesta un pasamanos de acero inoxidable en Quito?"
-        },
-        {
-          "level": 3,
-          "text": "¿Qué diferencia hay entre un pasamanos de acero inoxidable y uno de hierro?"
-        },
-        {
-          "level": 3,
-          "text": "¿El acero inoxidable se oxida con la lluvia de Quito?"
-        },
-        {
-          "level": 3,
-          "text": "¿Puedo combinar el pasamanos con vidrio templado?"
-        },
-        {
-          "level": 3,
-          "text": "¿La instalación daña la pared o el piso?"
-        },
-        {
-          "level": 3,
-          "text": "¿Trabajan en Cumbayá, Tumbaco o los valles, o solo en Quito?"
-        },
-        {
-          "level": 3,
-          "text": "¿Cómo se cotiza: hay que ir al taller o pueden medir en mi casa?"
-        },
-        {
           "level": 2,
           "text": "Otros servicios"
         },
@@ -2216,7 +2188,7 @@
         "./logopag.webp"
       ],
       "wordCount": 809,
-      "bytes": 17718,
+      "bytes": 18255,
       "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
       "file": "pasamanos-acero-inoxidable.html",
       "mtime": "2026-08-19"
