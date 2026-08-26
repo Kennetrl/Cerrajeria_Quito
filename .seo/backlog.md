@@ -63,7 +63,7 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 | 10 | `og:image` ausente en páginas internas | varias | tecnico | 7 de 11 sin él, 2 con el logo | XS | **hecho 26 ago** — las 11 con `og:image` real + `twitter:card`. Ver el registro del thumbnail |
 | 11 | `aggregateRating` autodeclarado con `reviewCount: 1`. Coincide con la única reseña real del GBP. Google no lo muestra para LocalBusiness y es zona de riesgo | `index.html` | tecnico | — | XS | pendiente |
 | 12 | Titles demasiado largos (el de `/escaleras` pasa de 100 caracteres y se corta en la SERP) | varias | optimizacion | — | S | pendiente |
-| 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` | tecnico | crawl | XS | **hecho en /puertas 17 ago**; /ventanas sigue (es control) |
+| 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` `/remodelaciones` | tecnico | crawl | XS | **hecho** — /puertas 17 ago, /ventanas y /remodelaciones 26 ago. Las 11 con 2 hojas y 1 favicon |
 | 14 | Crear `/blog/` con su índice, para el carril de contenido informativo | nuevo | contenido-nuevo | — | M | pendiente |
 | 14b | **Página de pasamanos de hierro** (bajó de P1 al conocer los márgenes) | `/pasamanos-hierro` | contenido-nuevo | 203 imp · 5 clics · pos 7,0 | M | pendiente |
 | 14c | **El catálogo de precios está en JS, invisible en el HTML.** 72 productos con precio en 4 páginas. Sacarlo al HTML y añadir schema `Product`/`Offer` abre resultados enriquecidos con precio | `/puertas` `/escaleras` `/ventanas` `/remodelaciones` | tecnico | 771 imp de intención de precio · $250–$3.000 en /puertas | M | pendiente — **depende de la decisión de Kennet** |
