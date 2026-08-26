@@ -60,7 +60,7 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 | 7 | Title y description de `/ventanas` sin «protectores de ventanas» ni «ventanas de aluminio» | `/ventanas` | optimizacion | ~118 clics de potencial | S | pendiente |
 | 8 | `@id` de `LocalBusiness` duplicado idéntico en las 9 páginas. Debe ser `Service` + `BreadcrumbList` por página, con el `LocalBusiness` sólo en home | todas | tecnico | crawl: 9 páginas | M | pendiente |
 | 9 | Sin `FAQPage` en ninguna página. Es la vía directa a ser citado por ChatGPT y Gemini | todas | optimizacion | 0 páginas | M | pendiente |
-| 10 | `og:image` ausente en páginas internas | varias | tecnico | 2 de 3 revisadas | XS | pendiente |
+| 10 | `og:image` ausente en páginas internas | varias | tecnico | 7 de 11 sin él, 2 con el logo | XS | **hecho 26 ago** — las 11 con `og:image` real + `twitter:card`. Ver el registro del thumbnail |
 | 11 | `aggregateRating` autodeclarado con `reviewCount: 1`. Coincide con la única reseña real del GBP. Google no lo muestra para LocalBusiness y es zona de riesgo | `index.html` | tecnico | — | XS | pendiente |
 | 12 | Titles demasiado largos (el de `/escaleras` pasa de 100 caracteres y se corta en la SERP) | varias | optimizacion | — | S | pendiente |
 | 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` | tecnico | crawl | XS | **hecho en /puertas 17 ago**; /ventanas sigue (es control) |
@@ -87,7 +87,7 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 
 | # | Qué | Impacto |
 |---|---|---|
-| 19 | **Conseguir reseñas en el GBP.** Hay 1. Con 675 vistas/mes | Alto en el pack local, y no depende del código |
+| 19 | **Conseguir reseñas en el GBP.** Hay 1. Con 675 vistas/mes | Alto en el pack local, y no depende del código. **26 ago: Kennet descarta el CTA público en la web** — quiere controlar a quién se le pide. El enlace a la ficha se reparte a mano, no desde el sitio |
 | 20 | Fotos del GBP sin actualizar desde hace ~116 días | Medio |
 | 21 | Automatizar el deploy (hoy FTP manual) | El ciclo semanal no se cierra solo sin esto |
 
@@ -196,7 +196,9 @@ tenían la página caída (dos 404, uno con errores PHP visibles). Oportunidad r
 y de listón bajo.
 
 Página creada en la rama `seo/pasamanos-acero-inoxidable` (commits `cb974e0` y
-`87acfdf`), **sin desplegar todavía**. Se movieron los 7 productos inox del
+`87acfdf`). **Confirmado desplegado e indexado**: responde 200 en vivo con el
+title correcto y Search Console le registra impresiones desde el 19-20 ago
+(20 imp, posición 7,7 en la semana 18–24 ago). Se movieron los 7 productos inox del
 catálogo de `escalerasScript.js` a `pasamanosAceroInoxidableScript.js` (reusando
 las fotos existentes, sin mover archivos); `/escaleras` conserva gradas/escaleras
 y los 6 pasamanos de hierro, con enlace a la página nueva. Segundo enlace
@@ -215,3 +217,195 @@ Quedan 3 preguntas sin responder en el brief (no se inventó nada): el grado de
 acero inoxidable (304 u otro), el plazo típico de fabricación e instalación, y si
 el mantenimiento cubre pasamanos instalados por terceros. La página se publicó
 sin esas 3 FAQ; se pueden añadir cuando Kennet las confirme.
+
+---
+
+## Registro — 26 ago 2026: el hallazgo de imágenes
+
+Kennet pidió trabajar `alt`, `title` y keywords en imágenes porque «no aparecemos
+en imágenes». **Los datos dicen lo contrario, y es mucho mejor noticia.**
+
+Todos los snapshots del sistema se tomaban con `type: 'web'`, así que la búsqueda
+de imágenes llevaba desde el principio fuera de la medición. Consultada por primera
+vez el 26 ago (ventana 27 jul – 23 ago):
+
+| Tipo de búsqueda | Clics | Impresiones | CTR | Posición |
+|---|---:|---:|---:|---:|
+| Web | 402 | 24.346 | 1,65% | 6,2 |
+| **Imagen** | **49** | **34.895** | **0,14%** | **~31** |
+
+**La búsqueda de imágenes genera más impresiones que la web entera** y convierte a
+la undécima parte. No es que no aparezcamos: aparecemos muchísimo, en la página 3
+de la cuadrícula, donde nadie pincha.
+
+Por página (imagen, 28 días):
+
+| Página | Clics | Impresiones | Posición |
+|---|---:|---:|---:|
+| `/puertas` | 29 | **24.578** | 30,8 |
+| `/ventanas` | 5 | 5.254 | 32,3 |
+| `/escaleras` | 11 | 3.770 | 30,3 |
+| `/alucobond` | 1 | 580 | 45,0 |
+| `/estructurasMetalicas` | 0 | 358 | 42,1 |
+| `/puertasGaraje` | 0 | 160 | 39,3 |
+
+2.469 queries distintas. Las mayores: `puertas metalicas sencillas` (1.713 imp,
+0 clics), `puertas metalicas` (1.524), `puerta de metal` (846),
+`modernas puerta reja metalica` (715), `modelos de ventanas de fierro cuadrado` (622).
+
+**El bloqueo técnico que hay debajo:** de las ~145 imágenes del sitio sólo **44**
+están en el HTML servido, y la mayoría son el logo y el icono del menú. Contadas
+por página (excluyendo las que viven dentro de comentarios HTML):
+
+| Página | `<img>` vivos en el HTML | Impresiones de imagen |
+|---|---:|---:|
+| `/puertas` | **2** (logo + menú) | 24.578 |
+| `/ventanas` | **2** (logo + menú) | 5.254 |
+| `/escaleras` | **2** (logo + menú) | 3.770 |
+| `/alucobond` | **2** (logo + menú) | 580 |
+| `/puertasGaraje` | 11 (9 portones a mano) | 160 |
+
+`/puertas` acumula 24.578 impresiones de imagen **sin una sola foto de producto en
+su HTML**. Las 35 las pinta `puertasScript.js` después. Que aun así aparezca tanto
+demuestra que Google renderiza y las encuentra — y que están en posición 30,8
+sugiere que las trata como ciudadanas de segunda. Las **91 restantes las inyecta JavaScript** desde 7
+scripts de catálogo (`puertasScript.js` 35, `estructurasScript.js` 14,
+`remodelaciones.js` 11, `ventanasScript.js` 10, `escalerasScript.js` 9,
+`pasamanosAceroInoxidableScript.js` 7, `alucobond.js` 5). El `alt` se pone con
+`setAttribute` a partir del nombre del producto, que empieza por código interno
+(`N1 - Puerta con tool perforado`). Es el mismo problema que la entrada 14c de los
+precios: el contenido existe, pero no en el HTML.
+
+Los nombres de archivo tampoco dicen nada: `1puerta.webp`, `2puerta.webp`. La única
+carpeta bien nombrada es `portonesImagenes/` (`porton-metalico-batiente-dorado-quito.webp`),
+que además es la única galería escrita a mano en el HTML.
+
+Hay referencias a `images.pexels.com` en `/puertas`, `/escaleras`, `/ventanas`,
+`/remodelaciones` y `/alucobond`, pero **verificado el 26 ago: están todas dentro
+de comentarios HTML**, restos de la plantilla original. No se cargan y no hacen
+daño de SEO. Sólo son peso muerto en el archivo.
+
+### Entradas nuevas
+
+| # | Qué | Dónde | Vía | Evidencia | Esfuerzo | Estado |
+|---|---|---|---|---|---|---|
+| 22 | **Sacar las 91 imágenes del catálogo al HTML servido.** Bloquea todo lo demás de imágenes | 7 scripts + sus páginas | tecnico | 34.895 imp/28d en imagen a 0,14% | M | **hecho 26 ago** — 91 tarjetas escritas en HTML, los 7 scripts eliminados |
+| 23 | **`alt` real** en las 93 referenciadas, sin códigos `N1 -`. Keyword literal sólo en 1-2 por página | todas | optimizacion | 2.469 queries de imagen | M | **hecho 26 ago** — las 93 revisadas una a una; 9 alt corregidos por contradecir la foto |
+| 24 | **Renombrar los archivos** a `kebab-case` con significado | todas las carpetas de imágenes | tecnico | `1puerta.webp` | M | **hecho 26 ago** — 93 con `git mv`, 105 referencias actualizadas, 0 en 404. Las no referenciadas no se tocan |
+| 25 | Limpiar el marcado muerto de la plantilla (`pexels`, `bt_add_to_cart`) | 5 páginas | tecnico | verificado 26 ago | XS | **hecho 26 ago** — desapareció al reescribir `.cards-container` |
+| 26 | `title` donde aporte algo que el `alt` no dice | todas | optimizacion | 0 imágenes con `title` antes | S | **hecho 26 ago** — modelo + precio de referencia; omitido en estructuras y Alucobond, donde repetiría el alt |
+| 27 | Keyword en `H1` y en las primeras 100 palabras | por página | optimizacion | — | S | **hecho/verificado 26 ago** — las 9 páginas de servicio ya cumplían tras el trabajo del 17 ago; comprobado con script |
+| 28 | `width`/`height` y `loading="lazy"`; `image` en el JSON-LD | todas | tecnico | — | S | **hecho 26 ago** — 226 imágenes con dimensiones reales; `image` con fotos reales en 7 páginas |
+
+**Orden obligado: 22 → 23 → 24.** Escribir `alt` antes de sacar las imágenes al
+HTML es trabajo tirado. Ejecutado en ese orden el 26 ago, en la rama
+`seo/imagenes-2026-08-26`.
+
+**Empezar por `/puertas`**: sus 24.578 impresiones de imagen son el 70% del total
+del sitio. Pero está en observación por la caída de -25 clics tras el cambio del
+17 ago; el trabajo de imágenes es aditivo y no toca el title, así que no rompe esa
+medición — hay que dejarlo anotado como intervención aparte para no confundir las
+dos atribuciones.
+
+### Consecuencia para la medición
+
+Todo el histórico de `.seo/snapshots/` es **sólo web**. Las cifras de los informes
+anteriores no estaban mal, pero contaban poco más de la mitad del tráfico real:
+451 clics reales frente a los 402 que reportábamos. Añadido
+`fetchTotalsByType()` y `fetchDimensionByType()` al toolkit para poder consultarlo.
+
+
+## Registro — 26 ago 2026: ejecución del trabajo de imágenes
+
+Rama `seo/imagenes-2026-08-26`. Entradas 22 a 28 cerradas de una vez porque
+22 bloquea a 23 y 23 a 24: separarlas en semanas habría dejado el trabajo a medias
+sin poder medir nada.
+
+**Lo que cambió, en números:**
+
+| | Antes | Después |
+|---|---:|---:|
+| `<img>` en el HTML servido | 44 | **226** |
+| Tarjetas de producto en HTML | 0 | **91** |
+| Imágenes con `alt` útil | ~35 | **226** |
+| Imágenes con `width`/`height` | 0 | **226** |
+| Imágenes con `title` | 0 | 91 |
+| Nombres de archivo con significado | 9 (portones) | **102** |
+| Scripts de catálogo | 7 | **0** |
+
+**Decisión de arquitectura:** las galerías se escriben en el HTML y los 7
+`*Script.js` se eliminan, en vez de mantener el JS y duplicar el marcado. Con
+FTP manual y sin build, un sistema doble se desincroniza en la primera edición.
+Cada `.cards-container` lleva un comentario explicando cómo añadir un producto.
+
+**Verificado antes de cerrar:** 0 imágenes en 404, 0 errores de anidamiento HTML,
+un solo `<h1>` por página, 12 bloques JSON-LD válidos, y las galerías renderizadas
+en Chrome sobre un servidor local — idénticas a como se veían con el JS.
+
+**Anotado para más adelante:** la foto de `N7 - Puerta de tool tamborada`
+(`puerta-tool-tamborada-gris-moderna.webp`) es una captura de pantalla de Facebook,
+con la interfaz de la app visible. Conviene sustituirla por la foto original.
+
+**Lo que sigue sin resolverse:** la posición media en imágenes es 31. Este trabajo
+quita el impedimento técnico, no garantiza el salto. La medición honesta es
+comparar `type: image` dentro de 2-3 semanas, cuando Google haya vuelto a rastrear
+e indexar los nombres nuevos. Ojo: renombrar archivos **reinicia el historial de
+cada imagen en el índice**; es normal ver una caída de impresiones de imagen antes
+de la recuperación.
+
+
+## Registro — 26 ago 2026: el thumbnail de la SERP era el icono de hamburguesa
+
+Kennet enseñó el resultado de `/puertas` en Google: la miniatura era **el icono
+del menú** (tres barras blancas sobre negro) en vez de una puerta.
+
+Causa, confirmada en el código: `/puertas` tenía `og:locale`, `og:type`,
+`og:title`, `og:description`, `og:url` y `og:site_name` — **pero no `og:image`**.
+Sin esa etiqueta Google elige la miniatura por su cuenta, y hasta el trabajo de
+hoy el HTML de esa página sólo tenía dos imágenes: el logo y `icons/menu.webp`.
+Encima, el icono está guardado a **500x500**, tamaño de sobra para ser candidato.
+
+Es la entrada 10 del backlog, que estaba estimada como XS y catalogada como
+«social». No lo era: afectaba a cómo se ve el resultado en la búsqueda.
+
+Arreglado:
+
+- `og:image` en las 11 páginas, apuntando a una foto representativa de cada una
+  (7 no la tenían; `index` y `nosotros` apuntaban al logo). Con
+  `og:image:width`, `og:image:height` y `og:image:alt`.
+- `twitter:card` (`summary_large_image`) y `twitter:image` en las 11. No había
+  ninguna etiqueta de Twitter en todo el sitio.
+- `icons/menu.webp` reducido de 500x500 a **96x96** (7,4 KB → 1,6 KB). Se muestra
+  a 40px (`.lineas3 { height: 2.5rem }`), así que 96 va sobrado incluso en
+  pantallas retina, y deja de ser candidato a miniatura. `width`/`height`
+  actualizados en las 11 páginas.
+
+Con las 91 fotos ya en el HTML, el `image` del JSON-LD apuntando a fotos reales y
+ahora el `og:image` explícito, Google tiene tres señales coherentes donde antes
+tenía un icono. **Aun así la miniatura la elige Google**: esto mejora mucho las
+probabilidades, no las garantiza, y tarda en refrescarse lo que tarde el próximo
+rastreo.
+
+
+## Corrección — 26 ago 2026: el logo salía estirado (regresión propia)
+
+Kennet avisó de que el logo del nav salía ancho y aplastado en las 11 páginas.
+**Lo rompí yo esta misma tarde** al añadir `width`/`height` a las imágenes.
+
+Causa: `.logo-navbar` y `.lineas3` fijaban **sólo la altura** (`height: 7rem` y
+`height: 2.5rem`). Sin atributos, el navegador deducía el ancho del ratio real
+(el logo es 500x500, cuadrado). Al declarar `width="500"`, ese atributo pasa a
+valer como *presentational hint*: el CSS ganaba en `height` pero el ancho lo
+tomaba del atributo, así que el logo se pintaba a 500x112 en vez de 112x112.
+
+Arreglado con `width: auto` en las cuatro reglas (`.logo-navbar` y `.lineas3`, en
+`style.css` y `puertasStyle.css`). Es la solución correcta y no la de quitar los
+atributos: declarados, el navegador conoce la proporción y reserva el hueco antes
+de descargar la imagen, que era el motivo de ponerlos.
+
+Verificado en Chrome: logo cuadrado y proporcionado, y las galerías de
+`/alucobond`, `/index` y `/puertasGaraje` intactas.
+
+**Lección para la skill:** al añadir `width`/`height` a imágenes de un sitio
+existente hay que revisar antes qué reglas CSS fijan una sola dimensión. Es un
+efecto secundario silencioso: no rompe nada, sólo deforma.
