@@ -385,3 +385,27 @@ ahora el `og:image` explícito, Google tiene tres señales coherentes donde ante
 tenía un icono. **Aun así la miniatura la elige Google**: esto mejora mucho las
 probabilidades, no las garantiza, y tarda en refrescarse lo que tarde el próximo
 rastreo.
+
+
+## Corrección — 26 ago 2026: el logo salía estirado (regresión propia)
+
+Kennet avisó de que el logo del nav salía ancho y aplastado en las 11 páginas.
+**Lo rompí yo esta misma tarde** al añadir `width`/`height` a las imágenes.
+
+Causa: `.logo-navbar` y `.lineas3` fijaban **sólo la altura** (`height: 7rem` y
+`height: 2.5rem`). Sin atributos, el navegador deducía el ancho del ratio real
+(el logo es 500x500, cuadrado). Al declarar `width="500"`, ese atributo pasa a
+valer como *presentational hint*: el CSS ganaba en `height` pero el ancho lo
+tomaba del atributo, así que el logo se pintaba a 500x112 en vez de 112x112.
+
+Arreglado con `width: auto` en las cuatro reglas (`.logo-navbar` y `.lineas3`, en
+`style.css` y `puertasStyle.css`). Es la solución correcta y no la de quitar los
+atributos: declarados, el navegador conoce la proporción y reserva el hueco antes
+de descargar la imagen, que era el motivo de ponerlos.
+
+Verificado en Chrome: logo cuadrado y proporcionado, y las galerías de
+`/alucobond`, `/index` y `/puertasGaraje` intactas.
+
+**Lección para la skill:** al añadir `width`/`height` a imágenes de un sitio
+existente hay que revisar antes qué reglas CSS fijan una sola dimensión. Es un
+efecto secundario silencioso: no rompe nada, sólo deforma.
