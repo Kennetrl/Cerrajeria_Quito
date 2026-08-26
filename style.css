@@ -545,6 +545,13 @@ footer {
     color: #666;
 }
 
+.resenaFuente a {
+    color: inherit;
+    font: inherit;
+    text-decoration: none;
+    padding: 0;
+}
+
 @media (max-width: 480px) {
     .resena {
         padding: 1.25rem;
