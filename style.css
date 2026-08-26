@@ -545,18 +545,6 @@ footer {
     color: #666;
 }
 
-.resenaCta {
-    margin-top: 1.25rem;
-    font-size: 0.95rem;
-}
-
-.resenaCta a {
-    color: #c0392b;
-    text-decoration: underline;
-    text-underline-offset: 3px;
-    padding: 0;
-}
-
 @media (max-width: 480px) {
     .resena {
         padding: 1.25rem;

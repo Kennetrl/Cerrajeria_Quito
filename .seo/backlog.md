@@ -87,7 +87,7 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 
 | # | Qué | Impacto |
 |---|---|---|
-| 19 | **Conseguir reseñas en el GBP.** Hay 1. Con 675 vistas/mes | Alto en el pack local, y no depende del código |
+| 19 | **Conseguir reseñas en el GBP.** Hay 1. Con 675 vistas/mes | Alto en el pack local, y no depende del código. **26 ago: Kennet descarta el CTA público en la web** — quiere controlar a quién se le pide. El enlace a la ficha se reparte a mano, no desde el sitio |
 | 20 | Fotos del GBP sin actualizar desde hace ~116 días | Medio |
 | 21 | Automatizar el deploy (hoy FTP manual) | El ciclo semanal no se cierra solo sin esto |
 
