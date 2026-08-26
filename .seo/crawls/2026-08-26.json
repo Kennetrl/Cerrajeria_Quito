@@ -1,0 +1,5106 @@
+{
+  "generatedAt": "2026-08-26",
+  "site": "cerrajeriaquito.site",
+  "mode": "local",
+  "pageCount": 11,
+  "pages": [
+    {
+      "source": "alucobond.html",
+      "title": "Instalación de Alucobond en Quito, Ecuador | Fachadas y Revestimientos",
+      "description": "Expertos en instalación de Alucobond en Quito. Mejora la estética y durabilidad de fachadas con paneles de aluminio compuestos. Cotiza ahora.",
+      "keywords": "Alucobond, fachadas de aluminio, revestimiento de edificios, paneles compuestos, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/alucobond",
+      "og": {
+        "title": "Alucobond en Quito | Fachadas Modernas y Revestimientos",
+        "description": "Instalamos paneles de Alucobond en Quito para fachadas modernas y resistentes. Obtén asesoría y cotización sin compromiso.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/alucobond"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Alucobond: La Solución Perfecta para Fachadas Modernas en Ecuador"
+        },
+        {
+          "level": 3,
+          "text": "Paneles de Aluminio Compuesto para Revestimientos Contemporáneos"
+        },
+        {
+          "level": 2,
+          "text": "Propiedades y Composición del Aluminio Compuesto Alucobond"
+        },
+        {
+          "level": 3,
+          "text": "Estructura y Materiales Utilizados"
+        },
+        {
+          "level": 4,
+          "text": "Ligereza Excepcional"
+        },
+        {
+          "level": 4,
+          "text": "Alta Resistencia"
+        },
+        {
+          "level": 4,
+          "text": "Estabilidad Climática"
+        },
+        {
+          "level": 2,
+          "text": "Aplicaciones Arquitectónicas del Alucobond"
+        },
+        {
+          "level": 4,
+          "text": "Fachadas Ventiladas"
+        },
+        {
+          "level": 4,
+          "text": "Fachadas Metálicas"
+        },
+        {
+          "level": 4,
+          "text": "Paredes Interiores"
+        },
+        {
+          "level": 4,
+          "text": "Fachadas de Balcones"
+        },
+        {
+          "level": 4,
+          "text": "Techos Termoacústicos"
+        },
+        {
+          "level": 4,
+          "text": "Paneles Sandwich"
+        },
+        {
+          "level": 3,
+          "text": "Comparativa con Otros Materiales"
+        },
+        {
+          "level": 2,
+          "text": "Selección de Alucobond Según Condiciones y Proyectos"
+        },
+        {
+          "level": 3,
+          "text": "Consideraciones Climáticas y Normativas"
+        },
+        {
+          "level": 3,
+          "text": "Impermeabilización y Aislamiento Térmico"
+        },
+        {
+          "level": 2,
+          "text": "Precios y Costos Asociados al Alucobond"
+        },
+        {
+          "level": 3,
+          "text": "Factores que Influyen en el Precio"
+        },
+        {
+          "level": 3,
+          "text": "Consejos para Optimizar la Inversión"
+        },
+        {
+          "level": 3,
+          "text": "¿Listo para Transformar tu Proyecto con Alucobond?"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Alucobond: La Solución Perfecta para Fachadas Modernas en Ecuador"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": [
+              "https://cerrajeriaquito.site/alucobondImagenes/fachada-alucobond-naranja-local-comercial-quito.webp",
+              "https://cerrajeriaquito.site/alucobondImagenes/fachada-alucobond-edificio-gris-azul.webp",
+              "https://cerrajeriaquito.site/alucobondImagenes/fachada-alucobond-ingreso-conjunto-residencial.webp"
+            ],
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./alucobondImagenes/fachada-alucobond-naranja-local-comercial-quito.webp",
+          "alt": "Fachada ventilada de Alucobond naranja en local comercial de Quito",
+          "loading": null,
+          "width": "1224",
+          "height": "718"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Fachada de Alucobond",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./alucobondImagenes/fachada-alucobond-edificio-gris-azul.webp",
+          "alt": "Fachada de Alucobond gris y azul en edificio de tres plantas",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1245"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Fachada de Alucobond",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./alucobondImagenes/fachada-alucobond-ingreso-conjunto-residencial.webp",
+          "alt": "Revestimiento de Alucobond en el ingreso de un conjunto residencial",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Fachada de Alucobond",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./alucobondImagenes/fachada-alucobond-rotulo-local-naranja.webp",
+          "alt": "Rótulo y fachada de Alucobond naranja en local comercial",
+          "loading": "lazy",
+          "width": "820",
+          "height": "445"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Fachada de Alucobond",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./alucobondImagenes/fachada-alucobond-naranja-blanca-comercial.webp",
+          "alt": "Fachada de Alucobond naranja y blanca en establecimiento comercial",
+          "loading": "lazy",
+          "width": "1224",
+          "height": "638"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Fachada de Alucobond",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre%20Alucobond...",
+          "anchor": "SOLICITAR COTIZACIÓN"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 685,
+      "bytes": 26249,
+      "url": "https://cerrajeriaquito.site/alucobond",
+      "file": "alucobond.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "contacto.html",
+      "title": "Contacto | Cerrajería Acctura Quito - Cotizaciones y Proformas",
+      "description": "Contacta con Cerrajería Acctura en Quito. Cotizaciones de puertas metálicas, escaleras, pasamanos de acero inoxidable, ventanas de aluminio y más. Llámanos o escríbenos al WhatsApp.",
+      "keywords": "contacto cerrajería Quito, cotización puertas metálicas, proformas escaleras, cerrajería Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/contacto",
+      "og": {
+        "title": "Contacto | Cerrajería Acctura Quito",
+        "description": "Contacta con Cerrajería Acctura en Quito. Cotizaciones de puertas metálicas, escaleras, pasamanos, ventanas de aluminio y más.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/contacto"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Contacto"
+        },
+        {
+          "level": 2,
+          "text": "Cerrajería Acctura Quito"
+        },
+        {
+          "level": 2,
+          "text": "Algunos de Nuestros Trabajos"
+        },
+        {
+          "level": 3,
+          "text": "Teléfonos"
+        },
+        {
+          "level": 3,
+          "text": "Correo Electrónico"
+        },
+        {
+          "level": 3,
+          "text": "Redes Sociales"
+        },
+        {
+          "level": 2,
+          "text": "Dónde Encontrarnos en Quito"
+        },
+        {
+          "level": 3,
+          "text": "Horario de Atención"
+        },
+        {
+          "level": 3,
+          "text": "Zonas de Cobertura"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Contacto"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-gris-clara-ranuras.webp",
+          "alt": "Puerta de tool gris clara con ranuras horizontales en vivienda",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./puertasImagenes/cubre-puerta-gris-barrotes-volutas.webp",
+          "alt": "Cubre-puerta gris de dos cuerpos con barrotes y volutas",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./escalerasImagenes/escalera-caracol-metalica-peldanos-madera-quito.webp",
+          "alt": "Escalera caracol metálica con peldaños de madera junto a un ventanal",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-hierro-negro-descanso-interior.webp",
+          "alt": "Pasamanos de hierro negro con travesaños horizontales en un descanso",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./ventanasImagenes/ventana-aluminio-corrediza-marco-cafe.webp",
+          "alt": "Ventana de aluminio corrediza con marco color café y vista a jardín",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./ventanasImagenes/ventana-aluminio-blanca-montante-superior.webp",
+          "alt": "Ventana de aluminio blanca con montante superior en obra",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": ""
+        },
+        {
+          "href": "./puertas",
+          "anchor": ""
+        },
+        {
+          "href": "./escaleras",
+          "anchor": ""
+        },
+        {
+          "href": "./escaleras",
+          "anchor": ""
+        },
+        {
+          "href": "./ventanas",
+          "anchor": ""
+        },
+        {
+          "href": "./ventanas",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        },
+        {
+          "href": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+          "anchor": "Cómo llegar (Google Maps)"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 188,
+      "bytes": 13501,
+      "url": "https://cerrajeriaquito.site/contacto",
+      "file": "contacto.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "escaleras.html",
+      "title": "Gradas y Escaleras Metálicas en Quito | Pasamanos a Medida",
+      "description": "Fabricamos gradas y escaleras metálicas en Quito, con pasamanos de acero inoxidable o hierro. Rectas, en espiral y flotantes, medidas en obra sin costo.",
+      "keywords": "gradas metálicas, escaleras metálicas, hierro, acero, pasamanos de acero inoxidable, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/escaleras",
+      "og": {
+        "title": "Gradas y Escaleras Metálicas en Quito | Pasamanos a Medida",
+        "description": "Fabricamos gradas y escaleras metálicas en Quito, con pasamanos de acero inoxidable o hierro. Rectas, en espiral y flotantes, medidas en obra sin costo.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/escaleras"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Gradas, escaleras y pasamanos"
+        },
+        {
+          "level": 1,
+          "text": "Gradas y Escaleras Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Gradas y escaleras metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Gradas y Escaleras Metálicas en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": [
+              "https://cerrajeriaquito.site/escalerasImagenes/escalera-caracol-metalica-peldanos-madera-quito.webp",
+              "https://cerrajeriaquito.site/escalerasImagenes/gradas-metalicas-exteriores-pasamanos-quito.webp",
+              "https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-negro-descanso-interior.webp"
+            ],
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./escalerasImagenes/escalera-caracol-metalica-peldanos-madera-quito.webp",
+          "alt": "Escalera caracol metálica con peldaños de madera junto a un ventanal",
+          "loading": null,
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Escalera caracol",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/gradas-metalicas-exteriores-pasamanos-quito.webp",
+          "alt": "Gradas metálicas exteriores con pasamanos instaladas en Quito",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Gradas metálicas con pasamanos",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-hierro-negro-descanso-interior.webp",
+          "alt": "Pasamanos de hierro negro con travesaños horizontales en un descanso",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de hierro",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-hierro-negro-escalera-interior.webp",
+          "alt": "Pasamanos de hierro negro en escalera interior de vivienda",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de hierro",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-hierro-gris-tramo-recto.webp",
+          "alt": "Pasamanos de hierro gris en tramo recto sobre muro",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de hierro",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-hierro-negro-gradas-vivienda.webp",
+          "alt": "Pasamanos de hierro negro sencillo sobre gradas de vivienda",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de hierro",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-hierro-blanco-escalera.webp",
+          "alt": "Pasamanos de hierro blanco en escalera de interior",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de hierro",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-hierro-negro-pasillo.webp",
+          "alt": "Pasamanos de hierro negro con travesaños en pasillo interior",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de hierro",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/gradas-metalicas-pasamanos-hierro-obra.webp",
+          "alt": "Gradas metálicas con pasamanos de hierro durante su montaje en obra",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de hierro con gradas metálicas",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20escaleras-pasamanos%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "pasamanos de acero inoxidable"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 320,
+      "bytes": 19983,
+      "url": "https://cerrajeriaquito.site/escaleras",
+      "file": "escaleras.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "estructurasMetalicas.html",
+      "title": "Estructuras Metálicas en Quito - Fabricación e Instalación | Ecuador",
+      "description": "Fabricación e instalación de estructuras metálicas en Quito. Techos, cubiertas, galpones y más. Calidad y resistencia para tu proyecto. ¡Cotiza ahora!",
+      "keywords": "estructuras metálicas, techos metálicos, galpones, cubiertas, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/estructurasMetalicas",
+      "og": {
+        "title": "Estructuras Metálicas | Techos y Cubiertas | QUITO - ECUADOR",
+        "description": "Fabricación e instalación de estructuras metálicas en Quito. Techos, cubiertas, galpones y más. Calidad y resistencia para tu proyecto.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/estructurasMetalicas"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Estructuras Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Fabricación e Instalación de Techos, Galpones y Cubiertas"
+        },
+        {
+          "level": 2,
+          "text": "Fabricación de Estructuras Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Estructuras Metálicas en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": [
+              "https://cerrajeriaquito.site/estructurasImagenes/estructura-metalica-montaje-terraza-quito.webp",
+              "https://cerrajeriaquito.site/estructurasImagenes/viga-metalica-interior-montaje.webp",
+              "https://cerrajeriaquito.site/estructurasImagenes/estructura-vigas-terraza-vista-ciudad.webp"
+            ],
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./estructurasImagenes/estructura-metalica-montaje-terraza-quito.webp",
+          "alt": "Montaje de estructura metálica en terraza en Quito",
+          "loading": null,
+          "width": "2966",
+          "height": "1440"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/viga-metalica-interior-montaje.webp",
+          "alt": "Viga metálica montada en interior durante la obra",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "1204"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/estructura-vigas-terraza-vista-ciudad.webp",
+          "alt": "Estructura de vigas metálicas en terraza con vista a la ciudad",
+          "loading": "lazy",
+          "width": "1032",
+          "height": "581"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/estructura-techo-perfiles-metalicos-patio.webp",
+          "alt": "Estructura metálica de techo con perfiles sobre patio",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/galpon-cubierta-metalica-interior.webp",
+          "alt": "Interior de galpón con cubierta metálica y luminarias",
+          "loading": "lazy",
+          "width": "1599",
+          "height": "899"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/entrepiso-metalico-placa-colaborante.webp",
+          "alt": "Entrepiso metálico con placa colaborante visto desde abajo",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/losa-metalica-pasillo-vivienda.webp",
+          "alt": "Losa metálica sobre pasillo de vivienda en construcción",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/estructura-gradas-metalicas-obra.webp",
+          "alt": "Estructura de gradas metálicas montada en obra",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/estructura-metalica-entrepiso-cubierta-obra.webp",
+          "alt": "Estructura metálica de entrepiso y cubierta en obra",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/pergola-metalica-montaje-terraza.webp",
+          "alt": "Pérgola metálica en montaje sobre terraza",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "1200"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/cubierta-metalica-patio-vivienda-moderna.webp",
+          "alt": "Cubierta metálica sobre patio de vivienda moderna",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "1200"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/cubierta-policarbonato-traslucido-garaje.webp",
+          "alt": "Cubierta de policarbonato traslúcido con estructura metálica sobre garaje",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "1204"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/estructura-metalica-cubierta-roja-corredor.webp",
+          "alt": "Estructura metálica con cubierta roja sobre corredor",
+          "loading": "lazy",
+          "width": "960",
+          "height": "1280"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./estructurasImagenes/gradas-metalicas-exteriores-edificio.webp",
+          "alt": "Gradas metálicas exteriores con pasamanos en edificio",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura Metálica",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20estructuras%20met%C3%A1licas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 276,
+      "bytes": 23719,
+      "url": "https://cerrajeriaquito.site/estructurasMetalicas",
+      "file": "estructurasMetalicas.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "index.html",
+      "title": "Cerrajería en Quito | Hierro, Acero y Aluminio | Servicios Metálicos en Ecuador",
+      "description": "Fabricación y mantenimiento de puertas metálicas y con tool, así como ventanas de aluminio y cubreventanas de hierro en Quito, Ecuador. También ofrecemos servicios de instalación y mantenimiento de escaleras metálicas y pasamanos de acero inoxidable.",
+      "keywords": "acctura, puertas, escaleras, ventanas, hierro, acero, aluminio, pasamanos, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/",
+      "og": {
+        "title": "Cerrajería en Quito | Hierro, Acero y Aluminio | Cerrajería Acctura",
+        "description": "Fabricación e instalación de puertas metálicas, portones, escaleras, pasamanos de acero inoxidable, ventanas de aluminio y estructuras metálicas en Quito, Ecuador.",
+        "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+        "url": "https://cerrajeriaquito.site/"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "CERRAJERÍA EN QUITO · ACCTURA"
+        },
+        {
+          "level": 2,
+          "text": "PUERTAS, ESCALERAS Y ESTRUCTURAS METÁLICAS EN HIERRO, ACERO Y ALUMINIO"
+        },
+        {
+          "level": 2,
+          "text": "HABILIDADES"
+        },
+        {
+          "level": 3,
+          "text": "PUERTAS METÁLICAS Y ACERO"
+        },
+        {
+          "level": 3,
+          "text": "PASAMANOS Y ESCALERAS METÁLICAS"
+        },
+        {
+          "level": 3,
+          "text": "VENTANAS DE ALUMINIO"
+        },
+        {
+          "level": 4,
+          "text": "CUBREVENTANAS DE HIERRO"
+        },
+        {
+          "level": 3,
+          "text": "OTRAS"
+        },
+        {
+          "level": 2,
+          "text": "Lo Que Dicen Nuestros Clientes"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "CERRAJERÍA EN QUITO · ACCTURA"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Tannya Terán"
+                },
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5"
+                },
+                "reviewBody": "Excelente trabajo, recomendado."
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-gris-clara-ranuras.webp",
+          "alt": "Puerta de tool gris clara con ranuras horizontales, fabricada en Quito",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-hierro-negro-descanso-interior.webp",
+          "alt": "Pasamanos de hierro negro con travesaños en un descanso interior",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./otrosImagenes/piso-flotante-madera-instalacion.webp",
+          "alt": "Instalación de piso flotante con acabado de madera",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./puertasImagenes/cubre-puerta-gris-barrotes-volutas.webp",
+          "alt": "Cubre puerta metálica elegante en Quito",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./escalerasImagenes/escalera-caracol-metalica-peldanos-madera-quito.webp",
+          "alt": "Escalera en espiral quito ecuador",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./ventanasImagenes/ventana-aluminio-corrediza-marco-cafe.webp",
+          "alt": "Ventana de aluminio quito ecuador",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./otrosImagenes/cubierta-hierro-policarbonato-corrediza.gif",
+          "alt": "Instalación de piso flotante con acabado de madera",
+          "loading": "lazy",
+          "width": "640",
+          "height": "352"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "#Contacto",
+          "anchor": "Contacto"
+        },
+        {
+          "href": "./puertas",
+          "anchor": ""
+        },
+        {
+          "href": "./escaleras",
+          "anchor": ""
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": ""
+        },
+        {
+          "href": "./puertas",
+          "anchor": ""
+        },
+        {
+          "href": "./puertas",
+          "anchor": "SABER MÁS"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "SABER MÁS"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": ""
+        },
+        {
+          "href": "./ventanas",
+          "anchor": ""
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "SABER MÁS"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "SABER MÁS"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./style.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 265,
+      "bytes": 16376,
+      "url": "https://cerrajeriaquito.site/",
+      "file": "index.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "nosotros.html",
+      "title": "Sobre Nosotros | Cerrajería Acctura Quito - 22 Años de Experiencia",
+      "description": "Conoce a Cerrajería Acctura: más de 22 años fabricando puertas metálicas, portones, escaleras y estructuras en Quito. Trabajo a medida, medición en obra y atención en todo Quito y sus valles.",
+      "keywords": "cerrajería Quito, Acctura, trabajos en metal Quito, experiencia cerrajería Ecuador, taller metálico Quito",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/nosotros",
+      "og": {
+        "title": "Sobre Nosotros | Cerrajería Acctura Quito",
+        "description": "Más de 22 años fabricando puertas metálicas, portones, escaleras y estructuras en Quito. Trabajo a medida y atención en todo Quito y sus valles.",
+        "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+        "url": "https://cerrajeriaquito.site/nosotros"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Cerrajería con tradición y trabajo a medida en Quito"
+        },
+        {
+          "level": 1,
+          "text": "Sobre Cerrajería Acctura"
+        },
+        {
+          "level": 2,
+          "text": "¿Qué hacemos?"
+        },
+        {
+          "level": 2,
+          "text": "Nuestra zona de cobertura"
+        },
+        {
+          "level": 2,
+          "text": "¿Por qué confiar en nosotros?"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Sobre Cerrajería Acctura"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "ESCRÍBENOS POR WHATSAPP"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 295,
+      "bytes": 11559,
+      "url": "https://cerrajeriaquito.site/nosotros",
+      "file": "nosotros.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "pasamanos-acero-inoxidable.html",
+      "title": "Pasamanos de Acero Inoxidable en Quito | Modelos y Precios",
+      "description": "Fabricamos pasamanos de acero inoxidable en Quito y los valles: modelos con precio de referencia, para interior o exterior. Medimos en obra sin costo.",
+      "keywords": "pasamanos de acero inoxidable, pasamanos acero inoxidable quito, barandas de acero inoxidable, pasamanos con vidrio templado, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
+      "og": {
+        "title": "Pasamanos de Acero Inoxidable en Quito | Modelos y Precios",
+        "description": "Fabricamos pasamanos de acero inoxidable en Quito y los valles: modelos con precio de referencia, para interior o exterior. Medimos en obra sin costo.",
+        "image": "https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-vidrio-templado.webp",
+        "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Pasamanos de Acero Inoxidable en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Modelos y precios de referencia"
+        },
+        {
+          "level": 2,
+          "text": "Acero inoxidable o hierro: ¿cuál te conviene?"
+        },
+        {
+          "level": 2,
+          "text": "Pasamanos de acero inoxidable con vidrio templado"
+        },
+        {
+          "level": 2,
+          "text": "Para exteriores, terrazas y balcones"
+        },
+        {
+          "level": 2,
+          "text": "Cómo trabajamos: medición, fabricación e instalación"
+        },
+        {
+          "level": 2,
+          "text": "Mantenimiento de pasamanos de acero inoxidable"
+        },
+        {
+          "level": 2,
+          "text": "Zona de servicio"
+        },
+        {
+          "level": 2,
+          "text": "Preguntas frecuentes"
+        },
+        {
+          "level": 2,
+          "text": "Otros servicios"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Pasamanos de Acero Inoxidable en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": null,
+          "id": null,
+          "raw": {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Service",
+                "name": "Pasamanos de acero inoxidable en Quito",
+                "serviceType": "Fabricación e instalación de pasamanos de acero inoxidable",
+                "image": [
+                  "https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-curvo-accesorios-quito.webp",
+                  "https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-tubo-pared.webp",
+                  "https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-vidrio-templado.webp"
+                ],
+                "description": "Fabricación e instalación a medida de pasamanos de acero inoxidable en Quito y los valles, con opción de combinar con vidrio templado. Medición en obra sin costo.",
+                "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
+                "provider": {
+                  "@id": "https://cerrajeriaquito.site/#business"
+                },
+                "areaServed": [
+                  {
+                    "@type": "City",
+                    "name": "Quito"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Cumbayá"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Tumbaco"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Calderón"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Sangolquí"
+                  },
+                  {
+                    "@type": "City",
+                    "name": "Nayón"
+                  }
+                ]
+              },
+              {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Inicio",
+                    "item": "https://cerrajeriaquito.site/"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Escaleras",
+                    "item": "https://cerrajeriaquito.site/escaleras"
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Pasamanos de acero inoxidable",
+                    "item": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable"
+                  }
+                ]
+              },
+              {
+                "@type": "FAQPage",
+                "mainEntity": [
+                  {
+                    "@type": "Question",
+                    "name": "¿Cuánto cuesta un pasamanos de acero inoxidable en Quito?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Depende del modelo, el largo y los accesorios: en el catálogo de esta página hay precios de referencia por modelo. El precio final se confirma midiendo en obra, porque cada escalera, terraza o balcón tiene medidas distintas."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Qué diferencia hay entre un pasamanos de acero inoxidable y uno de hierro?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "El acero inoxidable no se oxida y casi no pide mantenimiento, por eso rinde mejor en exterior o donde hay humedad. El hierro con pintura electrostática cuesta menos y funciona bien en interiores, pero necesita repintarse con el tiempo si está a la intemperie."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿El acero inoxidable se oxida con la lluvia de Quito?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "No en condiciones normales de uso residencial. Es la razón por la que se recomienda para exteriores, terrazas y balcones frente al hierro."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Puedo combinar el pasamanos con vidrio templado?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Sí, es uno de los modelos del catálogo: estructura en acero inoxidable con paños de vidrio templado, un acabado más moderno y de gama alta que el pasamanos de tubo tradicional."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿La instalación daña la pared o el piso?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "El anclaje se hace según el tipo de superficie donde va el pasamanos (pared, piso o borde de losa), evaluado en la misma visita de medición, para no dañar el acabado existente."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Trabajan en Cumbayá, Tumbaco o los valles, o solo en Quito?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "El taller está en Quito y el servicio cubre Quito y los valles: Cumbayá, Tumbaco, Calderón, Sangolquí y Nayón."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Cómo se cotiza: hay que ir al taller o pueden medir en mi casa?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "La medición se hace en el sitio, sin costo. El primer contacto es por WhatsApp para agendar la visita."
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-acero-inoxidable-curvo-accesorios-quito.webp",
+          "alt": "Pasamanos de acero inoxidable con accesorios en escalera curva, instalado en Quito",
+          "loading": null,
+          "width": "481",
+          "height": "896"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos acero inox con accesorios",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-acero-inoxidable-tubo-pared.webp",
+          "alt": "Pasamanos de acero inoxidable de tubo adosado a la pared",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos acero inox",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-acero-inoxidable-vidrio-templado.webp",
+          "alt": "Pasamanos de acero inoxidable con vidrio templado",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de acero inox con vidrio templado",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-acero-inoxidable-travesanos-escalera.webp",
+          "alt": "Pasamanos de acero inoxidable con travesaños en escalera",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos de acero inox",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-acero-inoxidable-escalera-interior.webp",
+          "alt": "Pasamanos de acero inoxidable en escalera interior de vivienda",
+          "loading": "lazy",
+          "width": "889",
+          "height": "667"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos inox",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-acero-inoxidable-escalera-gris.webp",
+          "alt": "Pasamanos de acero inoxidable en escalera de peldaños grises",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos acero inox",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./escalerasImagenes/pasamanos-acero-inoxidable-escalera-colores.webp",
+          "alt": "Pasamanos de acero inoxidable en escalera de paredes de colores",
+          "loading": "lazy",
+          "width": "1032",
+          "height": "581"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pasamanos acero inox",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20pasamanos%20de%20acero%20inoxidable%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20pasamanos%20de%20acero%20inoxidable%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20pasamanos%20de%20acero%20inoxidable%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20pasamanos%20de%20acero%20inoxidable%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20pasamanos%20de%20acero%20inoxidable%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20pasamanos%20de%20acero%20inoxidable%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20pasamanos%20de%20acero%20inoxidable%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "nuestras gradas y escaleras metálicas"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "gradas y escaleras metálicas completas"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "remodelaciones"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "contacto"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 856,
+      "bytes": 26604,
+      "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
+      "file": "pasamanos-acero-inoxidable.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "puertas.html",
+      "title": "Puertas Metálicas en Quito | Hierro, Acero y Tool a Medida",
+      "description": "Fabricamos puertas metálicas a medida en Quito: hierro, acero, tool, batientes, corredizas y enrollables. 22 años de taller propio y medición en obra.",
+      "keywords": "puertas metálicas Quito, puertas de acero, puertas de hierro, puertas enrollables, puertas de garaje, cubre puertas, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/puertas",
+      "og": {
+        "title": "Puertas Metálicas en Quito | Hierro, Acero y Tool a Medida",
+        "description": "Fabricamos puertas metálicas a medida en Quito: hierro, acero, tool, batientes, corredizas y enrollables. 22 años de taller propio y medición en obra.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/puertas"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Puertas de acero, hierro, tool, mixtas, etc"
+        },
+        {
+          "level": 1,
+          "text": "Puertas Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Puertas Metálicas a Medida en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Modelos de puertas metálicas"
+        },
+        {
+          "level": 2,
+          "text": "Puertas metálicas para casas: qué material conviene"
+        },
+        {
+          "level": 2,
+          "text": "Precios de puertas metálicas: cómo leer el catálogo"
+        },
+        {
+          "level": 2,
+          "text": "Trabajos relacionados"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Puertas Metálicas en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": [
+              "https://cerrajeriaquito.site/puertasImagenes/puerta-metalica-tool-perforado-cafe-quito.webp",
+              "https://cerrajeriaquito.site/puertasImagenes/puerta-hierro-forjado-negra-volutas.webp",
+              "https://cerrajeriaquito.site/puertasImagenes/porton-garaje-blanco-vidrio-rejilla.webp"
+            ],
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./puertasImagenes/puerta-metalica-tool-perforado-cafe-quito.webp",
+          "alt": "Puerta metálica de tool perforado color café con manillón vertical, fabricada en Quito",
+          "loading": null,
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta con tool perforado",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-hierro-forjado-negra-volutas.webp",
+          "alt": "Puerta de hierro forjado negra con volutas ornamentales y vidrio",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta forjada",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/porton-garaje-blanco-vidrio-rejilla.webp",
+          "alt": "Portón de garaje blanco de tres hojas con vidrio y rejilla decorativa",
+          "loading": "lazy",
+          "width": "2384",
+          "height": "1792"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de Garage",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-gris-lisa-ranuras.webp",
+          "alt": "Puerta de tool gris lisa con ranuras horizontales y marco metálico",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de tool",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-tamborada-gris-moderna.webp",
+          "alt": "Puerta de tool tamborada gris oscura de diseño moderno con detalles cuadrados",
+          "loading": "lazy",
+          "width": "720",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de tool tamborada",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/cubre-puerta-hierro-negro-barrotes-volutas.webp",
+          "alt": "Cubre-puerta de hierro negro con barrotes verticales y volutas",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-puerta",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-gris-clara-ranuras.webp",
+          "alt": "Puerta de tool gris clara con ranuras horizontales en vivienda",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de tool",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-doble-hierro-forjado-negra-arco.webp",
+          "alt": "Puerta doble de hierro forjado negra con arco superior y volutas",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta forjada",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/porton-garaje-gris-chapa-lisa.webp",
+          "alt": "Portón de garaje gris de chapa lisa instalado en exterior",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de Garage",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-mixta-madera-hierro-forjado-arco.webp",
+          "alt": "Puerta mixta de madera y hierro forjado con arco superior",
+          "loading": "lazy",
+          "width": "779",
+          "height": "622"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta mixta",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-peatonal-hierro-roja-tablero.webp",
+          "alt": "Puerta peatonal de hierro color rojo con tablero y manillón vertical",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de hierro peatonal",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/porton-garaje-plateado-tableros-decorativos.webp",
+          "alt": "Portón de garaje plateado de dos hojas con tableros decorativos",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de garage",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-plateada-tablero-reja-rombos.webp",
+          "alt": "Puerta de tool plateada con tablero decorativo y reja superior de rombos",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de tool",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/cubre-puerta-negro-volutas-doradas.webp",
+          "alt": "Cubre-puerta de hierro negro con volutas y detalles dorados",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-puerta",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-granate-tableros-vidrio.webp",
+          "alt": "Puerta de tool color granate con tableros y vidrio alargado",
+          "loading": "lazy",
+          "width": "960",
+          "height": "1280"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de tool",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-negra-franjas-plateadas.webp",
+          "alt": "Puerta de tool negra con franjas plateadas horizontales",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de tool",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-gris-franjas-vidrios-cuadrados.webp",
+          "alt": "Puerta de tool gris con franjas horizontales y vidrios cuadrados",
+          "loading": "lazy",
+          "width": "720",
+          "height": "1280"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de tool",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-terracota-repujada-arco.webp",
+          "alt": "Puerta de tool color terracota con tableros repujados y arco superior",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de tool",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/cubre-puerta-gris-barrotes-volutas.webp",
+          "alt": "Cubre-puerta gris de dos cuerpos con barrotes y volutas",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-puerta",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/porton-garaje-listones-horizontales-instalacion.webp",
+          "alt": "Portón de garaje de listones horizontales durante su instalación",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de garage",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/porton-garaje-gris-listones-gran-anchura.webp",
+          "alt": "Portón de garaje gris de listones horizontales de gran anchura",
+          "loading": "lazy",
+          "width": "1032",
+          "height": "581"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de garage",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-peatonal-blanca-listones.webp",
+          "alt": "Puerta peatonal metálica blanca con listones horizontales",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta peatonal",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-mixta-madera-hierro-vitral-arco.webp",
+          "alt": "Puerta mixta de madera y hierro con arco decorado y vitral",
+          "loading": "lazy",
+          "width": "622",
+          "height": "1280"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta mixta",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tool-tamborada-gris-lisa.webp",
+          "alt": "Puerta de tool tamborada gris lisa con marco metálico",
+          "loading": "lazy",
+          "width": "581",
+          "height": "1032"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta tamborada de tool",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/cubre-puerta-blanco-cuadricula-arco.webp",
+          "alt": "Cubre-puerta blanco con cuadrícula y arco superior sobre puerta de vidrio",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-puerta",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/cubre-puerta-blanco-reja-arco.webp",
+          "alt": "Cubre-puerta blanco de reja cuadriculada con arco superior",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-puerta",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-vidrio-templado-bano.webp",
+          "alt": "Puerta de vidrio templado para baño con perfilería metálica",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de Vidrio Templado",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-metalica-imitacion-madera-arco-quito.webp",
+          "alt": "Puerta metálica peatonal con acabado imitación madera y arco superior, a medida en Quito",
+          "loading": "lazy",
+          "width": "963",
+          "height": "1280"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta metálica peatonal tipo madera",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-metalica-tamborada-vino.webp",
+          "alt": "Puerta metálica tamborada color vino instalada en obra",
+          "loading": "lazy",
+          "width": "963",
+          "height": "1280"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta metálica tamborada",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/porton-garaje-imitacion-madera-tableros.webp",
+          "alt": "Portón de garaje metálico con acabado imitación madera y tableros",
+          "loading": "lazy",
+          "width": "1280",
+          "height": "963"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta metálica de garaje tipo madera",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/porton-garaje-gris-azulado-dos-hojas.webp",
+          "alt": "Portón de garaje gris azulado de dos hojas con listones",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "1204"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta metálicade garage",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-mixta-madera-hierro-tableros.webp",
+          "alt": "Puerta mixta de madera con tableros y aplicaciones de hierro",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta mixta",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tamborada-negra-franjas-manillon.webp",
+          "alt": "Puerta tamborada negra con franjas plateadas y manillón vertical",
+          "loading": "lazy",
+          "width": "963",
+          "height": "1280"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta tamborada",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/puerta-tamborada-blanca-franjas-montante.webp",
+          "alt": "Puerta tamborada blanca con franjas horizontales y montante superior",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta tamborada",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./puertasImagenes/porton-garaje-hierro-forjado-ornamental-quito.webp",
+          "alt": "Portón de garaje en hierro forjado con ornamentación floral, fabricado a medida en Quito",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "1204"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Puerta de Garage con hierro forjado",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "puertas de garaje y portones"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "puertas de garaje metálicas y portones"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "gradas y escaleras metálicas"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "pasamanos de acero inoxidable"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "ventanas y protectores de ventana"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 824,
+      "bytes": 48367,
+      "url": "https://cerrajeriaquito.site/puertas",
+      "file": "puertas.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "puertasGaraje.html",
+      "title": "Puertas de Garaje y Portones Metálicos en Quito | Acctura",
+      "description": "Fabricamos e instalamos puertas de garaje y portones metálicos a medida en Quito: batientes, corredizos, enrollables y seccionales en hierro, acero y tool. Desde $850. Cotiza por WhatsApp.",
+      "keywords": "puertas de garaje Quito, portones metálicos Quito, portón corredizo, puerta enrollable, portón batiente, garaje Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/puertasGaraje",
+      "og": {
+        "title": "Puertas de Garaje y Portones Metálicos en Quito | Acctura",
+        "description": "Fabricamos e instalamos puertas de garaje y portones metálicos a medida en Quito. Batientes, corredizos, enrollables y seccionales. Desde $850. Cotiza por WhatsApp.",
+        "image": "https://cerrajeriaquito.site/portonesImagenes/porton-moderno-negro-quito.webp",
+        "url": "https://cerrajeriaquito.site/puertasGaraje"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Portones y puertas de garaje a medida en hierro, acero y tool"
+        },
+        {
+          "level": 1,
+          "text": "Puertas de Garaje y Portones Metálicos en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Tipos de portones que fabricamos"
+        },
+        {
+          "level": 2,
+          "text": "¿Por qué elegir Acctura?"
+        },
+        {
+          "level": 2,
+          "text": "Portones y Puertas de Garaje que Hemos Fabricado"
+        },
+        {
+          "level": 2,
+          "text": "Preguntas Frecuentes sobre Puertas de Garaje"
+        },
+        {
+          "level": 3,
+          "text": "¿Cuánto cuesta una puerta de garaje en Quito?"
+        },
+        {
+          "level": 3,
+          "text": "¿Qué tipos de puertas de garaje y portones fabrican?"
+        },
+        {
+          "level": 3,
+          "text": "¿Miden en obra antes de cotizar?"
+        },
+        {
+          "level": 3,
+          "text": "¿Cuánto tarda la fabricación e instalación?"
+        },
+        {
+          "level": 3,
+          "text": "¿En qué zonas de Quito instalan?"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Puertas de Garaje y Portones Metálicos en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "Service",
+          "id": null,
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "serviceType": "Fabricación e instalación de puertas de garaje y portones metálicos",
+            "image": [
+              "https://cerrajeriaquito.site/portonesImagenes/porton-moderno-negro-quito.webp",
+              "https://cerrajeriaquito.site/portonesImagenes/porton-metalico-batiente-dorado-quito.webp",
+              "https://cerrajeriaquito.site/portonesImagenes/porton-mixto-madera-hierro-quito.webp"
+            ],
+            "provider": {
+              "@type": "LocalBusiness",
+              "name": "Cerrajería Acctura Quito",
+              "alternateName": "ACCTURA",
+              "url": "https://cerrajeriaquito.site/",
+              "telephone": "+593995680603",
+              "image": "https://cerrajeriaquito.site/logoAcctura.webp",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+                "addressLocality": "Quito",
+                "addressRegion": "Pichincha",
+                "postalCode": "170407",
+                "addressCountry": "EC"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -0.211332,
+                "longitude": -78.5220702
+              }
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "USD",
+              "price": "850",
+              "description": "Puertas de garaje y portones metálicos a medida desde $850, según medidas y diseño."
+            }
+          }
+        },
+        {
+          "type": "FAQPage",
+          "id": null,
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "¿Cuánto cuesta una puerta de garaje en Quito?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Nuestras puertas de garaje y portones metálicos empiezan desde $850. El precio final varía según las medidas, el tipo de puerta (batiente, corrediza, enrollable o seccional) y el material. Medimos en obra para darte un presupuesto exacto y sin sorpresas."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Qué tipos de puertas de garaje y portones fabrican?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Fabricamos portones batientes, corredizos, enrollables y seccionales, en hierro, acero y tool. Cada puerta se hace a medida según el espacio y el diseño que necesites, con acabados resistentes para viviendas, conjuntos y locales comerciales."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Miden en obra antes de cotizar?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Sí. Realizamos la medición directamente en obra para calcular las dimensiones exactas y entregarte un presupuesto preciso del portón o puerta de garaje que necesitas."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Cuánto tarda la fabricación e instalación?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "El tiempo depende del tamaño y del diseño de la puerta. Te confirmamos el plazo exacto al momento de la cotización, después de la medición en obra."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿En qué zonas de Quito instalan?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Trabajamos en todo Quito y sus valles: Cumbayá, Tumbaco, Calderón, Los Chillos, Sangolquí, Nayón y alrededores."
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./portonesImagenes/porton-metalico-batiente-dorado-quito.webp",
+          "alt": "Portón metálico batiente color dorado con puerta peatonal en Quito",
+          "loading": "lazy",
+          "width": "898",
+          "height": "1200"
+        },
+        {
+          "src": "./portonesImagenes/porton-acabado-madera-quito.webp",
+          "alt": "Portón metálico con acabado imitación madera en Quito",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "903"
+        },
+        {
+          "src": "./portonesImagenes/porton-mixto-madera-hierro-quito.webp",
+          "alt": "Portón mixto de madera y hierro forjado en Quito",
+          "loading": "lazy",
+          "width": "675",
+          "height": "1200"
+        },
+        {
+          "src": "./portonesImagenes/porton-tablero-dorado-quito.webp",
+          "alt": "Portón metálico de tableros color dorado en Quito",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "902"
+        },
+        {
+          "src": "./portonesImagenes/porton-moderno-negro-quito.webp",
+          "alt": "Portón metálico moderno color negro en Quito",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "903"
+        },
+        {
+          "src": "./portonesImagenes/porton-conjunto-residencial-negro-quito.webp",
+          "alt": "Portón negro moderno para conjunto residencial en Quito",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "903"
+        },
+        {
+          "src": "./portonesImagenes/porton-cafe-listones-quito.webp",
+          "alt": "Portón metálico café con listones en Quito",
+          "loading": "lazy",
+          "width": "675",
+          "height": "1200"
+        },
+        {
+          "src": "./portonesImagenes/porton-microperforado-negro-quito.webp",
+          "alt": "Portón metálico microperforado color negro en Quito",
+          "loading": "lazy",
+          "width": "1200",
+          "height": "675"
+        },
+        {
+          "src": "./portonesImagenes/porton-tablero-decorativo-gris-quito.webp",
+          "alt": "Portón metálico gris con tableros decorativos en Quito",
+          "loading": "lazy",
+          "width": "675",
+          "height": "1200"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20y%20quiero%20cotizar%20una%20PUERTA%20DE%20GARAJE%20/%20PORT%C3%93N%20met%C3%A1lico...",
+          "anchor": "COTIZAR POR WHATSAPP"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css"
+      ],
+      "icons": [
+        "./logopag.webp"
+      ],
+      "wordCount": 430,
+      "bytes": 16955,
+      "url": "https://cerrajeriaquito.site/puertasGaraje",
+      "file": "puertasGaraje.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "remodelaciones.html",
+      "title": "¡Servicios para el hogar en Quito! Piso flotante, pérgolas, losas y techos metálicos",
+      "description": "¡Mejora tu hogar con nuestros servicios! Piso flotante, pérgolas de aluminio, losas Nova y techos metálicos. Solicita tu presupuesto gratuito en Quito, Ecuador.",
+      "keywords": "piso flotante, pérgolas con policarbonato, techo de policarbonato, teja, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/remodelaciones",
+      "og": {
+        "title": "Cubierta de Policarbonato | Instalacion Piso Flotante | Pérgolas | QUITO - ECUADOR",
+        "description": "¡Mejora tu hogar con nuestros servicios! Piso flotante, pérgolas de aluminio, losas Nova y techos metálicos. Solicita tu presupuesto gratuito en Quito, Ecuador.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/remodelaciones"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Remodelaciones de Espacios"
+        },
+        {
+          "level": 2,
+          "text": "Cubiertas de Policarbonato Quito"
+        },
+        {
+          "level": 2,
+          "text": "Remodelaciones y Servicios para el Hogar en Quito"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Remodelaciones de Espacios"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": [
+              "https://cerrajeriaquito.site/otrosImagenes/piso-flotante-madera-instalacion.webp",
+              "https://cerrajeriaquito.site/otrosImagenes/pergola-aluminio-policarbonato-listones.webp",
+              "https://cerrajeriaquito.site/otrosImagenes/pergola-policarbonato-estructura-blanca.webp"
+            ],
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./otrosImagenes/piso-flotante-madera-instalacion.webp",
+          "alt": "Instalación de piso flotante con acabado de madera",
+          "loading": null,
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Piso Flotante",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/pergola-aluminio-policarbonato-listones.webp",
+          "alt": "Pérgola de aluminio con policarbonato y listones vista desde abajo",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pérgola de aluminio con policarbonato",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/pergola-policarbonato-estructura-blanca.webp",
+          "alt": "Pérgola con policarbonato y estructura metálica blanca",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pérgola con policabonato",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/pergola-policarbonato-traslucido-blanca.webp",
+          "alt": "Pérgola de policarbonato traslúcido con perfilería blanca",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Pérgola con policabonato",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/techo-policarbonato-curvo-estructura.webp",
+          "alt": "Techo de policarbonato curvo sobre estructura metálica",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Techo con policarbonato",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/nova-losa-placa-colaborante-pasillo.webp",
+          "alt": "Nova losa con placa colaborante sobre pasillo",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Nova losa",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/cubierta-policarbonato-azul-hierro.webp",
+          "alt": "Cubierta de policarbonato azul con estructura de hierro",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Policarbonato con hierro",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/techo-metalico-tipo-teja-roja.webp",
+          "alt": "Techo metálico tipo teja color rojo",
+          "loading": "lazy",
+          "width": "1032",
+          "height": "581"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Techo metálico tipo teja",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/cubierta-policarbonato-sencilla-entrada.webp",
+          "alt": "Cubierta de policarbonato sencilla sobre entrada de vivienda",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "1204"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubierta de policabonato sencilla",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/estructura-metalica-fibrocemento-alero.webp",
+          "alt": "Estructura metálica con fibrocemento en alero",
+          "loading": "lazy",
+          "width": "1204",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Estructura con fibro cemento",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./otrosImagenes/cubierta-hierro-policarbonato-corrediza.gif",
+          "alt": "Cubierta corrediza de hierro con policarbonato",
+          "loading": "lazy",
+          "width": "640",
+          "height": "352"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubierta de hierro con policarbonato corrediza",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Otros%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp",
+        "./logopag.webp",
+        "./logopag.webp"
+      ],
+      "wordCount": 283,
+      "bytes": 21581,
+      "url": "https://cerrajeriaquito.site/remodelaciones",
+      "file": "remodelaciones.html",
+      "mtime": "2026-08-26"
+    },
+    {
+      "source": "ventanas.html",
+      "title": "Ventanas y Cubreventanas Metálicas en Quito - Fabricación a Medida",
+      "description": "Fabricación e instalación de ventanas y cubreventanas metálicas en Quito. Cubreventanas de hierro, protectores de ventana y ventanas corredizas a medida para tu hogar o negocio.",
+      "keywords": "ventanas, cubreventanas, cubreventanas metálicas, protectores de ventana, hierro, Quito, Ecuador",
+      "robots": "index, follow",
+      "canonical": "https://cerrajeriaquito.site/ventanas",
+      "og": {
+        "title": "Ventanas y Cubreventanas Metálicas | QUITO - ECUADOR",
+        "description": "Fabricación e instalación de ventanas y cubreventanas metálicas en Quito. Cubreventanas de hierro, protectores de ventana y ventanas corredizas a medida.",
+        "image": null,
+        "url": "https://cerrajeriaquito.site/ventanas"
+      },
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lang": "es-EC",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Ventanas y Cubreventanas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "Fabricación e Instalación de Cubreventanas Metálicas y Protectores"
+        },
+        {
+          "level": 2,
+          "text": "Ventanas y Cubreventanas Metálicas en Quito"
+        },
+        {
+          "level": 2,
+          "text": "CONTÁCTA CON NOSOTROS"
+        },
+        {
+          "level": 3,
+          "text": "CORREO ELECTRÓNICO"
+        }
+      ],
+      "h1": [
+        "Ventanas y Cubreventanas en Quito"
+      ],
+      "jsonld": [
+        {
+          "type": "LocalBusiness",
+          "id": "https://cerrajeriaquito.site/#business",
+          "raw": {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://cerrajeriaquito.site/#business",
+            "name": "Cerrajería Acctura Quito",
+            "alternateName": "ACCTURA",
+            "url": "https://cerrajeriaquito.site/",
+            "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
+            "image": [
+              "https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-hierro-blanco-arco-volutas.webp",
+              "https://cerrajeriaquito.site/ventanasImagenes/protector-ventana-blanco-arcos-ventanal.webp",
+              "https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-blanco-barrotes-volutas.webp"
+            ],
+            "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
+            "telephone": "+593995680603",
+            "email": "info@cerrajeriaquito.site",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
+              "addressLocality": "Quito",
+              "addressRegion": "Pichincha",
+              "postalCode": "170407",
+              "addressCountry": "EC"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": -0.211332,
+              "longitude": -78.5220702
+            },
+            "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "17:00"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Quito"
+              },
+              {
+                "@type": "City",
+                "name": "Cumbayá"
+              },
+              {
+                "@type": "City",
+                "name": "Tumbaco"
+              },
+              {
+                "@type": "City",
+                "name": "Calderón"
+              },
+              {
+                "@type": "City",
+                "name": "Sangolquí"
+              },
+              {
+                "@type": "City",
+                "name": "Nayón"
+              }
+            ],
+            "sameAs": [
+              "https://www.instagram.com/acctura",
+              "https://www.facebook.com/profile.php?id=100067007705024"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "./logoAcctura.webp",
+          "alt": "Cerrajería Acctura Quito",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./icons/menu.webp",
+          "alt": "Abrir menú de navegación",
+          "loading": null,
+          "width": "500",
+          "height": "500"
+        },
+        {
+          "src": "./ventanasImagenes/cubre-ventana-hierro-blanco-arco-volutas.webp",
+          "alt": "Cubre-ventana de hierro blanco con arco superior y volutas",
+          "loading": null,
+          "width": "1445",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/protector-ventana-blanco-arcos-ventanal.webp",
+          "alt": "Protector de ventana blanco con arcos sobre un ventanal amplio",
+          "loading": "lazy",
+          "width": "839",
+          "height": "783"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/cubre-ventana-blanco-barrotes-volutas.webp",
+          "alt": "Cubre-ventana blanco de barrotes verticales con volutas",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/cubre-ventana-blanco-volutas-exterior.webp",
+          "alt": "Cubre-ventana blanco con volutas en fachada exterior",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/protectores-ventanas-blanco-arcos-quito.webp",
+          "alt": "Protectores de ventanas blancos con arcos decorativos en Quito",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/cubre-ventana-blanco-rombos.webp",
+          "alt": "Cubre-ventana blanco con reja de rombos",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/cubre-ventana-negro-rombos.webp",
+          "alt": "Cubre-ventana negro con reja de rombos",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/cubre-ventana-blanco-rombos-ladrillo.webp",
+          "alt": "Cubre-ventana blanco de rombos sobre fachada de ladrillo",
+          "loading": "lazy",
+          "width": "1600",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/cubre-ventana-blanco-rombos-gran-formato.webp",
+          "alt": "Cubre-ventana blanco de gran formato con diseño de rombos",
+          "loading": "lazy",
+          "width": "1344",
+          "height": "900"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        },
+        {
+          "src": "./ventanasImagenes/cubre-ventana-negro-rombos-estrecha.webp",
+          "alt": "Cubre-ventana negro de rombos en ventana estrecha",
+          "loading": "lazy",
+          "width": "900",
+          "height": "1600"
+        },
+        {
+          "src": "./icons/whatsapp.webp",
+          "alt": "Escribir por WhatsApp sobre Cubre-ventana",
+          "loading": "lazy",
+          "width": "512",
+          "height": "512"
+        }
+      ],
+      "links": [
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "/",
+          "anchor": ""
+        },
+        {
+          "href": "/",
+          "anchor": "INICIO"
+        },
+        {
+          "href": "./puertas",
+          "anchor": "PUERTAS"
+        },
+        {
+          "href": "./puertasGaraje",
+          "anchor": "PUERTAS DE GARAJE"
+        },
+        {
+          "href": "./escaleras",
+          "anchor": "ESCALERAS"
+        },
+        {
+          "href": "./pasamanos-acero-inoxidable",
+          "anchor": "PASAMANOS ACERO INOX"
+        },
+        {
+          "href": "./ventanas",
+          "anchor": "VENTANAS"
+        },
+        {
+          "href": "./alucobond",
+          "anchor": "ALUCOBOND"
+        },
+        {
+          "href": "./remodelaciones",
+          "anchor": "REMODELACIONES"
+        },
+        {
+          "href": "./estructurasMetalicas",
+          "anchor": "ESTRUCTURAS METÁLICAS"
+        },
+        {
+          "href": "./nosotros",
+          "anchor": "NOSOTROS"
+        },
+        {
+          "href": "./contacto",
+          "anchor": "CONTACTO"
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": ""
+        },
+        {
+          "href": "https://api.whatsapp.com/send?phone=+593995680603&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC%20y%20quer%C3%ADa%20saber%20sobre...",
+          "anchor": "WHATSAPP"
+        },
+        {
+          "href": "https://www.instagram.com/acctura?utm_source=qr&igsh=bzlpaDVrOHc2ejYw",
+          "anchor": "Instagram"
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=100067007705024&sfnsn=wa&mibextid=RUbZ1f",
+          "anchor": "Facebook"
+        }
+      ],
+      "stylesheets": [
+        "./puertasStyle.css",
+        "./animaciones.css",
+        "./puertasStyle.css"
+      ],
+      "icons": [
+        "./logopag.webp",
+        "./logopag.webp"
+      ],
+      "wordCount": 269,
+      "bytes": 20456,
+      "url": "https://cerrajeriaquito.site/ventanas",
+      "file": "ventanas.html",
+      "mtime": "2026-08-26"
+    }
+  ],
+  "siteIssues": [
+    {
+      "kind": "jsonld-id-duplicado",
+      "value": "https://cerrajeriaquito.site/#business",
+      "urls": [
+        "https://cerrajeriaquito.site/alucobond",
+        "https://cerrajeriaquito.site/contacto",
+        "https://cerrajeriaquito.site/escaleras",
+        "https://cerrajeriaquito.site/estructurasMetalicas",
+        "https://cerrajeriaquito.site/",
+        "https://cerrajeriaquito.site/nosotros",
+        "https://cerrajeriaquito.site/puertas",
+        "https://cerrajeriaquito.site/remodelaciones",
+        "https://cerrajeriaquito.site/ventanas"
+      ],
+      "count": 9
+    }
+  ]
+}

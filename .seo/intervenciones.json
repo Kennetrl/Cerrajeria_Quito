@@ -90,6 +90,116 @@
       "description": "Añadido enlace a pasamanos-acero-inoxidable en la sección de trabajos relacionados, como segundo enlace entrante hacia la página nueva.",
       "before": null,
       "after": null
+    },
+    {
+      "id": "8crei60h",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/puertas",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "Las 35 fotos del catálogo pasan de inyectarse por JS a estar escritas en el HTML servido. La página tenía 2 <img> reales (logo y menú) y 24.578 impresiones de imagen en posición 30,8.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "4c63uq9p",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/ventanas",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "Las 10 fotos del catálogo pasan al HTML servido. 5.254 impresiones de imagen en posición 32,3.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "r5bcjqdu",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/escaleras",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "Las 9 fotos del catálogo pasan al HTML servido. 3.770 impresiones de imagen en posición 30,3.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "cd7329vo",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/estructurasMetalicas",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "Las 14 fotos del catálogo pasan al HTML servido. 358 impresiones de imagen.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "xzblg18b",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/remodelaciones",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "Las 11 fotos del catálogo pasan al HTML servido.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "93x8448y",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/alucobond",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "Las 5 fotos del catálogo pasan al HTML servido. 580 impresiones de imagen en posición 45,0.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "z3lub1nr",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/pasamanos-acero-inoxidable",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "Las 7 fotos del catálogo pasan al HTML servido.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "w2i7g2z5",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "optimizacion",
+      "track": "optimizacion",
+      "description": "Alt reescrito en las 93 imágenes tras revisarlas una a una: describe lo que se ve, sin el código interno de producto (N1 - ...). La keyword literal de cada página sólo en 1-2 imágenes. Corregidos 9 alt que contradecían la foto (decían negro sobre una puerta gris, acero inoxidable sobre un pasamanos de hierro).",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "mz2r3yuj",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "93 imágenes renombradas a kebab-case con significado (1puerta.webp -> puerta-metalica-tool-perforado-cafe-quito.webp), con las 105 referencias de HTML/JS/CSS actualizadas. Mapa en .seo/imagenes-map.json.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "knlubg5d",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "width/height reales, loading=lazy y decoding=async en las 226 imágenes; fetchpriority=high en la primera de cada galería. title con modelo y precio de referencia donde añade algo al alt.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "ih181ea9",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "JSON-LD: la propiedad image de 7 páginas pasa del logo a 3 fotos reales del trabajo de esa página. 12 bloques JSON-LD verificados válidos.",
+      "before": null,
+      "after": null
     }
   ]
 }
