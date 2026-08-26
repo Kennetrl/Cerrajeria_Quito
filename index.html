@@ -92,7 +92,11 @@
       "review": [
         {
           "@type": "Review",
-          "author": { "@type": "Person", "name": "Tannya Terán" },
+          "author": {
+            "@type": "Person",
+            "name": "Tannya Terán",
+            "image": "https://cerrajeriaquito.site/resenasImagenes/resena-tannya-teran.webp"
+          },
           "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
           "reviewBody": "Excelente trabajo, recomendado."
         }
@@ -268,14 +272,30 @@
                         class="imgSections gifs" width="640" height="352" loading="lazy" decoding="async"></a>
             </div>
         </section>
-        <section style="max-width: 900px; margin: 3rem auto; padding: 0 1.5rem; text-align: center;">
+        <section class="seccionResenas">
             <h2>Lo Que Dicen Nuestros Clientes</h2>
-            <blockquote style="max-width: 600px; margin: 1.5rem auto; padding: 1.5rem; border-left: 4px solid #c0392b; background: #f7f7f7; border-radius: 6px; text-align: left;">
-                <p style="font-size: 1.15rem; margin-bottom: 0.5rem;">★★★★★</p>
-                <p style="font-style: italic; margin-bottom: 0.75rem;">"Excelente trabajo, recomendado."</p>
-                <p style="font-weight: bold; margin: 0;">— Tannya Terán</p>
-                <p style="font-size: 0.9rem; color: #555; margin: 0;">Reseña verificada en Google</p>
-            </blockquote>
+            <figure class="resena">
+                <div class="resenaCabecera">
+                    <img src="./resenasImagenes/resena-tannya-teran.webp"
+                         alt="Tannya Terán, clienta de Cerrajería Acctura Quito"
+                         class="resenaAvatar" width="90" height="90" loading="lazy" decoding="async">
+                    <div class="resenaAutor">
+                        <p class="resenaNombre">Tannya Terán</p>
+                        <p class="resenaEstrellas" role="img" aria-label="Valoración: 5 de 5 estrellas">
+                            <span aria-hidden="true">★★★★★</span>
+                        </p>
+                    </div>
+                </div>
+                <blockquote class="resenaTexto">
+                    <p>«Excelente trabajo, recomendado.»</p>
+                </blockquote>
+                <figcaption class="resenaFuente">Reseña verificada en Google</figcaption>
+            </figure>
+            <p class="resenaCta">
+                <a href="https://maps.app.goo.gl/o4N5EfYNdetpeUyLA" target="_blank" rel="noopener">
+                    ¿Trabajamos contigo? Déjanos tu reseña en Google
+                </a>
+            </p>
         </section>
     </main>
     <!--Pie de Página - Contacto-->
