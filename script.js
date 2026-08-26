@@ -6,17 +6,8 @@ const domLineasDropdownContent = document.querySelector('.domLineas-dropdown-con
 menuLineas.addEventListener('click', toggleMenu);
 domLineasDropbtn.addEventListener('click', toggleServiciosMobile);
 
-const isIndex = window.location.pathname === '/' || window.location.pathname.endsWith('index.html');
-
 function toggleMenu() {
     domLineas.classList.toggle('inactive');
-    if (isIndex) {
-        if (domLineas.classList.contains('inactive')) {
-            menuLineas.src = './icons/menu.webp';
-        } else {
-            menuLineas.src = './icons/menu.webp';
-        }
-    }
 }
 
 function toggleServiciosMobile() {
