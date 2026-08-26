@@ -1,69 +1,412 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
    <url>
       <loc>https://cerrajeriaquito.site/</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-gris-clara-ranuras.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-negro-descanso-interior.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/piso-flotante-madera-instalacion.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/cubre-puerta-gris-barrotes-volutas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/escalera-caracol-metalica-peldanos-madera-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/ventana-aluminio-corrediza-marco-cafe.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/cubierta-hierro-policarbonato-corrediza.gif</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/resenasImagenes/resena-tannya-teran.webp</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/puertas</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-metalica-tool-perforado-cafe-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-hierro-forjado-negra-volutas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-blanco-vidrio-rejilla.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-gris-lisa-ranuras.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-tamborada-gris-moderna.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/cubre-puerta-hierro-negro-barrotes-volutas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-gris-clara-ranuras.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-doble-hierro-forjado-negra-arco.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-gris-chapa-lisa.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-mixta-madera-hierro-forjado-arco.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-peatonal-hierro-roja-tablero.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-plateado-tableros-decorativos.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-plateada-tablero-reja-rombos.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/cubre-puerta-negro-volutas-doradas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-granate-tableros-vidrio.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-negra-franjas-plateadas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-gris-franjas-vidrios-cuadrados.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-terracota-repujada-arco.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/cubre-puerta-gris-barrotes-volutas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-listones-horizontales-instalacion.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-gris-listones-gran-anchura.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-peatonal-blanca-listones.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-mixta-madera-hierro-vitral-arco.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-tamborada-gris-lisa.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/cubre-puerta-blanco-cuadricula-arco.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/cubre-puerta-blanco-reja-arco.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-vidrio-templado-bano.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-metalica-imitacion-madera-arco-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-metalica-tamborada-vino.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-imitacion-madera-tableros.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-gris-azulado-dos-hojas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-mixta-madera-hierro-tableros.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tamborada-negra-franjas-manillon.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tamborada-blanca-franjas-montante.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-hierro-forjado-ornamental-quito.webp</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/puertasGaraje</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-metalico-batiente-dorado-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-acabado-madera-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-mixto-madera-hierro-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-tablero-dorado-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-moderno-negro-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-conjunto-residencial-negro-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-cafe-listones-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-microperforado-negro-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-tablero-decorativo-gris-quito.webp</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/escaleras</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/escalera-caracol-metalica-peldanos-madera-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/gradas-metalicas-exteriores-pasamanos-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-negro-descanso-interior.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-negro-escalera-interior.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-gris-tramo-recto.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-negro-gradas-vivienda.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-blanco-escalera.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-negro-pasillo.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/gradas-metalicas-pasamanos-hierro-obra.webp</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/pasamanos-acero-inoxidable</loc>
-      <lastmod>2026-08-19</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-curvo-accesorios-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-tubo-pared.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-vidrio-templado.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-travesanos-escalera.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-escalera-interior.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-escalera-gris.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-acero-inoxidable-escalera-colores.webp</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/ventanas</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-hierro-blanco-arco-volutas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/protector-ventana-blanco-arcos-ventanal.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-blanco-barrotes-volutas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-blanco-volutas-exterior.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/protectores-ventanas-blanco-arcos-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-blanco-rombos.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-negro-rombos.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-blanco-rombos-ladrillo.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-blanco-rombos-gran-formato.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/cubre-ventana-negro-rombos-estrecha.webp</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/alucobond</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/alucobondImagenes/fachada-alucobond-naranja-local-comercial-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/alucobondImagenes/fachada-alucobond-edificio-gris-azul.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/alucobondImagenes/fachada-alucobond-ingreso-conjunto-residencial.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/alucobondImagenes/fachada-alucobond-rotulo-local-naranja.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/alucobondImagenes/fachada-alucobond-naranja-blanca-comercial.webp</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/remodelaciones</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/piso-flotante-madera-instalacion.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/pergola-aluminio-policarbonato-listones.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/pergola-policarbonato-estructura-blanca.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/pergola-policarbonato-traslucido-blanca.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/techo-policarbonato-curvo-estructura.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/nova-losa-placa-colaborante-pasillo.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/cubierta-policarbonato-azul-hierro.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/techo-metalico-tipo-teja-roja.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/cubierta-policarbonato-sencilla-entrada.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/estructura-metalica-fibrocemento-alero.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/otrosImagenes/cubierta-hierro-policarbonato-corrediza.gif</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/estructurasMetalicas</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/estructura-metalica-montaje-terraza-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/viga-metalica-interior-montaje.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/estructura-vigas-terraza-vista-ciudad.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/estructura-techo-perfiles-metalicos-patio.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/galpon-cubierta-metalica-interior.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/entrepiso-metalico-placa-colaborante.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/losa-metalica-pasillo-vivienda.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/estructura-gradas-metalicas-obra.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/estructura-metalica-entrepiso-cubierta-obra.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/pergola-metalica-montaje-terraza.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/cubierta-metalica-patio-vivienda-moderna.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/cubierta-policarbonato-traslucido-garaje.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/estructura-metalica-cubierta-roja-corredor.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/estructurasImagenes/gradas-metalicas-exteriores-edificio.webp</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/nosotros</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/contacto</loc>
-      <lastmod>2026-07-25</lastmod>
+      <lastmod>2026-08-26</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/puerta-tool-gris-clara-ranuras.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/cubre-puerta-gris-barrotes-volutas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/escalera-caracol-metalica-peldanos-madera-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/escalerasImagenes/pasamanos-hierro-negro-descanso-interior.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/ventana-aluminio-corrediza-marco-cafe.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/ventanasImagenes/ventana-aluminio-blanca-montante-superior.webp</image:loc>
+      </image:image>
    </url>
 </urlset>
