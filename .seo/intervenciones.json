@@ -200,6 +200,26 @@
       "description": "JSON-LD: la propiedad image de 7 páginas pasa del logo a 3 fotos reales del trabajo de esa página. 12 bloques JSON-LD verificados válidos.",
       "before": null,
       "after": null
+    },
+    {
+      "id": "g8a9k901",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "og:image declarado en las 11 páginas (7 no lo tenían, 2 apuntaban al logo), con og:image:width/height/alt y twitter:card + twitter:image, que no existían en ninguna. Causa del thumbnail equivocado en la SERP de /puertas: sin og:image, Google elegía solo, y hasta hoy el icono de hamburguesa era una de las 2 únicas imágenes del HTML.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "bkq0tnwl",
+      "date": "2026-08-26",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "icons/menu.webp reducido de 500x500 (7,4 KB) a 96x96 (1,6 KB). Se muestra a 40px: a 500x500 era candidato válido a thumbnail de la SERP además de peso muerto en las 11 páginas.",
+      "before": null,
+      "after": null
     }
   ]
 }

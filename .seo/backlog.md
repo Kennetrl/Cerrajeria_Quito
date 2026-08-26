@@ -60,7 +60,7 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 | 7 | Title y description de `/ventanas` sin «protectores de ventanas» ni «ventanas de aluminio» | `/ventanas` | optimizacion | ~118 clics de potencial | S | pendiente |
 | 8 | `@id` de `LocalBusiness` duplicado idéntico en las 9 páginas. Debe ser `Service` + `BreadcrumbList` por página, con el `LocalBusiness` sólo en home | todas | tecnico | crawl: 9 páginas | M | pendiente |
 | 9 | Sin `FAQPage` en ninguna página. Es la vía directa a ser citado por ChatGPT y Gemini | todas | optimizacion | 0 páginas | M | pendiente |
-| 10 | `og:image` ausente en páginas internas | varias | tecnico | 2 de 3 revisadas | XS | pendiente |
+| 10 | `og:image` ausente en páginas internas | varias | tecnico | 7 de 11 sin él, 2 con el logo | XS | **hecho 26 ago** — las 11 con `og:image` real + `twitter:card`. Ver el registro del thumbnail |
 | 11 | `aggregateRating` autodeclarado con `reviewCount: 1`. Coincide con la única reseña real del GBP. Google no lo muestra para LocalBusiness y es zona de riesgo | `index.html` | tecnico | — | XS | pendiente |
 | 12 | Titles demasiado largos (el de `/escaleras` pasa de 100 caracteres y se corta en la SERP) | varias | optimizacion | — | S | pendiente |
 | 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` | tecnico | crawl | XS | **hecho en /puertas 17 ago**; /ventanas sigue (es control) |
@@ -352,3 +352,36 @@ comparar `type: image` dentro de 2-3 semanas, cuando Google haya vuelto a rastre
 e indexar los nombres nuevos. Ojo: renombrar archivos **reinicia el historial de
 cada imagen en el índice**; es normal ver una caída de impresiones de imagen antes
 de la recuperación.
+
+
+## Registro — 26 ago 2026: el thumbnail de la SERP era el icono de hamburguesa
+
+Kennet enseñó el resultado de `/puertas` en Google: la miniatura era **el icono
+del menú** (tres barras blancas sobre negro) en vez de una puerta.
+
+Causa, confirmada en el código: `/puertas` tenía `og:locale`, `og:type`,
+`og:title`, `og:description`, `og:url` y `og:site_name` — **pero no `og:image`**.
+Sin esa etiqueta Google elige la miniatura por su cuenta, y hasta el trabajo de
+hoy el HTML de esa página sólo tenía dos imágenes: el logo y `icons/menu.webp`.
+Encima, el icono está guardado a **500x500**, tamaño de sobra para ser candidato.
+
+Es la entrada 10 del backlog, que estaba estimada como XS y catalogada como
+«social». No lo era: afectaba a cómo se ve el resultado en la búsqueda.
+
+Arreglado:
+
+- `og:image` en las 11 páginas, apuntando a una foto representativa de cada una
+  (7 no la tenían; `index` y `nosotros` apuntaban al logo). Con
+  `og:image:width`, `og:image:height` y `og:image:alt`.
+- `twitter:card` (`summary_large_image`) y `twitter:image` en las 11. No había
+  ninguna etiqueta de Twitter en todo el sitio.
+- `icons/menu.webp` reducido de 500x500 a **96x96** (7,4 KB → 1,6 KB). Se muestra
+  a 40px (`.lineas3 { height: 2.5rem }`), así que 96 va sobrado incluso en
+  pantallas retina, y deja de ser candidato a miniatura. `width`/`height`
+  actualizados en las 11 páginas.
+
+Con las 91 fotos ya en el HTML, el `image` del JSON-LD apuntando a fotos reales y
+ahora el `og:image` explícito, Google tiene tres señales coherentes donde antes
+tenía un icono. **Aun así la miniatura la elige Google**: esto mejora mucho las
+probabilidades, no las garantiza, y tarda en refrescarse lo que tarde el próximo
+rastreo.
