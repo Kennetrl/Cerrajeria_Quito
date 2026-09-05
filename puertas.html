@@ -34,61 +34,103 @@
     <meta name="twitter:image" content="https://cerrajeriaquito.site/puertasImagenes/puerta-metalica-tool-perforado-cafe-quito.webp" />
     <meta property="article:publisher" content="https://www.facebook.com/profile.php?id=100067007705024&locale=es_LA" />
 
-    <link rel="stylesheet" href="./animaciones.css?v=20260826">
-    <link rel="stylesheet" href="./puertasStyle.css?v=20260826">
+    <link rel="stylesheet" href="./animaciones.css?v=20260907">
+    <link rel="stylesheet" href="./puertasStyle.css?v=20260907">
     <link rel="icon" href="./logopag.webp">
 
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "@id": "https://cerrajeriaquito.site/#business",
-      "name": "Cerrajería Acctura Quito",
-      "alternateName": "ACCTURA",
-      "url": "https://cerrajeriaquito.site/",
-      "logo": "https://cerrajeriaquito.site/logoAcctura.webp",
-      "image": [
-        "https://cerrajeriaquito.site/puertasImagenes/puerta-metalica-tool-perforado-cafe-quito.webp",
-        "https://cerrajeriaquito.site/puertasImagenes/puerta-hierro-forjado-negra-volutas.webp",
-        "https://cerrajeriaquito.site/puertasImagenes/porton-garaje-blanco-vidrio-rejilla.webp"
-      ],
-      "description": "Cerrajería en Quito con más de 22 años de experiencia en fabricación e instalación de puertas metálicas, portones, puertas de garaje, escaleras, pasamanos de acero inoxidable, ventanas de aluminio, estructuras metálicas y fachadas de Alucobond.",
-      "telephone": "+593995680603",
-      "email": "info@cerrajeriaquito.site",
-      "priceRange": "$$",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Pedro de Zumárraga y Álvarez de Cuéllar",
-        "addressLocality": "Quito",
-        "addressRegion": "Pichincha",
-        "postalCode": "170407",
-        "addressCountry": "EC"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": -0.211332,
-        "longitude": -78.5220702
-      },
-      "hasMap": "https://maps.app.goo.gl/o4N5EfYNdetpeUyLA",
-      "openingHoursSpecification": [
+      "@graph": [
         {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-          "opens": "07:00",
-          "closes": "17:00"
+          "@type": "Service",
+          "name": "Puertas metálicas a medida en Quito",
+          "serviceType": "Fabricación e instalación de puertas metálicas en hierro, acero y tool",
+          "image": [
+            "https://cerrajeriaquito.site/puertasImagenes/puerta-metalica-tool-perforado-cafe-quito.webp",
+            "https://cerrajeriaquito.site/puertasImagenes/puerta-hierro-forjado-negra-volutas.webp",
+            "https://cerrajeriaquito.site/puertasImagenes/porton-garaje-blanco-vidrio-rejilla.webp"
+          ],
+          "description": "Fabricación e instalación a medida de puertas metálicas en Quito y los valles: batientes, corredizas, enrollables, mixtas y cubre puertas, en hierro, acero y tool. Medición en obra sin costo.",
+          "url": "https://cerrajeriaquito.site/puertas",
+          "provider": { "@id": "https://cerrajeriaquito.site/#business" },
+          "areaServed": [
+            { "@type": "City", "name": "Quito" },
+            { "@type": "City", "name": "Cumbayá" },
+            { "@type": "City", "name": "Tumbaco" },
+            { "@type": "City", "name": "Calderón" },
+            { "@type": "City", "name": "Sangolquí" },
+            { "@type": "City", "name": "Nayón" }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://cerrajeriaquito.site/" },
+            { "@type": "ListItem", "position": 2, "name": "Puertas metálicas", "item": "https://cerrajeriaquito.site/puertas" }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Cuánto cuesta una puerta metálica en Quito?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los precios de los modelos de esta página son de referencia, sobre puertas ya fabricadas en medidas corrientes de vivienda. El precio final depende de las medidas del vano, el material y espesor, el tipo de apertura, el acabado y los extras como cerradura de seguridad. Medimos en obra sin costo y con esa medida damos el precio exacto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué material conviene para una puerta metálica de casa: hierro, acero o tool?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El hierro admite cualquier diseño, se repara fácil y con pintura electrostática aguanta muy bien; es la opción más equilibrada para una puerta de ingreso. El acero da más resistencia con menos peso, se nota en hojas grandes. El tool (plancha doblada) permite acabados planos y modernos, con tableros decorativos o microperforados. En exteriores muy expuestos, el acabado y la pintura importan más que el metal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué es una puerta de tool y una puerta tamborada?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tool es plancha metálica doblada que da una cara lisa y plana. Una puerta tamborada es la que lleva tool por las dos caras con refuerzos internos, así queda cerrada, más rígida y con aspecto de puerta de madera pero en metal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Hacen puertas mixtas de hierro con madera o vidrio?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. Las puertas mixtas combinan la estructura metálica con paños de madera o de vidrio templado, para que la puerta pese menos visualmente sin perder seguridad. Es un modelo frecuente en ingresos de vivienda."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿La puerta se fabrica a medida o son medidas fijas?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Todo se fabrica a medida del vano. No trabajamos con catálogo cerrado: el modelo se define con el cliente según el hueco que hay, el uso de la puerta y el estilo de la fachada."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Instalan y dan mantenimiento, o solo fabrican?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fabricamos, instalamos y damos mantenimiento. Con taller propio en Quito y 22 años de oficio, el mismo taller que fabrica es el que instala y el que responde después por ajustes o reparación."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Trabajan en Cumbayá, Tumbaco y los valles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. El taller está en Quito y el servicio cubre Quito y los valles: Cumbayá, Tumbaco, Calderón, Sangolquí y Nayón."
+              }
+            }
+          ]
         }
-      ],
-      "areaServed": [
-        { "@type": "City", "name": "Quito" },
-        { "@type": "City", "name": "Cumbayá" },
-        { "@type": "City", "name": "Tumbaco" },
-        { "@type": "City", "name": "Calderón" },
-        { "@type": "City", "name": "Sangolquí" },
-        { "@type": "City", "name": "Nayón" }
-      ],
-      "sameAs": [
-        "https://www.instagram.com/acctura",
-        "https://www.facebook.com/profile.php?id=100067007705024"
       ]
     }
     </script>
@@ -149,7 +191,19 @@
             <h2>Puertas de acero, hierro, tool, mixtas, etc</h2>
             <h1>Puertas Metálicas en Quito</h1>
         </section>
+
+        <section class="prosa" style="max-width: 900px; margin: 2rem auto; padding: 1rem 2rem; line-height: 1.6;">
+            <p>Fabricamos e instalamos <strong>puertas metálicas a medida en Quito</strong> para viviendas,
+                locales comerciales y garajes. Trabajamos con hierro, acero y tool para puertas resistentes,
+                seguras y con acabados que se adaptan al estilo de cada fachada.</p>
+            <p>Hacemos puertas batientes, corredizas y enrollables,
+                <a href="./puertasGaraje">puertas de garaje y portones</a>, cubre puertas metálicas y puertas
+                mixtas que combinan metal con madera o vidrio. Cada puerta se fabrica según las medidas del
+                vano y el diseño que necesites; medimos en obra sin costo para darte el precio exacto.</p>
+        </section>
+
         <section class="sectionMain2">
+            <h2 style="text-align: center;">Modelos y precios de referencia</h2>
             <div class="cards-container">
         <!-- Catálogo. Está escrito en el HTML a propósito: Google Imágenes
              indexa mal lo que sólo aparece tras ejecutar JavaScript.
@@ -160,7 +214,7 @@
           <div class="product-info">
             <div>
             <p>$300</p>
-            <p>N1 - Puerta con tool perforado</p>
+            <p>Puerta con tool perforado · Ref. N1</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -174,7 +228,7 @@
           <div class="product-info">
             <div>
             <p>$450</p>
-            <p>N2 - Puerta forjada</p>
+            <p>Puerta forjada · Ref. N2</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -188,7 +242,7 @@
           <div class="product-info">
             <div>
             <p>$1200</p>
-            <p>N3 - Puerta de Garage</p>
+            <p>Puerta de Garage · Ref. N3</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -202,7 +256,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N5 - Puerta de tool</p>
+            <p>Puerta de tool · Ref. N5</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -216,7 +270,7 @@
           <div class="product-info">
             <div>
             <p>$380</p>
-            <p>N7 - Puerta de tool tamborada</p>
+            <p>Puerta de tool tamborada · Ref. N7</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -230,7 +284,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N8 - Cubre-puerta</p>
+            <p>Cubre-puerta · Ref. N8</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -244,7 +298,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N11 - Puerta de tool</p>
+            <p>Puerta de tool · Ref. N11</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -258,7 +312,7 @@
           <div class="product-info">
             <div>
             <p>$1200</p>
-            <p>N12 - Puerta forjada</p>
+            <p>Puerta forjada · Ref. N12</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -272,7 +326,7 @@
           <div class="product-info">
             <div>
             <p>$750</p>
-            <p>N14 - Puerta de Garage</p>
+            <p>Puerta de Garage · Ref. N14</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -286,7 +340,7 @@
           <div class="product-info">
             <div>
             <p>$290</p>
-            <p>N15 - Puerta mixta</p>
+            <p>Puerta mixta · Ref. N15</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -300,7 +354,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N17 - Puerta de hierro peatonal</p>
+            <p>Puerta de hierro peatonal · Ref. N17</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -314,7 +368,7 @@
           <div class="product-info">
             <div>
             <p>$800</p>
-            <p>N22 - Puerta de garage</p>
+            <p>Puerta de garage · Ref. N22</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -328,7 +382,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N25 - Puerta de tool</p>
+            <p>Puerta de tool · Ref. N25</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -342,7 +396,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N28 - Cubre-puerta</p>
+            <p>Cubre-puerta · Ref. N28</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -356,7 +410,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N29 - Puerta de tool</p>
+            <p>Puerta de tool · Ref. N29</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -370,7 +424,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N30 - Puerta de tool</p>
+            <p>Puerta de tool · Ref. N30</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -384,7 +438,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N31 - Puerta de tool</p>
+            <p>Puerta de tool · Ref. N31</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -398,7 +452,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N32 - Puerta de tool</p>
+            <p>Puerta de tool · Ref. N32</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -412,7 +466,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N33 - Cubre-puerta</p>
+            <p>Cubre-puerta · Ref. N33</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -426,7 +480,7 @@
           <div class="product-info">
             <div>
             <p>$800</p>
-            <p>N34 - Puerta de garage</p>
+            <p>Puerta de garage · Ref. N34</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -440,7 +494,7 @@
           <div class="product-info">
             <div>
             <p>$800</p>
-            <p>N35 - Puerta de garage</p>
+            <p>Puerta de garage · Ref. N35</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -454,7 +508,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N36 - Puerta peatonal</p>
+            <p>Puerta peatonal · Ref. N36</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -468,7 +522,7 @@
           <div class="product-info">
             <div>
             <p>$290</p>
-            <p>N37 - Puerta mixta</p>
+            <p>Puerta mixta · Ref. N37</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -482,7 +536,7 @@
           <div class="product-info">
             <div>
             <p>$350</p>
-            <p>N38 - Puerta tamborada de tool</p>
+            <p>Puerta tamborada de tool · Ref. N38</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -496,7 +550,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N40 - Cubre-puerta</p>
+            <p>Cubre-puerta · Ref. N40</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -510,7 +564,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N42 - Cubre-puerta</p>
+            <p>Cubre-puerta · Ref. N42</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -524,7 +578,7 @@
           <div class="product-info">
             <div>
             <p>$550</p>
-            <p>N43 - Puerta de Vidrio Templado</p>
+            <p>Puerta de Vidrio Templado · Ref. N43</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -538,7 +592,7 @@
           <div class="product-info">
             <div>
             <p>$250</p>
-            <p>N44 - Puerta metálica peatonal tipo madera</p>
+            <p>Puerta metálica peatonal tipo madera · Ref. N44</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -552,7 +606,7 @@
           <div class="product-info">
             <div>
             <p>$350</p>
-            <p>N47 - Puerta metálica tamborada</p>
+            <p>Puerta metálica tamborada · Ref. N47</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -566,7 +620,7 @@
           <div class="product-info">
             <div>
             <p>$800</p>
-            <p>N48 - Puerta metálica de garaje tipo madera</p>
+            <p>Puerta metálica de garaje tipo madera · Ref. N48</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -580,7 +634,7 @@
           <div class="product-info">
             <div>
             <p>$800</p>
-            <p>N49 - Puerta metálicade garage</p>
+            <p>Puerta metálica de garage · Ref. N49</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -594,7 +648,7 @@
           <div class="product-info">
             <div>
             <p>$290</p>
-            <p>N50 - Puerta mixta</p>
+            <p>Puerta mixta · Ref. N50</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -608,7 +662,7 @@
           <div class="product-info">
             <div>
             <p>$350</p>
-            <p>N51 - Puerta tamborada</p>
+            <p>Puerta tamborada · Ref. N51</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -622,7 +676,7 @@
           <div class="product-info">
             <div>
             <p>$350</p>
-            <p>N52 - Puerta tamborada</p>
+            <p>Puerta tamborada · Ref. N52</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -636,7 +690,7 @@
           <div class="product-info">
             <div>
             <p>$3000</p>
-            <p>N53 - Puerta de Garage con hierro forjado</p>
+            <p>Puerta de Garage con hierro forjado · Ref. N53</p>
           </div>
           <a href="https://api.whatsapp.com/send?phone=+593995680603&amp;text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre..." target="_blank" rel="noopener">
             <figure>
@@ -646,19 +700,6 @@
         </div>
       </div>
       </div>
-        </section>
-
-        <section class="prosa" style="max-width: 900px; margin: 2rem auto; padding: 1rem 2rem; line-height: 1.6;">
-            <h2>Puertas Metálicas a Medida en Quito</h2>
-            <p>Fabricamos e instalamos puertas metálicas en Quito para viviendas, locales comerciales y garajes.
-                Trabajamos con hierro, acero y tool para ofrecer puertas resistentes, seguras y con acabados elegantes
-                que se adaptan al estilo de cada espacio.</p>
-            <p>Nuestro catálogo incluye puertas batientes, puertas enrollables, puertas corredizas,
-                <a href="./puertasGaraje">puertas de garaje y portones</a>,
-                cubre puertas metálicas y puertas mixtas que combinan metal con madera o vidrio. Cada puerta se fabrica
-                a medida según las dimensiones y diseño que el cliente necesite.</p>
-            <p>Todos nuestros trabajos incluyen medición en obra para un presupuesto exacto. Contáctanos por WhatsApp
-                para cotizar tu puerta metálica en Quito.</p>
         </section>
 
         <section class="prosa" style="max-width: 900px; margin: 2rem auto; padding: 1rem 2rem; line-height: 1.6;">
@@ -707,6 +748,61 @@
                 <a href="./ventanas">ventanas y protectores de ventana</a> en hierro y aluminio.</p>
             <p>Trabajamos en todo Quito y en los valles: Cumbayá, Tumbaco, Calderón, Sangolquí y Nayón.</p>
         </section>
+
+        <section class="prosa" style="max-width: 900px; margin: 2rem auto; padding: 1rem 2rem; line-height: 1.6;">
+            <h2>Preguntas frecuentes</h2>
+
+            <details>
+                <summary>¿Cuánto cuesta una puerta metálica en Quito?</summary>
+                <p>Los precios de los modelos de esta página son de referencia, sobre puertas ya fabricadas
+                    en medidas corrientes de vivienda. El precio final depende de las medidas del vano, el
+                    material y espesor, el tipo de apertura, el acabado y los extras como cerradura de
+                    seguridad. Medimos en obra sin costo y con esa medida damos el precio exacto.</p>
+            </details>
+
+            <details>
+                <summary>¿Qué material conviene para una puerta metálica de casa: hierro, acero o tool?</summary>
+                <p>El hierro admite cualquier diseño, se repara fácil y con pintura electrostática aguanta
+                    muy bien; es la opción más equilibrada para una puerta de ingreso. El acero da más
+                    resistencia con menos peso, se nota en hojas grandes. El tool permite acabados planos y
+                    modernos, con tableros decorativos o microperforados. En exteriores muy expuestos, el
+                    acabado y la pintura importan más que el metal.</p>
+            </details>
+
+            <details>
+                <summary>¿Qué es una puerta de tool y una puerta tamborada?</summary>
+                <p>El tool es plancha metálica doblada que da una cara lisa y plana. Una puerta tamborada es
+                    la que lleva tool por las dos caras con refuerzos internos, así queda cerrada, más
+                    rígida y con aspecto de puerta de madera pero en metal.</p>
+            </details>
+
+            <details>
+                <summary>¿Hacen puertas mixtas de hierro con madera o vidrio?</summary>
+                <p>Sí. Las puertas mixtas combinan la estructura metálica con paños de madera o de vidrio
+                    templado, para que la puerta pese menos visualmente sin perder seguridad. Es un modelo
+                    frecuente en ingresos de vivienda.</p>
+            </details>
+
+            <details>
+                <summary>¿La puerta se fabrica a medida o son medidas fijas?</summary>
+                <p>Todo se fabrica a medida del vano. No trabajamos con catálogo cerrado: el modelo se
+                    define con el cliente según el hueco que hay, el uso de la puerta y el estilo de la
+                    fachada.</p>
+            </details>
+
+            <details>
+                <summary>¿Instalan y dan mantenimiento, o solo fabrican?</summary>
+                <p>Fabricamos, instalamos y damos mantenimiento. Con taller propio en Quito y 22 años de
+                    oficio, el mismo taller que fabrica es el que instala y el que responde después por
+                    ajustes o reparación.</p>
+            </details>
+
+            <details>
+                <summary>¿Trabajan en Cumbayá, Tumbaco y los valles?</summary>
+                <p>Sí. El taller está en Quito y el servicio cubre Quito y los valles: Cumbayá, Tumbaco,
+                    Calderón, Sangolquí y Nayón.</p>
+            </details>
+        </section>
     </main>
 
     <footer>
@@ -743,7 +839,7 @@
         </section>
     </footer>
 
-    <script src="./script.js?v=20260826"></script>
+    <script src="./script.js?v=20260907"></script>
     <script>
     document.addEventListener("DOMContentLoaded", function() {
       const whatsappLinks = document.querySelectorAll('a[href*="whatsapp"], a[href*="wa.me"], a[href*="api.whatsapp"]');

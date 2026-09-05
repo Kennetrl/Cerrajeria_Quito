@@ -220,6 +220,156 @@
       "description": "icons/menu.webp reducido de 500x500 (7,4 KB) a 96x96 (1,6 KB). Se muestra a 40px: a 500x500 era candidato válido a thumbnail de la SERP además de peso muerto en las 11 páginas.",
       "before": null,
       "after": null
+    },
+    {
+      "id": "sp05vnt1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/ventanas",
+      "type": "title",
+      "track": "optimizacion",
+      "description": "Title y description reescritos. Google reescribía el title y fabricaba la description con el H2 + alt de la 1a foto + '$55 N2 - Cubre-ventana' (visto en SERP 5 sep). Nuevo enfoque: cubreventana/protector/reja + hierro/fierro + aluminio. 13.789 imp/3m, CTR 1,13%.",
+      "before": "Ventanas y Cubreventanas Metálicas en Quito - Fabricación a Medida",
+      "after": "Cubreventanas, Protectores y Rejas de Ventana en Quito | Hierro y Aluminio"
+    },
+    {
+      "id": "sp05vnt2",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/ventanas",
+      "type": "encabezados",
+      "track": "optimizacion",
+      "description": "Reestructura: texto descriptivo movido ANTES de la cuadrícula de catálogo (antes iba después, así lo primero tras el H1 era '$55 N2'). Códigos N# fuera de la primera línea, ahora 'Ref. N2' al final de un nombre descriptivo. H1 pasa a 'Cubreventanas, Protectores y Rejas de Ventana en Quito'.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05vnt3",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/ventanas",
+      "type": "contenido",
+      "track": "optimizacion",
+      "description": "Secciones nuevas: 'Ventanas de aluminio' (547 imp de 'ventanas de aluminio' + variantes llegaban a una página que sólo hablaba de hierro), 'Ventanas y marcos de hierro (fierro)' (394 imp web de 'fierro', 0 en el sitio), y 'reja/protector' como sinónimos. Palabra 'fierro' introducida por primera vez en el sitio.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05fq01",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/ventanas",
+      "type": "faq",
+      "track": "optimizacion",
+      "description": "FAQPage (JSON-LD + acordeón <details> visible) con 8 preguntas tomadas del bloque 'Más preguntas' real de Google: cómo se llama, cuánto cuestan las protecciones de fierro, qué material, proteger sin rejas, tipos de rejas/protectores, aluminio. Se descartaron las de 'cubrir sin cortinas' (intención decorativa, no seguridad).",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05alu1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/alucobond",
+      "type": "title",
+      "track": "optimizacion",
+      "description": "Title de 70 a 56 car. y sin '¡'. H1 de 'Alucobond: La Solución Perfecta para Fachadas Modernas en Ecuador' a 'Alucobond en Quito: Fachadas y Revestimientos de Aluminio'. 1.287 imp de 'alucobond' en pos 11,1 con 0 clics (página 2).",
+      "before": "Instalación de Alucobond en Quito, Ecuador | Fachadas y Revestimientos",
+      "after": "Alucobond en Quito: Fachadas y Revestimientos de Aluminio"
+    },
+    {
+      "id": "sp05alu2",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/alucobond",
+      "type": "contenido",
+      "track": "optimizacion",
+      "description": "Intro descriptiva antes del catálogo; primeros párrafos del content-section reescritos con contexto de Quito (locales, rótulos, edificios) en vez de relleno genérico. Códigos 'N1 - Fachada de Alucobond' -> nombre + 'Ref. N1'. Corregido el texto de WhatsApp de las 5 tarjetas: decía 'sección de Ventanas-Cubreventas'. Enlaces internos a estructuras/ventanas/puertas.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05alu3",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/alucobond",
+      "type": "faq",
+      "track": "optimizacion",
+      "description": "FAQPage (JSON-LD + <details>) con 5 preguntas: qué es y para qué sirve, cuánto cuesta en Quito, casas vs locales/edificios, duración/mantenimiento, valles.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05pue1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/puertas",
+      "type": "encabezados",
+      "track": "tecnico",
+      "description": "Reestructura: la 1a sección de prosa ('Puertas Metálicas a Medida en Quito', 3 párrafos) movida ANTES de las 35 tarjetas del catálogo. Era la peor de las 6 páginas afectadas: 35 códigos '$300 N1' por delante del texto en la página de 41.785 imp/3m. Los 35 códigos N# pasan a 'Ref. N#' al final del nombre.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05pue2",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/puertas",
+      "type": "faq",
+      "track": "optimizacion",
+      "description": "FAQPage (JSON-LD + <details>) con 7 preguntas: precio, material (hierro/acero/tool), tool y tamborada, mixtas hierro+madera/vidrio, a medida, instalación/mantenimiento, valles.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05esc1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/escaleras",
+      "type": "encabezados",
+      "track": "tecnico",
+      "description": "Reestructura: intro descriptiva antes del catálogo; 9 códigos N# a 'Ref. N#'. FAQPage (JSON-LD + <details>) con 7 preguntas: gradas=escaleras, precio, tipos, pasamanos incluido, exteriores, reparación, valles. 'gradas metalicas' 648 imp pos 4,6.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05est1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/estructurasMetalicas",
+      "type": "title",
+      "track": "optimizacion",
+      "description": "Title de 68 a 58 car. con 'techos, galpones, cubiertas'. og:locale es_ES->es_EC. Intro descriptiva antes del catálogo; prosa con class='prosa' (antes sin, enlaces invisibles). FAQPage (JSON-LD + <details>) con 5 preguntas: tipos, cómo se cotiza, obra para constructoras, policarbonato/pérgolas, fuera de Quito. Enlaces internos nuevos.",
+      "before": "Estructuras Metálicas en Quito - Fabricación e Instalación | Ecuador",
+      "after": "Estructuras Metálicas en Quito: Techos, Galpones y Cubiertas"
+    },
+    {
+      "id": "sp05rem1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/remodelaciones",
+      "type": "title",
+      "track": "optimizacion",
+      "description": "Title de 84 car. con '¡' a 60 sin. og:locale es_ES->es_EC. Intro antes del catálogo; prosa con class='prosa'. Typos visibles en tarjetas corregidos ('policabonato' x4, 'fibro cemento'). FAQPage (JSON-LD + <details>) con 5 preguntas. Enlaces internos nuevos.",
+      "before": "¡Servicios para el hogar en Quito! Piso flotante, pérgolas, losas y techos metálicos",
+      "after": "Remodelaciones en Quito: Policarbonato, Piso Flotante y Techos"
+    },
+    {
+      "id": "sp05fqh1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "faq",
+      "track": "optimizacion",
+      "description": "FAQPage añadido a index, nosotros y contacto (2o bloque JSON-LD + acordeón visible). Home: 6 preguntas generales (servicios, taller/horario, cotización, visita gratis, zonas, años). Regla CSS de acordeón .faqHome añadida a style.css porque index no carga puertasStyle.css. Cierra backlog #9 (FAQPage en todas las páginas).",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05lb01",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "LocalBusiness dejaba de duplicarse en 7 páginas de servicio (puertas, ventanas, alucobond, escaleras, estructuras, remodelaciones) y en puertasGaraje: ahora Service + BreadcrumbList + FAQPage en @graph, con provider por @id al #business de la home. La home, nosotros y contacto conservan el LocalBusiness completo. Cierra backlog #8.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "sp05ver1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/",
+      "type": "tecnico",
+      "track": "tecnico",
+      "description": "Cache-busting ?v=20260826 -> ?v=20260907 en css y js de las 11 páginas (33 refs). style.css cambió (regla .faqHome nueva).",
+      "before": null,
+      "after": null
     }
   ]
 }
