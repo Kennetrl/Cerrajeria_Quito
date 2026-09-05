@@ -370,6 +370,26 @@
       "description": "Cache-busting ?v=20260826 -> ?v=20260907 en css y js de las 11 páginas (33 refs). style.css cambió (regla .faqHome nueva).",
       "before": null,
       "after": null
+    },
+    {
+      "id": "sp05alrm",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/ventanas",
+      "type": "contenido",
+      "track": "optimizacion",
+      "description": "Por decisión de negocio (el aluminio no da rentabilidad ahora, «quizá otro día») se deja de perseguir aluminio en /ventanas. Title/description/JSON-LD/FAQ vuelven a hierro y fierro; se quita la sección propia de aluminio y queda una sola línea neutra («si necesitas la ventana en aluminio, coméntalo en la visita») para no contradecir la galería de /contacto ni el LocalBusiness del sitio. Reversible. Coste: ~547 imp/mes de «ventanas de aluminio» seguirán cayendo en una página que ya no lo vende (rebote).",
+      "before": "Cubreventanas, Protectores y Rejas de Ventana en Quito | Hierro y Aluminio",
+      "after": "Cubreventanas, Protectores y Rejas de Ventana en Quito | Hierro y Fierro"
+    },
+    {
+      "id": "sp05vac1",
+      "date": "2026-09-05",
+      "url": "https://cerrajeriaquito.site/trabaja-con-nosotros",
+      "type": "pagina-nueva",
+      "track": "contenido-nuevo",
+      "description": "Página de vacante: cerrajero en Toctiuco, $400-600/mes, L-S 7-17, 1 plaza, límite 4 nov 2026. SIN JobPosting (decisión de negocio: atrae más buscadores de empleo que clientes, y riesgo de canibalizar «cerrajero quito»). Imagen de la ficha de postulación + botón de descarga del Word vía descargar-ficha.php (límite blando 10/IP/24h, fail-open). .htaccess: el .docx solo por el PHP + anti-hotlink de .docx/.pdf/.mp4 (imágenes libres, para no romper Google Imágenes). Enlace desde el footer de la home + sitemap priority 0.3. Despublicar cuando se cubra.",
+      "before": null,
+      "after": null
     }
   ]
 }

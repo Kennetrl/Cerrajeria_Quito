@@ -483,3 +483,42 @@ El export del 5 sep registra `/puertasGaraje` con **67 impresiones web y posici�
 sitemap y recibe CERO impresiones» — deja de aplicar. Sigue siendo poco tráfico,
 pero ya está en el índice y compitiendo; a partir de aquí es optimización normal,
 no un problema de indexación.
+
+## Nota — 5 sep 2026 (tarde): aluminio fuera de `/ventanas` y página de vacante
+
+**Aluminio.** El mismo día, tras poner la sección de aluminio en `/ventanas`,
+Kennet avisó de que *«me mandaron a quitar aluminio, no les da rentabilidad,
+quizá otro día»*. Es una decisión de negocio y manda sobre la oportunidad SEO —
+mismo criterio que con la cerrajería de urgencia: hay demanda (~547 imp/mes de
+«ventanas de aluminio» + variantes), pero el valor del lead no está.
+
+Hecho: title, description, JSON-LD y FAQ de `/ventanas` vuelven a hierro y fierro;
+se retira la sección propia de aluminio. Queda **una línea neutra** («si necesitas
+la ventana en aluminio, coméntalo en la visita») porque la galería de `/contacto`
+muestra ventanas de aluminio y el `LocalBusiness` de las 11 páginas dice «ventanas
+de aluminio» — borrar todo rastro solo de `/ventanas` sería incoherente. Es
+reversible cuando cambie la decisión.
+
+**Página de vacante** (`/trabaja-con-nosotros`). Cerrajero en Toctiuco,
+$400–600/mes, L–S 7–17, 1 plaza, límite 4 nov 2026. **Sin `JobPosting`** por
+decisión de Kennet (atrae más buscadores de empleo que clientes; y con `JobPosting`
+podría canibalizar «cerrajero quito», donde el sitio ya rankea ~6–8). Queda como
+enlace limpio para pegar en Facebook, Marketplace y grupos.
+
+- Imagen de la ficha (`otrosImagenes/ficha-postulacion-cerrajero.png`) + botón de
+  descarga del Word.
+- `descargar-ficha.php`: sirve el `.docx` con límite blando de **10/IP/24 h**,
+  **fail-open** (si el contador falla, entrega igual — un tope duro por IP en
+  Ecuador bloquea a usuarios legítimos por el CGNAT de las operadoras). Contadores
+  en `._descargas/` con su propio `Deny`, no versionados.
+- `.htaccess`: el `.docx` solo se entrega por el PHP (bloqueo directo) +
+  anti-hotlink de `.docx`/`.pdf`/`.mp4`. **Las imágenes se dejan libres a
+  propósito** — bloquear el referer de Google en `.webp` rompería la búsqueda de
+  imágenes, que es justo lo que se está trabajando.
+- Enlace desde el footer de la home + en el sitemap (`priority` 0.3).
+- **Despublicar la página y el enlace cuando se cubra la plaza.**
+
+Pendiente: si Kennet quiere el enlace de la vacante en el footer de las 11 páginas
+(hoy solo en la home) y si quiere además un formulario HTML que envíe por PHP a
+`info@cerrajeriaquito.site` (hoy la postulación es: descargar/imprimir la ficha y
+mandarla al correo a mano).
