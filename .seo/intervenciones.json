@@ -377,7 +377,7 @@
       "url": "https://cerrajeriaquito.site/ventanas",
       "type": "contenido",
       "track": "optimizacion",
-      "description": "Por decisión de negocio (el aluminio no da rentabilidad ahora, «quizá otro día») se deja de perseguir aluminio en /ventanas. Title/description/JSON-LD/FAQ vuelven a hierro y fierro; se quita la sección propia de aluminio y queda una sola línea neutra («si necesitas la ventana en aluminio, coméntalo en la visita») para no contradecir la galería de /contacto ni el LocalBusiness del sitio. Reversible. Coste: ~547 imp/mes de «ventanas de aluminio» seguirán cayendo en una página que ya no lo vende (rebote).",
+      "description": "Por decisión de negocio (el aluminio no da rentabilidad ahora, «quizá otro día») se deja de perseguir aluminio en /ventanas. Title/description/keywords/JSON-LD/FAQ centrados en cubreventanas/protectores/rejas en hierro y fierro. CORRECCIÓN (Kennet, mismo día): NO fabrican ventanas con marco de hierro — eso fue un error mío al reescribir. Para la ventana completa (marco + vidrio corredizo) es aluminio; se menciona una vez de forma honesta («¿Necesitas cambiar la ventana entera? … ese trabajo va en aluminio») pero NO como palabra clave (sin H2 de «ventanas de aluminio», sin tocar title/description). Reversible.",
       "before": "Cubreventanas, Protectores y Rejas de Ventana en Quito | Hierro y Aluminio",
       "after": "Cubreventanas, Protectores y Rejas de Ventana en Quito | Hierro y Fierro"
     },
