@@ -409,4 +409,10 @@
          <image:loc>https://cerrajeriaquito.site/ventanasImagenes/ventana-aluminio-blanca-montante-superior.webp</image:loc>
       </image:image>
    </url>
+   <url>
+      <loc>https://cerrajeriaquito.site/trabaja-con-nosotros</loc>
+      <lastmod>2026-09-05</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
 </urlset>

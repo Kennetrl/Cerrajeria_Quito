@@ -16,6 +16,25 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 
+# La ficha de postulación (.docx) solo se entrega a través de descargar-ficha.php
+<FilesMatch "\.docx$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+</FilesMatch>
+
+# Anti-hotlink SOLO de descargas pesadas (Word, PDF, vídeo): que otra web no
+# gaste el ancho de banda enlazándolas. Las imágenes se dejan libres a propósito,
+# para no romper la búsqueda de imágenes de Google. Referer vacío = permitido
+# (descarga directa, rastreadores).
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https?://(www\.)?cerrajeriaquito\.site [NC]
+RewriteRule \.(docx|pdf|mp4)$ - [F,NC]
+
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php74” package as the default “PHP” programming language.
 <IfModule mime_module>
