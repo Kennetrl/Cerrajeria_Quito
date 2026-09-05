@@ -561,3 +561,63 @@ footer {
         font-size: 1.02rem;
     }
 }
+
+/* --- Preguntas frecuentes (home) -------------------------------------
+   Acordeón <details>/<summary> nativo, sin JS. style.css no carga
+   puertasStyle.css, así que la regla vive también aquí para la portada
+   y cualquier página que use style.css. */
+.faqHome {
+    max-width: 900px;
+    margin: 2.5rem auto;
+    padding: 0 1.5rem;
+}
+
+.faqHome h2 {
+    text-align: center;
+}
+
+.faqHome details {
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+}
+
+.faqHome details:first-of-type {
+    border-top: 1px solid #ddd;
+}
+
+.faqHome summary {
+    cursor: pointer;
+    list-style: none;
+    font-weight: 600;
+    font-size: 1.05rem;
+    padding-right: 2rem;
+    position: relative;
+}
+
+.faqHome summary::-webkit-details-marker {
+    display: none;
+}
+
+.faqHome summary::after {
+    content: '+';
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 1.4rem;
+    line-height: 1;
+}
+
+.faqHome details[open] summary::after {
+    content: '\2212';
+}
+
+.faqHome details p {
+    margin: 0.75rem 0 0;
+    line-height: 1.6;
+}
+
+.faqHome a {
+    color: #6d3fd6;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}

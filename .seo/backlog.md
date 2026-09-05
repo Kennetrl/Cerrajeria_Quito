@@ -56,13 +56,13 @@ paga a cambio de poder atribuir. Entra en semana 2 o 3.
 
 | # | Qué | Dónde | Vía | Evidencia | Esfuerzo | Estado |
 |---|---|---|---|---|---|---|
-| 6 | `alucobond`: 429 imp en posición 11,3 con **0 clics**. Página 2, producto premium | `/alucobond` | optimizacion | 1.202 imp pág · CTR 0,67% · pos 10,0 | S | pendiente |
-| 7 | Title y description de `/ventanas` sin «protectores de ventanas» ni «ventanas de aluminio» | `/ventanas` | optimizacion | ~118 clics de potencial | S | pendiente |
-| 8 | `@id` de `LocalBusiness` duplicado idéntico en las 9 páginas. Debe ser `Service` + `BreadcrumbList` por página, con el `LocalBusiness` sólo en home | todas | tecnico | crawl: 9 páginas | M | pendiente |
-| 9 | Sin `FAQPage` en ninguna página. Es la vía directa a ser citado por ChatGPT y Gemini | todas | optimizacion | 0 páginas | M | pendiente |
+| 6 | `alucobond`: 429 imp en posición 11,3 con **0 clics**. Página 2, producto premium | `/alucobond` | optimizacion | 1.202 imp pág · CTR 0,67% · pos 10,0 | S | **hecho 5 sep** — title 70→56, H1 acortado, intro antes del catálogo, contenido con contexto de Quito, FAQ. Medir en 3 semanas si sube de pág. 2 |
+| 7 | Title y description de `/ventanas` sin «protectores de ventanas» ni «ventanas de aluminio» | `/ventanas` | optimizacion | ~118 clics de potencial | S | **hecho 5 sep** — reescrito a cubreventana/protector/reja + hierro/fierro/aluminio. Además: SERP verificada, el problema no era sólo el title (Google lo reescribía y fabricaba la description con «$55 N2»); se corrigió la estructura |
+| 8 | `@id` de `LocalBusiness` duplicado idéntico en las 9 páginas. Debe ser `Service` + `BreadcrumbList` por página, con el `LocalBusiness` sólo en home | todas | tecnico | crawl: 9 páginas | M | **hecho 5 sep** — 7 páginas de servicio + puertasGaraje pasan a `@graph` con `Service`+`BreadcrumbList`+`FAQPage` y `provider` por `@id`. Home, `/nosotros` y `/contacto` conservan el `LocalBusiness` completo |
+| 9 | Sin `FAQPage` en ninguna página. Es la vía directa a ser citado por ChatGPT y Gemini | todas | optimizacion | 0 páginas | M | **hecho 5 sep** — las 11 páginas con `FAQPage`. Expectativa: sin rich result (Google los quitó en 2023), sí para citas de IA y captura de queries en forma de pregunta |
 | 10 | `og:image` ausente en páginas internas | varias | tecnico | 7 de 11 sin él, 2 con el logo | XS | **hecho 26 ago** — las 11 con `og:image` real + `twitter:card`. Ver el registro del thumbnail |
 | 11 | `aggregateRating` autodeclarado con `reviewCount: 1`. Coincide con la única reseña real del GBP. Google no lo muestra para LocalBusiness y es zona de riesgo | `index.html` | tecnico | — | XS | pendiente |
-| 12 | Titles demasiado largos (el de `/escaleras` pasa de 100 caracteres y se corta en la SERP) | varias | optimizacion | — | S | pendiente |
+| 12 | Titles demasiado largos (el de `/escaleras` pasa de 100 caracteres y se corta en la SERP) | varias | optimizacion | — | S | parcial — `/estructurasMetalicas` (68→58) y `/remodelaciones` (84→60) hechos el 5 sep. `/escaleras` ya se acortó el 17 ago |
 | 13 | `puertasStyle.css` cargado ×2 y favicon ×3 en algunas páginas | `/puertas` `/ventanas` `/remodelaciones` | tecnico | crawl | XS | **hecho** — /puertas 17 ago, /ventanas y /remodelaciones 26 ago. Las 11 con 2 hojas y 1 favicon |
 | 14 | Crear `/blog/` con su índice, para el carril de contenido informativo | nuevo | contenido-nuevo | — | M | pendiente |
 | 14b | **Página de pasamanos de hierro** (bajó de P1 al conocer los márgenes) | `/pasamanos-hierro` | contenido-nuevo | 203 imp · 5 clics · pos 7,0 | M | pendiente |
@@ -409,3 +409,77 @@ Verificado en Chrome: logo cuadrado y proporcionado, y las galerías de
 **Lección para la skill:** al añadir `width`/`height` a imágenes de un sitio
 existente hay que revisar antes qué reglas CSS fijan una sola dimensión. Es un
 efecto secundario silencioso: no rompe nada, sólo deforma.
+
+---
+
+## Registro — 5 sep 2026: snippet de `/ventanas`, estructura del catálogo y FAQ en todas
+
+Rama `seo/ventanas-faq-2026-09-05`. Disparador: Kennet enseñó la SERP real de
+«cubreventanas de hierro» (cuadrícula de imágenes + Pinterest + vídeos + un bloque
+FAQ de Google, y recién debajo el sitio) y la del propio resultado de `/ventanas`,
+donde **Google reescribía el title** y **fabricaba la description** juntando el H2
++ el `alt` de la primera foto + «$55. N2 - Cubre-ventana». Parecía salida rota de
+una base de datos.
+
+**Causa, y una parte es autoinfligida el 26 ago:** al sacar las 91 fichas del
+catálogo del JS al HTML (backlog #22), el catálogo quedó **antes** del texto
+descriptivo. Lo primero que leía Google tras el H1 era «$55 N2 · $55 N3…» diez
+veces. Medido: en 6 páginas el `cards-container` empezaba 120–250 caracteres
+después del `<h1>`, con 80 códigos `N#` visibles por delante de la prosa.
+`/puertas` la peor: 35 códigos por delante en la página de 41.785 imp/3m.
+
+**Lo que se hizo (las 4 tareas que pidió Kennet + FAQ en todas):**
+
+1. **`/ventanas`** — verificada la SERP (el bloque de imágenes y Pinterest comen
+   el clic en las queries visuales, confirma la sospecha de la entrada 15). Title y
+   description reescritos a *cubreventana / protector / reja + hierro/fierro +
+   aluminio*. Texto descriptivo **movido antes** del catálogo. Secciones nuevas de
+   **ventanas de aluminio** (547 imp de esa familia llegaban a una página que sólo
+   hablaba de hierro) y de **ventanas/marcos de hierro (fierro)** — la palabra
+   «fierro» no existía en el sitio y son 394 imp web + 622 en imágenes. «reja» y
+   «protector» reforzados como sinónimos. FAQ de 8 preguntas tomadas del bloque
+   real de Google; descartadas las de «cubrir sin cortinas» (intención decorativa).
+
+2. **`/alucobond`** — no invento contenido de «fachadas elegantes» (no hay volumen;
+   la demanda *es* «alucobond», 1.287 imp en pos 11). Title 70→56, H1 acortado,
+   intro antes del catálogo, primeros párrafos reescritos con contexto de Quito
+   (locales, rótulos, edificios) en vez de relleno genérico, FAQ de 5. Corregido de
+   paso el texto de WhatsApp de las 5 tarjetas, que decía «sección de
+   Ventanas-Cubreventas».
+
+3. **`FAQPage` en las 11 páginas.** Las 9 que no lo tenían + refuerzo. En las 7
+   páginas de servicio y en `/puertasGaraje` el mismo bloque pasa a `@graph` con
+   `Service` + `BreadcrumbList` + `FAQPage` y `provider` por `@id` → **cierra la
+   entrada 8** (LocalBusiness duplicado). Home, `/nosotros` y `/contacto` conservan
+   el `LocalBusiness` completo y añaden un 2º bloque JSON-LD con el FAQ. Regla de
+   acordeón `.faqHome` añadida a `style.css` (la portada no carga
+   `puertasStyle.css`).
+
+4. **Estructura + códigos N# en las 6 páginas de catálogo.** Texto antes de la
+   cuadrícula y los `N#` reducidos a `Ref. N#` al final de un nombre descriptivo
+   — **no se borran**: Kennet los usa para identificar el modelo cuando el cliente
+   manda captura. Solo dejan de ser lo primero que lee Google.
+
+**Extra:** titles largos de `/estructurasMetalicas` (68→58) y `/remodelaciones`
+(84→60, sin `¡`) — avance parcial de la entrada 12. Typos visibles corregidos en
+`/remodelaciones` («policabonato» ×4). `og:locale` `es_ES`→`es_EC` en las 6
+páginas que aún lo tenían mal. Cache-busting `?v=20260826`→`?v=20260907`.
+
+**Verificado antes de cerrar:** 12 bloques JSON-LD válidos (uno por página, dos en
+index/nosotros/contacto/puertasGaraje), un solo `<h1>` por página, tags
+balanceados, y las 4 páginas clave (ventanas, alucobond, puertas, index)
+renderizadas en Chrome sobre servidor local — intro antes del catálogo, tarjetas
+con `Ref. N#`, acordeón FAQ abre y cierra.
+
+**Pendiente de deploy por FTP.** Y de medir: comparar en 2-3 semanas si Google
+deja de reescribir el title de `/ventanas` y si el snippet deja de mostrar el
+código de producto. La caída de impresiones de imagen por renombrar archivos (26
+ago) todavía no se ha recuperado del todo; este cambio no la toca.
+
+## El P0 de `/puertasGaraje` se cerró solo
+
+El export del 5 sep registra `/puertasGaraje` con **67 impresiones web y posición
+6,09** (antes: 0). Se indexó. La entrada 0 del backlog — «existe, está en el
+sitemap y recibe CERO impresiones» — deja de aplicar. Sigue siendo poco tráfico,
+pero ya está en el índice y compitiendo; a partir de aquí es optimización normal,
+no un problema de indexación.
