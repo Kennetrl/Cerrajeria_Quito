@@ -141,6 +141,22 @@ podría atribuir esos clics **por página de destino**. Eso convertiría «clics
 «contactos por servicio». No está montado y no entra en el alcance actual, pero es
 la mejor mejora disponible cuando el ciclo semanal esté rodando.
 
+## Decisiones del 11 sep 2026 (Kennet)
+
+- **Umbral de buen margen: trabajos desde ~$500.** Pero **no se quita ni se filtra
+  nada**: ni línea «trabajos desde $X», ni retirar productos baratos. La estrategia
+  es **reforzar lo grande** (estructuras metálicas, portones/garaje), no espantar
+  lo pequeño.
+- **Precios bajos del catálogo se quedan como están** ($55 cubreventanas,
+  $18–$75 remodelaciones, $60 pasamanos de hierro).
+- **Sin datos de obras reales por ahora** (no hay tiempo de pedir fotos, m²,
+  plazos, capacidad ni factura). Se puede mencionar a constructoras de forma
+  genérica, **sin inventar cifras ni capacidades**. Quizá pida fotos más adelante.
+- **Prioridad declarada: mejorar los clics.**
+- **Cubiertas/techos:** ~46 imp/mes en 12 semanas (137 imp web, 1 clic) → va como
+  sección dentro de `/estructurasMetalicas`, no como página propia. Mismo criterio
+  que las pérgolas.
+
 ## Pendiente de preguntar
 
 - Competidores directos concretos en Google (los detectará `/seo-brief` al mirar

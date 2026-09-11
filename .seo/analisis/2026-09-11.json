@@ -1,0 +1,552 @@
+{
+  "generatedAt": "2026-09-11",
+  "site": "cerrajeriaquito.site",
+  "snapshot": "2026-09-08",
+  "comparedTo": "2026-08-23",
+  "range": {
+    "start": "2026-08-12",
+    "end": "2026-09-08"
+  },
+  "coverageAvailable": true,
+  "summary": {
+    "current": {
+      "clicks": 453,
+      "impressions": 27420,
+      "ctr": 0.01652078774617068,
+      "position": 5.872283005105762
+    },
+    "previous": {
+      "clicks": 402,
+      "impressions": 24346,
+      "ctr": 0.01651195268216545,
+      "position": 6.211862318245297
+    },
+    "delta": {
+      "clicks": 51,
+      "impressions": 3074,
+      "ctr": 0.000008835064005230375,
+      "position": -0.3395793131395344,
+      "clicksPct": 0.12686567164179105
+    }
+  },
+  "totalPotentialClicks": 1260,
+  "opportunities": [
+    {
+      "type": "pagina-ctr-bajo",
+      "key": "https://cerrajeriaquito.site/puertas",
+      "confidence": "alta",
+      "potentialClicks": 610,
+      "metrics": {
+        "clicks": 188,
+        "impressions": 13446,
+        "ctr": 0.013981853339283059,
+        "position": 5.043284248103525,
+        "expectedCtr": 0.05935073627844712
+      },
+      "why": "La página entera rinde a 24% de lo esperable en posición 5.0. ~610 clics perdidos.",
+      "action": "Reescribir title y description de la página completa, no de una query suelta.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "pagina-ctr-bajo",
+      "key": "https://cerrajeriaquito.site/ventanas",
+      "confidence": "alta",
+      "potentialClicks": 122,
+      "metrics": {
+        "clicks": 61,
+        "impressions": 3887,
+        "ctr": 0.01569333676357088,
+        "position": 5.861847182917417,
+        "expectedCtr": 0.04707229225623874
+      },
+      "why": "La página entera rinde a 33% de lo esperable en posición 5.9. ~122 clics perdidos.",
+      "action": "Reescribir title y description de la página completa, no de una query suelta.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "puertas metalicas",
+      "confidence": "baja",
+      "potentialClicks": 121,
+      "metrics": {
+        "clicks": 15,
+        "impressions": 1966,
+        "ctr": 0.0076297049847405905,
+        "position": 4.532553407934893,
+        "expectedCtr": 0.06934893184130214,
+        "ratio": 0.1100190699721285,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 4.5 con CTR 0.76%, cuando lo esperable ahí es ~6.9%. Se pierden ~121 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "pagina-ctr-bajo",
+      "key": "https://cerrajeriaquito.site/escaleras",
+      "confidence": "alta",
+      "potentialClicks": 102,
+      "metrics": {
+        "clicks": 90,
+        "impressions": 4417,
+        "ctr": 0.020375820692777904,
+        "position": 6.1559882273036,
+        "expectedCtr": 0.043440117726964
+      },
+      "why": "La página entera rinde a 47% de lo esperable en posición 6.2. ~102 clics perdidos.",
+      "action": "Reescribir title y description de la página completa, no de una query suelta.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "ventana",
+      "confidence": "baja",
+      "potentialClicks": 38,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 312,
+        "ctr": 0,
+        "position": 2.666666666666667,
+        "expectedCtr": 0.12333333333333332,
+        "ratio": 0,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 2.7 con CTR 0.00%, cuando lo esperable ahí es ~12.3%. Se pierden ~38 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "pagina-ctr-bajo",
+      "key": "https://cerrajeriaquito.site/alucobond",
+      "confidence": "alta",
+      "potentialClicks": 32,
+      "metrics": {
+        "clicks": 10,
+        "impressions": 1728,
+        "ctr": 0.005787037037037037,
+        "position": 9.852430555555555,
+        "expectedCtr": 0.02429513888888889
+      },
+      "why": "La página entera rinde a 24% de lo esperable en posición 9.9. ~32 clics perdidos.",
+      "action": "Reescribir title y description de la página completa, no de una query suelta.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "striking-distance",
+      "key": "alucobond",
+      "confidence": "media",
+      "potentialClicks": 26,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 602,
+        "ctr": 0,
+        "position": 11.212624584717608
+      },
+      "why": "Posición 11.2 con 602 impresiones. Llegar al top 3 valdría ~26 clics.",
+      "action": "Reforzar la sección que cubre esta query: profundidad, encabezado propio, enlaces internos.",
+      "skill": "/seo-brief -> /seo-fix"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "pasamanos",
+      "confidence": "baja",
+      "potentialClicks": 23,
+      "metrics": {
+        "clicks": 1,
+        "impressions": 308,
+        "ctr": 0.003246753246753247,
+        "position": 4.159090909090909,
+        "expectedCtr": 0.07681818181818181,
+        "ratio": 0.0422654268808115,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 4.2 con CTR 0.32%, cuando lo esperable ahí es ~7.7%. Se pierden ~23 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "cubre ventanas",
+      "confidence": "baja",
+      "potentialClicks": 20,
+      "metrics": {
+        "clicks": 2,
+        "impressions": 105,
+        "ctr": 0.01904761904761905,
+        "position": 1.5428571428571427,
+        "expectedCtr": 0.20485714285714288,
+        "ratio": 0.09298000929800093,
+        "covered": false,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 1.5 con CTR 1.90%, cuando lo esperable ahí es ~20.5%. Se pierden ~20 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "puertas metálicas",
+      "confidence": "baja",
+      "potentialClicks": 18,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 121,
+        "ctr": 0,
+        "position": 2,
+        "expectedCtr": 0.15,
+        "ratio": 0,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 2.0 con CTR 0.00%, cuando lo esperable ahí es ~15.0%. Se pierden ~18 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "puertas metalicas modernas",
+      "confidence": "baja",
+      "potentialClicks": 13,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 139,
+        "ctr": 0,
+        "position": 3.5611510791366907,
+        "expectedCtr": 0.09316546762589928,
+        "ratio": 0,
+        "covered": false,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 3.6 con CTR 0.00%, cuando lo esperable ahí es ~9.3%. Se pierden ~13 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "cerrajeria",
+      "confidence": "baja",
+      "potentialClicks": 12,
+      "metrics": {
+        "clicks": 2,
+        "impressions": 198,
+        "ctr": 0.010101010101010102,
+        "position": 4.5606060606060606,
+        "expectedCtr": 0.06878787878787879,
+        "ratio": 0.14684287812041116,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 4.6 con CTR 1.01%, cuando lo esperable ahí es ~6.9%. Se pierden ~12 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "ventanas",
+      "confidence": "baja",
+      "potentialClicks": 12,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 322,
+        "ctr": 0,
+        "position": 6.649068322981367,
+        "expectedCtr": 0.03850931677018633,
+        "ratio": 0,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 6.6 con CTR 0.00%, cuando lo esperable ahí es ~3.9%. Se pierden ~12 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "gradas",
+      "confidence": "baja",
+      "potentialClicks": 11,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 248,
+        "ctr": 0,
+        "position": 5.911290322580645,
+        "expectedCtr": 0.046330645161290325,
+        "ratio": 0,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 5.9 con CTR 0.00%, cuando lo esperable ahí es ~4.6%. Se pierden ~11 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "puertas",
+      "confidence": "baja",
+      "potentialClicks": 11,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 233,
+        "ctr": 0,
+        "position": 5.888412017167382,
+        "expectedCtr": 0.04667381974248927,
+        "ratio": 0,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 5.9 con CTR 0.00%, cuando lo esperable ahí es ~4.7%. Se pierden ~11 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "query-huerfana",
+      "key": "puerta",
+      "confidence": "media",
+      "potentialClicks": 10,
+      "metrics": {
+        "clicks": 1,
+        "impressions": 379,
+        "ctr": 0.002638522427440633,
+        "position": 1.992084432717678,
+        "covered": false
+      },
+      "why": "379 impresiones y ninguna página que ataque esta intención. Hoy posiciona 2.0 con una página que va de otra cosa.",
+      "action": "Crear página propia para esta query, o agruparla en un cluster y darle su encabezado.",
+      "skill": "/seo-brief -> /seo-page"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "cerrajero quito",
+      "confidence": "baja",
+      "potentialClicks": 10,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 280,
+        "ctr": 0,
+        "position": 6.85,
+        "expectedCtr": 0.036500000000000005,
+        "ratio": 0,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 6.8 con CTR 0.00%, cuando lo esperable ahí es ~3.7%. Se pierden ~10 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "gradas metalicas",
+      "confidence": "baja",
+      "potentialClicks": 9,
+      "metrics": {
+        "clicks": 1,
+        "impressions": 173,
+        "ctr": 0.005780346820809248,
+        "position": 5.317919075144508,
+        "expectedCtr": 0.05523121387283238,
+        "ratio": 0.10465724751439036,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 5.3 con CTR 0.58%, cuando lo esperable ahí es ~5.5%. Se pierden ~9 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "striking-distance",
+      "key": "cerrajero",
+      "confidence": "media",
+      "potentialClicks": 9,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 194,
+        "ctr": 0,
+        "position": 10.1340206185567
+      },
+      "why": "Posición 10.1 con 194 impresiones. Llegar al top 3 valdría ~9 clics.",
+      "action": "Reforzar la sección que cubre esta query: profundidad, encabezado propio, enlaces internos.",
+      "skill": "/seo-brief -> /seo-fix"
+    },
+    {
+      "type": "striking-distance",
+      "key": "modelos de puertas metalicas",
+      "confidence": "media",
+      "potentialClicks": 9,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 197,
+        "ctr": 0,
+        "position": 10.700507614213198
+      },
+      "why": "Posición 10.7 con 197 impresiones. Llegar al top 3 valdría ~9 clics.",
+      "action": "Reforzar la sección que cubre esta query: profundidad, encabezado propio, enlaces internos.",
+      "skill": "/seo-brief -> /seo-fix"
+    },
+    {
+      "type": "striking-distance",
+      "key": "pasamanos de hierro",
+      "confidence": "media",
+      "potentialClicks": 7,
+      "metrics": {
+        "clicks": 2,
+        "impressions": 173,
+        "ctr": 0.011560693641618497,
+        "position": 10.872832369942197
+      },
+      "why": "Posición 10.9 con 173 impresiones. Llegar al top 3 valdría ~7 clics.",
+      "action": "Reforzar la sección que cubre esta query: profundidad, encabezado propio, enlaces internos.",
+      "skill": "/seo-brief -> /seo-fix"
+    },
+    {
+      "type": "query-huerfana",
+      "key": "puerta metalica",
+      "confidence": "media",
+      "potentialClicks": 5,
+      "metrics": {
+        "clicks": 3,
+        "impressions": 201,
+        "ctr": 0.014925373134328358,
+        "position": 3.0696517412935322,
+        "covered": false
+      },
+      "why": "201 impresiones y ninguna página que ataque esta intención. Hoy posiciona 3.1 con una página que va de otra cosa.",
+      "action": "Crear página propia para esta query, o agruparla en un cluster y darle su encabezado.",
+      "skill": "/seo-brief -> /seo-page"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "escaleras metalicas",
+      "confidence": "media",
+      "potentialClicks": 5,
+      "metrics": {
+        "clicks": 1,
+        "impressions": 152,
+        "ctr": 0.006578947368421052,
+        "position": 6.506578947368421,
+        "expectedCtr": 0.03993421052631579,
+        "ratio": 0.16474464579901152,
+        "covered": true,
+        "suspiciousSerp": false
+      },
+      "why": "Posición 6.5 con CTR 0.66%, cuando lo esperable ahí es ~4.0%. Se pierden ~5 clics.",
+      "action": "Reescribir title y meta description incluyendo esta query literal.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "protectores de ventanas",
+      "confidence": "media",
+      "potentialClicks": 5,
+      "metrics": {
+        "clicks": 1,
+        "impressions": 128,
+        "ctr": 0.0078125,
+        "position": 6.0859375,
+        "expectedCtr": 0.044140624999999996,
+        "ratio": 0.1769911504424779,
+        "covered": true,
+        "suspiciousSerp": false
+      },
+      "why": "Posición 6.1 con CTR 0.78%, cuando lo esperable ahí es ~4.4%. Se pierden ~5 clics.",
+      "action": "Reescribir title y meta description incluyendo esta query literal.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "puertas metálicas para entrada principal",
+      "confidence": "media",
+      "potentialClicks": 4,
+      "metrics": {
+        "clicks": 1,
+        "impressions": 157,
+        "ctr": 0.006369426751592357,
+        "position": 8.312101910828027,
+        "expectedCtr": 0.028751592356687894,
+        "ratio": 0.22153300841825435,
+        "covered": false,
+        "suspiciousSerp": false
+      },
+      "why": "Posición 8.3 con CTR 0.64%, cuando lo esperable ahí es ~2.9%. Se pierden ~4 clics.",
+      "action": "Reescribir title y meta description incluyendo esta query literal.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "puertas metálicas para garaje",
+      "confidence": "media",
+      "potentialClicks": 4,
+      "metrics": {
+        "clicks": 1,
+        "impressions": 102,
+        "ctr": 0.00980392156862745,
+        "position": 5.450980392156863,
+        "expectedCtr": 0.053235294117647054,
+        "ratio": 0.1841620626151013,
+        "covered": false,
+        "suspiciousSerp": false
+      },
+      "why": "Posición 5.5 con CTR 0.98%, cuando lo esperable ahí es ~5.3%. Se pierden ~4 clics.",
+      "action": "Reescribir title y meta description incluyendo esta query literal.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "ventanas de hierro",
+      "confidence": "media",
+      "potentialClicks": 4,
+      "metrics": {
+        "clicks": 1,
+        "impressions": 120,
+        "ctr": 0.008333333333333333,
+        "position": 5.983333333333333,
+        "expectedCtr": 0.04525,
+        "ratio": 0.1841620626151013,
+        "covered": true,
+        "suspiciousSerp": false
+      },
+      "why": "Posición 6.0 con CTR 0.83%, cuando lo esperable ahí es ~4.5%. Se pierden ~4 clics.",
+      "action": "Reescribir title y meta description incluyendo esta query literal.",
+      "skill": "/seo-fix"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "puerta de metal",
+      "confidence": "baja",
+      "potentialClicks": 4,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 101,
+        "ctr": 0,
+        "position": 6.841584158415841,
+        "expectedCtr": 0.03658415841584159,
+        "ratio": 0,
+        "covered": false,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 6.8 con CTR 0.00%, cuando lo esperable ahí es ~3.7%. Se pierden ~4 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    },
+    {
+      "type": "sangrado-ctr",
+      "key": "puertas metálicas para casas",
+      "confidence": "baja",
+      "potentialClicks": 4,
+      "metrics": {
+        "clicks": 0,
+        "impressions": 108,
+        "ctr": 0,
+        "position": 6.842592592592593,
+        "expectedCtr": 0.03657407407407408,
+        "ratio": 0,
+        "covered": true,
+        "suspiciousSerp": true
+      },
+      "why": "Posición 6.8 con CTR 0.00%, cuando lo esperable ahí es ~3.7%. Se pierden ~4 clics. OJO: un CTR tan bajo para esa posición no suele ser culpa del title.",
+      "action": "VERIFICAR LA SERP ANTES DE TOCAR NADA. Si hay pack de imágenes, local o shopping por encima, el problema no es el title y reescribirlo no servirá de nada.",
+      "skill": "/seo-brief"
+    }
+  ]
+}
