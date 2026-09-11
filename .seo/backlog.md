@@ -522,3 +522,55 @@ Pendiente: si Kennet quiere el enlace de la vacante en el footer de las 11 pági
 (hoy solo en la home) y si quiere además un formulario HTML que envíe por PHP a
 `info@cerrajeriaquito.site` (hoy la postulación es: descargar/imprimir la ficha y
 mandarla al correo a mano).
+
+---
+
+## Registro — 11 sep 2026: garaje y estructuras (margen alto), prioridad clics
+
+Rama `seo/fix-2026-09-11`. Plan del informe `.seo/informes/2026-09-11.md`, con las
+decisiones de Kennet del mismo día (ver `contexto.md`): margen bueno desde ~$500
+pero **no se quita ni se filtra nada**; se refuerza lo grande; sin datos de obras
+reales por ahora; sin página nueva esta semana.
+
+**SERP verificada en Chrome (gl=ec), antes de tocar nada:**
+- `puertas de garaje metalicas`: bloque de 12 imágenes arriba y **`/puertas` #1 en
+  web** con su snippet genérico. `/puertasGaraje` no aparece. Confirma la
+  canibalización que decían los datos (~90 de 656 imp/28d a la página de garaje).
+  «También se buscó»: modelos, precios, corredizas, sencillas.
+- `puertas metalicas`: 12 imágenes → **`/puertas` #1 web** → pack local (Rivera
+  5,0 con 58 reseñas; ACCTURA 5,0 con 1). **El title está bien: no se toca.** La
+  palanca de esa query es el bloque de imágenes y las reseñas del GBP.
+
+**Hecho:**
+1. `/puertasGaraje` — title `Puertas de Garaje Metálicas en Quito | Portones desde $850`
+   (58), description 188→141, H1 e intro con el literal, y galería nueva
+   «Modelos de puertas metálicas para garaje» con los **8 portones de `/puertas`
+   duplicados** (no movidos: el split de pasamanos coincidió con −38% en su familia).
+2. `/puertas` — sólo un enlace «Ver puertas de garaje» en esas 8 fichas. Nada más:
+   sigue en el grupo de control.
+3. `/estructurasMetalicas` — secciones H2 de cubiertas metálicas para techos,
+   galpones, estructura para Alucobond, entrepisos/losa Nova/gradas, pérgolas y
+   constructoras (genérico, **sin inventar capacidad, plazos, m² ni factura**).
+   Description nueva, FAQ nueva sobre el material de cubierta, y las 14 fichas con
+   nombre descriptivo + `Ref. N#`.
+4. `/remodelaciones` **ya enlazaba** a `/estructurasMetalicas`: no se toca.
+
+**Resuelto el mismo día — precio de garaje:** Kennet confirma que **el mínimo real
+es $750** («las básicas»), y que $800 y $850 dependen sobre todo del diseño. El
+«desde $850» de `/puertasGaraje` estaba mal. Corregido en los 9 sitios (title,
+description, `og:`, `Offer.price`, FAQ del JSON-LD, FAQ visible y la lista de
+ventajas), con la fórmula «desde $750 en los modelos básicos, y suben a $800 o
+$850 según el diseño». Las 8 fichas copiadas **ya llevan el precio de `/puertas`**
+($750–$3.000). Nota de mantenimiento: esos precios están ahora en dos archivos
+(`puertas.html` y `puertasGaraje.html`); si cambia uno, hay que cambiar el otro —
+queda avisado en un comentario HTML dentro de la galería.
+
+**Grupo de control esta semana:** `/ventanas`, `/alucobond`, `/escaleras`,
+`/pasamanos-acero-inoxidable`, `/remodelaciones`, home, y `/puertas` salvo los
+enlaces.
+
+**Verificado:** crawl sin problemas nuevos, JSON-LD válido, 1 `<h1>` por página,
+etiquetas equilibradas, 0 imágenes en 404, galería y enlaces comprobados en Chrome
+sobre servidor local. **Medir en la semanal del 18 sep y en 2–3 semanas:** clics e
+impresiones de `/puertasGaraje` y de la familia garaje; si `/puertasGaraje` pasa a
+salir para las queries de garaje en lugar de `/puertas`.

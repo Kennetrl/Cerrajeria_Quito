@@ -390,6 +390,66 @@
       "description": "Página de vacante: cerrajero en Toctiuco, $400-600/mes, L-S 7-17, 1 plaza, límite 4 nov 2026. SIN JobPosting (decisión de negocio: atrae más buscadores de empleo que clientes, y riesgo de canibalizar «cerrajero quito»). Imagen de la ficha de postulación + botón de descarga del Word vía descargar-ficha.php (límite blando 10/IP/24h, fail-open). .htaccess: el .docx solo por el PHP + anti-hotlink de .docx/.pdf/.mp4 (imágenes libres, para no romper Google Imágenes). Enlace desde el footer de la home + sitemap priority 0.3. Despublicar cuando se cubra.",
       "before": null,
       "after": null
+    },
+    {
+      "id": "mtxi5ok2",
+      "date": "2026-09-11",
+      "url": "https://cerrajeriaquito.site/puertasGaraje",
+      "type": "title",
+      "track": "optimizacion",
+      "description": "Title y description con el literal 'puertas de garaje metálicas'. SERP verificada 11 sep: para 'puertas de garaje metalicas' Google sacaba /puertas #1 (bajo un bloque de 12 imágenes) con su snippet genérico; /puertasGaraje recibía ~90 de las 656 imp/28d de la familia garaje. Description 188 -> 141 car.",
+      "before": "Puertas de Garaje y Portones Metálicos en Quito | Acctura",
+      "after": "Puertas de Garaje Metálicas en Quito | Portones desde $850"
+    },
+    {
+      "id": "mtxi5oms",
+      "date": "2026-09-11",
+      "url": "https://cerrajeriaquito.site/puertasGaraje",
+      "type": "contenido",
+      "track": "optimizacion",
+      "description": "H1 'Puertas de Garaje Metálicas y Portones en Quito' + intro con el literal. Galería nueva 'Modelos de puertas metálicas para garaje' con los 8 portones del catálogo de /puertas (Ref. N3, N14, N22, N34, N35, N48, N49, N53) DUPLICADOS, no movidos (el split de pasamanos coincidió con -38% en su familia). Sin precio a propósito: /puertas los marca desde $750-800 y esta página dice desde $850 — pendiente de Kennet.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "mtxi5oq2",
+      "date": "2026-09-11",
+      "url": "https://cerrajeriaquito.site/puertas",
+      "type": "enlace-interno",
+      "track": "tecnico",
+      "description": "Enlace 'Ver puertas de garaje' -> /puertasGaraje dentro de las 8 fichas de portón del catálogo. Único cambio en /puertas esta semana (grupo de control desde el 5 sep). Title de /puertas NO se toca: SERP de 'puertas metalicas' verificada 11 sep, #1 web; el clic se lo comen el bloque de 12 imágenes y el pack local (Rivera 58 reseñas vs ACCTURA 1).",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "mtxi5ou9",
+      "date": "2026-09-11",
+      "url": "https://cerrajeriaquito.site/estructurasMetalicas",
+      "type": "contenido",
+      "track": "optimizacion",
+      "description": "Secciones H2 nuevas: cubiertas metálicas para techos, galpones y bodegas, estructura para Alucobond, entrepisos/losa Nova y gradas de estructura metálica, pérgolas, constructoras (genérico, sin cifras de capacidad/plazo). Description reescrita (149 car.). 14 fichas 'Estructura Metálica · Ref. N#' -> nombre descriptivo + Ref. N#. Familia estructuras x3,2 en imp (85 -> 271/28d). Cubiertas (~46 imp/mes) va como sección, no página.",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "mtxi6goe",
+      "date": "2026-09-11",
+      "url": "https://cerrajeriaquito.site/estructurasMetalicas",
+      "type": "schema",
+      "track": "optimizacion",
+      "description": "FAQ nueva (JSON-LD FAQPage + details visible): ¿Qué cubierta se pone sobre una estructura metálica para techo? (galvalume, teja metálica, policarbonato).",
+      "before": null,
+      "after": null
+    },
+    {
+      "id": "mtximzb1",
+      "date": "2026-09-11",
+      "url": "https://cerrajeriaquito.site/puertasGaraje",
+      "type": "contenido",
+      "track": "optimizacion",
+      "description": "Precio corregido: el minimo real de un porton es $750 (modelos basicos), no $850 — confirmado por Kennet el 11 sep. Cambiado en title, description, og:title/og:description, Offer.price, FAQ del JSON-LD, FAQ visible y lista de ventajas, con la formula 'desde $750 en los modelos basicos, y suben a $800 o $850 segun el diseno'. Las 8 fichas duplicadas ya muestran su precio ($750-$3.000, los mismos de /puertas).",
+      "before": "Portones desde $850",
+      "after": "Portones desde $750"
     }
   ]
 }

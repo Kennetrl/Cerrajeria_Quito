@@ -33,7 +33,7 @@
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/puertas</loc>
-      <lastmod>2026-09-05</lastmod>
+      <lastmod>2026-09-11</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
       <image:image>
@@ -144,7 +144,7 @@
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/puertasGaraje</loc>
-      <lastmod>2026-09-05</lastmod>
+      <lastmod>2026-09-11</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
       <image:image>
@@ -173,6 +173,30 @@
       </image:image>
       <image:image>
          <image:loc>https://cerrajeriaquito.site/portonesImagenes/porton-tablero-decorativo-gris-quito.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-blanco-vidrio-rejilla.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-gris-chapa-lisa.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-plateado-tableros-decorativos.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-listones-horizontales-instalacion.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-gris-listones-gran-anchura.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-imitacion-madera-tableros.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-gris-azulado-dos-hojas.webp</image:loc>
+      </image:image>
+      <image:image>
+         <image:loc>https://cerrajeriaquito.site/puertasImagenes/porton-garaje-hierro-forjado-ornamental-quito.webp</image:loc>
       </image:image>
    </url>
    <url>
@@ -333,7 +357,7 @@
    </url>
    <url>
       <loc>https://cerrajeriaquito.site/estructurasMetalicas</loc>
-      <lastmod>2026-09-05</lastmod>
+      <lastmod>2026-09-11</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
       <image:image>
