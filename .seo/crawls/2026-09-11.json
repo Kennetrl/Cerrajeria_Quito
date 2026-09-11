@@ -4316,14 +4316,14 @@
     },
     {
       "source": "puertasGaraje.html",
-      "title": "Puertas de Garaje Metálicas en Quito | Portones desde $850",
-      "description": "Puertas de garaje metálicas a medida en Quito: portones batientes, corredizos, enrollables y seccionales en hierro, acero y tool. Desde $850.",
+      "title": "Puertas de Garaje Metálicas en Quito | Portones desde $750",
+      "description": "Puertas de garaje metálicas a medida en Quito: portones batientes, corredizos, enrollables y seccionales en hierro, acero y tool. Desde $750.",
       "keywords": "puertas de garaje Quito, portones metálicos Quito, portón corredizo, puerta enrollable, portón batiente, garaje Ecuador",
       "robots": "index, follow",
       "canonical": "https://cerrajeriaquito.site/puertasGaraje",
       "og": {
-        "title": "Puertas de Garaje Metálicas en Quito | Portones desde $850",
-        "description": "Puertas de garaje metálicas a medida en Quito: portones batientes, corredizos, enrollables y seccionales en hierro, acero y tool. Desde $850.",
+        "title": "Puertas de Garaje Metálicas en Quito | Portones desde $750",
+        "description": "Puertas de garaje metálicas a medida en Quito: portones batientes, corredizos, enrollables y seccionales en hierro, acero y tool. Desde $750.",
         "image": "https://cerrajeriaquito.site/portonesImagenes/porton-moderno-negro-quito.webp",
         "url": "https://cerrajeriaquito.site/puertasGaraje"
       },
@@ -4435,8 +4435,8 @@
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
-              "price": "850",
-              "description": "Puertas de garaje y portones metálicos a medida desde $850, según medidas y diseño."
+              "price": "750",
+              "description": "Puertas de garaje y portones metálicos a medida desde $750, según medidas y diseño."
             }
           }
         },
@@ -4452,7 +4452,7 @@
                 "name": "¿Cuánto cuesta una puerta de garaje en Quito?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Nuestras puertas de garaje y portones metálicos empiezan desde $850. El precio final varía según las medidas, el tipo de puerta (batiente, corrediza, enrollable o seccional) y el material. Medimos en obra para darte un presupuesto exacto y sin sorpresas."
+                  "text": "Nuestras puertas de garaje y portones metálicos empiezan desde $750 en los modelos básicos y suben a $800 o $850 según el diseño. El precio final varía según las medidas, el tipo de puerta (batiente, corrediza, enrollable o seccional) y el material. Medimos en obra para darte un presupuesto exacto y sin sorpresas."
                 }
               },
               {
@@ -4831,8 +4831,8 @@
       "icons": [
         "./logopag.webp"
       ],
-      "wordCount": 488,
-      "bytes": 24543,
+      "wordCount": 515,
+      "bytes": 24680,
       "url": "https://cerrajeriaquito.site/puertasGaraje",
       "file": "puertasGaraje.html",
       "mtime": "2026-09-11"

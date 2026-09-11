@@ -440,6 +440,16 @@
       "description": "FAQ nueva (JSON-LD FAQPage + details visible): ¿Qué cubierta se pone sobre una estructura metálica para techo? (galvalume, teja metálica, policarbonato).",
       "before": null,
       "after": null
+    },
+    {
+      "id": "mtximzb1",
+      "date": "2026-09-11",
+      "url": "https://cerrajeriaquito.site/puertasGaraje",
+      "type": "contenido",
+      "track": "optimizacion",
+      "description": "Precio corregido: el minimo real de un porton es $750 (modelos basicos), no $850 — confirmado por Kennet el 11 sep. Cambiado en title, description, og:title/og:description, Offer.price, FAQ del JSON-LD, FAQ visible y lista de ventajas, con la formula 'desde $750 en los modelos basicos, y suben a $800 o $850 segun el diseno'. Las 8 fichas duplicadas ya muestran su precio ($750-$3.000, los mismos de /puertas).",
+      "before": "Portones desde $850",
+      "after": "Portones desde $750"
     }
   ]
 }

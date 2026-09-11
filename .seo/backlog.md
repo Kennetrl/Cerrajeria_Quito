@@ -555,12 +555,15 @@ reales por ahora; sin página nueva esta semana.
    nombre descriptivo + `Ref. N#`.
 4. `/remodelaciones` **ya enlazaba** a `/estructurasMetalicas`: no se toca.
 
-**Pendiente de Kennet — contradicción de precio de garaje:** `/puertasGaraje` dice
-«desde $850» (texto, FAQ, `Offer` y ahora el title), pero `/puertas` marca portones
-a **$750 (N14)** y **$800** (N22, N34, N35, N48, N49). Las 8 fichas copiadas van
-**sin precio** hasta que confirme cuál vale. Si el mínimo real es $750, hay que
-cambiar el «desde» en 5 sitios de `/puertasGaraje`; si es $850, corregir las 6
-fichas de `/puertas`.
+**Resuelto el mismo día — precio de garaje:** Kennet confirma que **el mínimo real
+es $750** («las básicas»), y que $800 y $850 dependen sobre todo del diseño. El
+«desde $850» de `/puertasGaraje` estaba mal. Corregido en los 9 sitios (title,
+description, `og:`, `Offer.price`, FAQ del JSON-LD, FAQ visible y la lista de
+ventajas), con la fórmula «desde $750 en los modelos básicos, y suben a $800 o
+$850 según el diseño». Las 8 fichas copiadas **ya llevan el precio de `/puertas`**
+($750–$3.000). Nota de mantenimiento: esos precios están ahora en dos archivos
+(`puertas.html` y `puertasGaraje.html`); si cambia uno, hay que cambiar el otro —
+queda avisado en un comentario HTML dentro de la galería.
 
 **Grupo de control esta semana:** `/ventanas`, `/alucobond`, `/escaleras`,
 `/pasamanos-acero-inoxidable`, `/remodelaciones`, home, y `/puertas` salvo los
